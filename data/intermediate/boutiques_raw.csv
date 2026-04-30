@@ -1,0 +1,1206 @@
+center_name,center_slug,country,boutique_name,status,has_deals,boutique_path
+Val d'Europe,val-d-europe,France,ACUITIS,Ouvert,True,/boutiques-restaurants/acuitis
+Val d'Europe,val-d-europe,France,Activate,Fermé,False,/boutiques-restaurants/activate
+Val d'Europe,val-d-europe,France,Axess,Ouvert,True,/boutiques-restaurants/axess
+Val d'Europe,val-d-europe,France,Auchan,Ouvert,False,/boutiques-restaurants/auchan
+Val d'Europe,val-d-europe,France,Aubade,Ouvert,True,/boutiques-restaurants/aubade
+Val d'Europe,val-d-europe,France,Atol,Ouvert,True,/boutiques-restaurants/atol
+Val d'Europe,val-d-europe,France,Aroma-Zone,Ouvert,False,/boutiques-restaurants/aroma-zone
+Val d'Europe,val-d-europe,France,Armand Thiery Homme,Ouvert,False,/boutiques-restaurants/armand-thiery-homme
+Val d'Europe,val-d-europe,France,Armand Thiery Femme,Ouvert,False,/boutiques-restaurants/armand-thiery-femme
+Val d'Europe,val-d-europe,France,Aquarium Sea Life,Ouvert,True,/boutiques-restaurants/aquarium-sea-life
+Val d'Europe,val-d-europe,France,Apple Store,Ouvert,False,/boutiques-restaurants/apple-store
+Val d'Europe,val-d-europe,France,adidas,Ouvert,True,/boutiques-restaurants/adidas
+Val d'Europe,val-d-europe,France,Balaboosté,Ouvert,True,/boutiques-restaurants/balabooste
+Val d'Europe,val-d-europe,France,BRENDY'S CAFÉ,Ouvert,True,/boutiques-restaurants/brendy-s-caf
+Val d'Europe,val-d-europe,France,BEXLEY,Ouvert,False,/boutiques-restaurants/bexley
+Val d'Europe,val-d-europe,France,Bonobo Jeans,Ouvert,True,/boutiques-restaurants/bonobo-jeans
+Val d'Europe,val-d-europe,France,Brioche Dorée - Les terrasses,Ouvert,False,/boutiques-restaurants/brioche-doree-les-terrasses
+Val d'Europe,val-d-europe,France,Brioche Dorée,Ouvert,False,/boutiques-restaurants/brioche-doree
+Val d'Europe,val-d-europe,France,Big Fernand,Ouvert,True,/boutiques-restaurants/big-fernand
+Val d'Europe,val-d-europe,France,Baboo Tea,Ouvert,False,/boutiques-restaurants/baboo-tea
+Val d'Europe,val-d-europe,France,Bouygues Telecom,Ouvert,False,/boutiques-restaurants/bouygues-telecom
+Val d'Europe,val-d-europe,France,Boutique de la Vape,Ouvert,False,/boutiques-restaurants/boutique-de-la-vape
+Val d'Europe,val-d-europe,France,Borromée Joaillier,Ouvert,True,/boutiques-restaurants/borromee-joaillier
+Val d'Europe,val-d-europe,France,Body Minute,Ouvert,False,/boutiques-restaurants/body-minute
+Val d'Europe,val-d-europe,France,BioTech USA,Ouvert,False,/boutiques-restaurants/biotechusa
+Val d'Europe,val-d-europe,France,Bershka,Ouvert,False,/boutiques-restaurants/bershka
+Val d'Europe,val-d-europe,France,Cigusto,Ouvert,False,/boutiques-restaurants/point-smoke
+Val d'Europe,val-d-europe,France,Chikin Bang,Ouvert,False,/boutiques-restaurants/chikin-bang
+Val d'Europe,val-d-europe,France,Crep'eat,Ouvert,False,/boutiques-restaurants/creap-eat
+Val d'Europe,val-d-europe,France,Courir,Ouvert,True,/boutiques-restaurants/courir
+Val d'Europe,val-d-europe,France,Cordonnerie multiservices,Ouvert,False,/boutiques-restaurants/cordonnerie
+Val d'Europe,val-d-europe,France,Cleor,Ouvert,False,/boutiques-restaurants/cleor
+Val d'Europe,val-d-europe,France,Claire's,Ouvert,False,/boutiques-restaurants/claire-s
+Val d'Europe,val-d-europe,France,Chantelle,Ouvert,True,/boutiques-restaurants/chantelle
+Val d'Europe,val-d-europe,France,Celio Club,Ouvert,False,/boutiques-restaurants/celio-club
+Val d'Europe,val-d-europe,France,Celio,Ouvert,False,/boutiques-restaurants/celio
+Val d'Europe,val-d-europe,France,Carré Blanc,Ouvert,False,/boutiques-restaurants/carre-blanc
+Val d'Europe,val-d-europe,France,Caroll,Ouvert,False,/boutiques-restaurants/caroll
+Val d'Europe,val-d-europe,France,Cap'Tonic,Ouvert,False,/boutiques-restaurants/cap-tonic
+Val d'Europe,val-d-europe,France,Calzedonia,Ouvert,False,/boutiques-restaurants/calzedonia
+Val d'Europe,val-d-europe,France,Café coton,Ouvert,False,/boutiques-restaurants/cafe-coton
+Val d'Europe,val-d-europe,France,Cabaïa,Ouvert,False,/boutiques-restaurants/cabaia
+Val d'Europe,val-d-europe,France,Dunkin',Ouvert,False,/boutiques-restaurants/dunkin
+Val d'Europe,val-d-europe,France,Draeger,Ouvert,True,/boutiques-restaurants/draeger
+Val d'Europe,val-d-europe,France,DEVRED,Ouvert,False,/boutiques-restaurants/devred
+Val d'Europe,val-d-europe,France,Desigual,Ouvert,False,/boutiques-restaurants/desigual
+Val d'Europe,val-d-europe,France,Ephemera - Wonderwoods,Ouvert,False,/boutiques-restaurants/wonderwoods
+Val d'Europe,val-d-europe,France,Etam Lingerie,Ouvert,False,/boutiques-restaurants/etam-lingerie
+Val d'Europe,val-d-europe,France,FOODZILLA,Ouvert,True,/boutiques-restaurants/foodzilla
+Val d'Europe,val-d-europe,France,FATHER & SONS,Ouvert,False,/boutiques-restaurants/father-and-sons
+Val d'Europe,val-d-europe,France,Foot Locker,Ouvert,False,/boutiques-restaurants/foot-locker
+Val d'Europe,val-d-europe,France,Fort Boyard Aventures,Ouvert,False,/boutiques-restaurants/fort-boyard-aventures
+Val d'Europe,val-d-europe,France,Factory & Co,Ouvert,False,/boutiques-restaurants/factory-co
+Val d'Europe,val-d-europe,France,Free,Ouvert,True,/boutiques-restaurants/free
+Val d'Europe,val-d-europe,France,Franck Provost,Ouvert,True,/boutiques-restaurants/franck-provost
+Val d'Europe,val-d-europe,France,FNAC,Ouvert,False,/boutiques-restaurants/fnac
+Val d'Europe,val-d-europe,France,Finsbury,Ouvert,False,/boutiques-restaurants/finsbury
+Val d'Europe,val-d-europe,France,Falconeri,Ouvert,False,/boutiques-restaurants/falconeri
+Val d'Europe,val-d-europe,France,GrandOptical,Ouvert,True,/boutiques-restaurants/grandoptical
+Val d'Europe,val-d-europe,France,Générale d'Optique,Ouvert,True,/boutiques-restaurants/generale-d-optique
+Val d'Europe,val-d-europe,France,GEOX,Ouvert,False,/boutiques-restaurants/geox
+Val d'Europe,val-d-europe,France,Havaianas,Ouvert,False,/boutiques-restaurants/havaianas-val-d-europe
+Val d'Europe,val-d-europe,France,Hokkaïdo,Ouvert,False,/boutiques-restaurants/hokka-do
+Val d'Europe,val-d-europe,France,Hippopotamus,Fermé,False,/boutiques-restaurants/hippopotamus
+Val d'Europe,val-d-europe,France,HORACE,Ouvert,False,/boutiques-restaurants/horace
+Val d'Europe,val-d-europe,France,H&M,Ouvert,False,/boutiques-restaurants/h-m
+Val d'Europe,val-d-europe,France,Histoire d'Or,Ouvert,False,/boutiques-restaurants/histoire-d-or
+Val d'Europe,val-d-europe,France,HEMA,Ouvert,False,/boutiques-restaurants/hema
+Val d'Europe,val-d-europe,France,IZAC,Ouvert,True,/boutiques-restaurants/izac
+Val d'Europe,val-d-europe,France,It Restaurant,Ouvert,False,/boutiques-restaurants/it-restaurant
+Val d'Europe,val-d-europe,France,Indiana Café,Ouvert,True,/boutiques-restaurants/indiana-cafe
+Val d'Europe,val-d-europe,France,Illy,Ouvert,False,/boutiques-restaurants/illy
+Val d'Europe,val-d-europe,France,Italian Queen,Ouvert,False,/boutiques-restaurants/italian-queen
+Val d'Europe,val-d-europe,France,Intimissimi,Ouvert,False,/boutiques-restaurants/intimissimi
+Val d'Europe,val-d-europe,France,Intersport,Ouvert,False,/boutiques-restaurants/intersport
+Val d'Europe,val-d-europe,France,Jack&Jones,Ouvert,False,/boutiques-restaurants/jack-jones
+Val d'Europe,val-d-europe,France,JD Sports,Ouvert,False,/boutiques-restaurants/jd-sports
+Val d'Europe,val-d-europe,France,Jules,Ouvert,False,/boutiques-restaurants/jules
+Val d'Europe,val-d-europe,France,JOTT,Ouvert,False,/boutiques-restaurants/jott
+Val d'Europe,val-d-europe,France,Jeff de Bruges,Ouvert,True,/boutiques-restaurants/jeff-de-bruges
+Val d'Europe,val-d-europe,France,Jean-Louis David,Ouvert,True,/boutiques-restaurants/jean-louis-david
+Val d'Europe,val-d-europe,France,Kusmi Tea,Ouvert,True,/boutiques-restaurants/kusmi-tea
+Val d'Europe,val-d-europe,France,KO Jump,Ouvert,False,/boutiques-restaurants/ko-jump
+Val d'Europe,val-d-europe,France,Krispy Kreme,Ouvert,False,/boutiques-restaurants/krispy-kreme
+Val d'Europe,val-d-europe,France,KIKO Milano,Ouvert,False,/boutiques-restaurants/kiko-cosmetics
+Val d'Europe,val-d-europe,France,Kiabi,Ouvert,False,/boutiques-restaurants/kiabi
+Val d'Europe,val-d-europe,France,Les Georgettes,Ouvert,False,/boutiques-restaurants/les-georgettes
+Val d'Europe,val-d-europe,France,Le petit Souk,Ouvert,False,/boutiques-restaurants/le-petit-souk
+Val d'Europe,val-d-europe,France,LA CASA DE LAS CARCASAS,Ouvert,False,/boutiques-restaurants/la-casa-de-las-carcasas
+Val d'Europe,val-d-europe,France,L'Atelier d'Amaya,Ouvert,False,/boutiques-restaurants/l-atelier-d-amaya
+Val d'Europe,val-d-europe,France,La Cantine Libanaise,Ouvert,False,/boutiques-restaurants/la-cantine-libanaise
+Val d'Europe,val-d-europe,France,Legami,Ouvert,False,/boutiques-restaurants/legami
+Val d'Europe,val-d-europe,France,Le Paradis du fruit,Ouvert,False,/boutiques-restaurants/le-paradis-du-fruit
+Val d'Europe,val-d-europe,France,Le Noëlie,Ouvert,False,/boutiques-restaurants/le-noelie
+Val d'Europe,val-d-europe,France,Le Dragon d'Europe,Ouvert,False,/boutiques-restaurants/le-dragon-d-europe
+Val d'Europe,val-d-europe,France,La Fabrique Cookies,Ouvert,False,/boutiques-restaurants/la-fabrique-cookies
+Val d'Europe,val-d-europe,France,LUSH,Ouvert,False,/boutiques-restaurants/lush
+Val d'Europe,val-d-europe,France,Lovisa,Ouvert,False,/boutiques-restaurants/lovisa
+Val d'Europe,val-d-europe,France,Louis Pion,Ouvert,False,/boutiques-restaurants/louis-pion
+Val d'Europe,val-d-europe,France,Lidl,Ouvert,False,/boutiques-restaurants/lidl
+Val d'Europe,val-d-europe,France,Levi's Store,Ouvert,False,/boutiques-restaurants/levi-s-store
+Val d'Europe,val-d-europe,France,Le Tanneur,Ouvert,False,/boutiques-restaurants/le-tanneur
+Val d'Europe,val-d-europe,France,Le bar à ongles EDESIA,Ouvert,True,/boutiques-restaurants/le-bar-a-ongles
+Val d'Europe,val-d-europe,France,La Chaise Longue,Ouvert,False,/boutiques-restaurants/la-chaise-longue
+Val d'Europe,val-d-europe,France,La Boutique du Coiffeur,Ouvert,True,/boutiques-restaurants/la-boutique-du-coiffeur
+Val d'Europe,val-d-europe,France,Mc donald's rez de chaussée,Ouvert,False,/boutiques-restaurants/mc-donald-s-niv-1
+Val d'Europe,val-d-europe,France,MATY,Ouvert,False,/boutiques-restaurants/maty
+Val d'Europe,val-d-europe,France,Morgan,Ouvert,False,/boutiques-restaurants/morgan
+Val d'Europe,val-d-europe,France,Maison XXL,Ouvert,False,/boutiques-restaurants/maison-xxl
+Val d'Europe,val-d-europe,France,Mokka,Ouvert,False,/boutiques-restaurants/mokka
+Val d'Europe,val-d-europe,France,Melezim,Ouvert,False,/boutiques-restaurants/melezim
+Val d'Europe,val-d-europe,France,Mc donald's Zone restauration,Ouvert,False,/boutiques-restaurants/mc-donald-s-niv-0
+Val d'Europe,val-d-europe,France,McCafé,Ouvert,False,/boutiques-restaurants/mccafe
+Val d'Europe,val-d-europe,France,Mangos,Ouvert,False,/boutiques-restaurants/mangos
+Val d'Europe,val-d-europe,France,My Pop Paradise,Ouvert,True,/boutiques-restaurants/my-pop-paradise
+Val d'Europe,val-d-europe,France,Mulligan,Ouvert,False,/boutiques-restaurants/mulligan
+Val d'Europe,val-d-europe,France,Micromania,Ouvert,False,/boutiques-restaurants/micromania
+Val d'Europe,val-d-europe,France,Mauboussin,Ouvert,True,/boutiques-restaurants/mauboussin
+Val d'Europe,val-d-europe,France,Marc Orian,Ouvert,True,/boutiques-restaurants/marc-orian
+Val d'Europe,val-d-europe,France,Mango,Ouvert,False,/boutiques-restaurants/mango
+Val d'Europe,val-d-europe,France,Manège,Ouvert,True,/boutiques-restaurants/manege
+Val d'Europe,val-d-europe,France,Maison 123,Ouvert,False,/boutiques-restaurants/maison-1-2-3
+Val d'Europe,val-d-europe,France,MAC Cosmetics,Ouvert,False,/boutiques-restaurants/mac-cosmetics
+Val d'Europe,val-d-europe,France,Narh Paris,Ouvert,False,/boutiques-restaurants/narh-paris
+Val d'Europe,val-d-europe,France,NYX Cosmetics,Ouvert,False,/boutiques-restaurants/nyx-cosmetics
+Val d'Europe,val-d-europe,France,Normal,Ouvert,False,/boutiques-restaurants/normal
+Val d'Europe,val-d-europe,France,Nocibé,Ouvert,False,/boutiques-restaurants/nocibe
+Val d'Europe,val-d-europe,France,Nin&Laur,Ouvert,False,/boutiques-restaurants/nin-laur
+Val d'Europe,val-d-europe,France,Nike Store,Ouvert,False,/boutiques-restaurants/nike-store
+Val d'Europe,val-d-europe,France,Nespresso,Ouvert,False,/boutiques-restaurants/nespresso
+Val d'Europe,val-d-europe,France,Okaïdi - Obaïbi,Ouvert,False,/boutiques-restaurants/okaidi-obaibi
+Val d'Europe,val-d-europe,France,Oh Nata,Ouvert,False,/boutiques-restaurants/oh-nata
+Val d'Europe,val-d-europe,France,ONLY,Ouvert,False,/boutiques-restaurants/only
+Val d'Europe,val-d-europe,France,Orange France Telecom,Ouvert,False,/boutiques-restaurants/orange-france-telecom
+Val d'Europe,val-d-europe,France,OB9 barber’s signature,Ouvert,True,/boutiques-restaurants/ob9-barber-s-signature
+Val d'Europe,val-d-europe,France,Pandora Store,Ouvert,False,/boutiques-restaurants/pandora-store
+Val d'Europe,val-d-europe,France,Passage du désir,Ouvert,False,/boutiques-restaurants/passage-du-desir
+Val d'Europe,val-d-europe,France,Parfois,Ouvert,False,/boutiques-restaurants/parfois
+Val d'Europe,val-d-europe,France,Pharmacie Val d'Europe,Ouvert,False,/boutiques-restaurants/pharmacie-val-deurope
+Val d'Europe,val-d-europe,France,Palais des thés,Ouvert,False,/boutiques-restaurants/palais-des-th-s
+Val d'Europe,val-d-europe,France,pokawa,Ouvert,False,/boutiques-restaurants/pokawa
+Val d'Europe,val-d-europe,France,Primark,Ouvert,False,/boutiques-restaurants/primark
+Val d'Europe,val-d-europe,France,Pamko,Ouvert,False,/boutiques-restaurants/pamko
+Val d'Europe,val-d-europe,France,Pull & Bear,Ouvert,False,/boutiques-restaurants/pull-bear
+Val d'Europe,val-d-europe,France,Promovacances,Ouvert,True,/boutiques-restaurants/promo-vacances
+Val d'Europe,val-d-europe,France,Promod,Ouvert,False,/boutiques-restaurants/promod
+Val d'Europe,val-d-europe,France,Photomaton,Ouvert,False,/boutiques-restaurants/photomaton
+Val d'Europe,val-d-europe,France,Quick,Ouvert,False,/boutiques-restaurants/quick
+Val d'Europe,val-d-europe,France,Rendel,Ouvert,True,/boutiques-restaurants/rendel
+Val d'Europe,val-d-europe,France,Rituals,Ouvert,False,/boutiques-restaurants/rituals
+Val d'Europe,val-d-europe,France,Roche Bobois,Ouvert,False,/boutiques-restaurants/roche-bobois
+Val d'Europe,val-d-europe,France,Ristorante Del Arte,Ouvert,True,/boutiques-restaurants/ristorante-del-arte
+Val d'Europe,val-d-europe,France,SKECHERS®,Ouvert,False,/boutiques-restaurants/skechers
+Val d'Europe,val-d-europe,France,Sephora,Ouvert,False,/boutiques-restaurants/sephora
+Val d'Europe,val-d-europe,France,Speed Park,Ouvert,False,/boutiques-restaurants/speed-park
+Val d'Europe,val-d-europe,France,Starbucks - Porte de la gare,Ouvert,False,/boutiques-restaurants/starbucks--gare
+Val d'Europe,val-d-europe,France,Swarovski,Ouvert,False,/boutiques-restaurants/swarovski
+Val d'Europe,val-d-europe,France,Stradivarius,Ouvert,False,/boutiques-restaurants/stradivarius
+Val d'Europe,val-d-europe,France,Springfield,Ouvert,False,/boutiques-restaurants/springfield
+Val d'Europe,val-d-europe,France,SNIPES,Ouvert,False,/boutiques-restaurants/snipes
+Val d'Europe,val-d-europe,France,SFR,Ouvert,True,/boutiques-restaurants/sfr
+Val d'Europe,val-d-europe,France,Sergent Major,Ouvert,False,/boutiques-restaurants/sergent-major
+Val d'Europe,val-d-europe,France,Sac O Val,Ouvert,False,/boutiques-restaurants/sac-o-val
+Val d'Europe,val-d-europe,France,Sabon,Ouvert,True,/boutiques-restaurants/sabon
+Val d'Europe,val-d-europe,France,Starbucks,Ouvert,False,/boutiques-restaurants/starbucks
+Val d'Europe,val-d-europe,France,TEMA'S CAKE,Ouvert,False,/boutiques-restaurants/tema-s-cake
+Val d'Europe,val-d-europe,France,Tortilla,Ouvert,False,/boutiques-restaurants/tortilla
+Val d'Europe,val-d-europe,France,Tezenis,Ouvert,False,/boutiques-restaurants/tezenis
+Val d'Europe,val-d-europe,France,Tabac Nuage et Plume,Ouvert,False,/boutiques-restaurants/tabac-nuage-et-plume
+Val d'Europe,val-d-europe,France,Uniqlo,Ouvert,False,/boutiques-restaurants/uniqlo
+Val d'Europe,val-d-europe,France,Undiz,Ouvert,False,/boutiques-restaurants/undiz
+Val d'Europe,val-d-europe,France,Victoria's Secret,Ouvert,False,/boutiques-restaurants/victorias-secret
+Val d'Europe,val-d-europe,France,Veng Hour,Ouvert,False,/boutiques-restaurants/veng-hour
+Val d'Europe,val-d-europe,France,We Dough,Ouvert,False,/boutiques-restaurants/we-daugh
+Val d'Europe,val-d-europe,France,YU BAN,Ouvert,False,/boutiques-restaurants/yu-ban
+Val d'Europe,val-d-europe,France,Yves Rocher,Ouvert,True,/boutiques-restaurants/yves-rocher
+Val d'Europe,val-d-europe,France,Yogurt Factory,Ouvert,True,/boutiques-restaurants/yogurt-factory
+Val d'Europe,val-d-europe,France,Zara,Ouvert,False,/boutiques-restaurants/zara
+Val d'Europe,val-d-europe,France,Zing Pop Culture,Ouvert,False,/boutiques-restaurants/zing-pop-culture
+Créteil Soleil,creteil-soleil,France,5 A SEC,Ouvert,True,/boutiques-restaurants/5-a-sec
+Créteil Soleil,creteil-soleil,France,ADJ,Ouvert,False,/boutiques-restaurants/adj
+Créteil Soleil,creteil-soleil,France,ADIDAS,Ouvert,True,/boutiques-restaurants/adidas
+Créteil Soleil,creteil-soleil,France,AMORINO,Ouvert,True,/boutiques-restaurants/amorino
+Créteil Soleil,creteil-soleil,France,AUTOCLEAN EXPRESS,Ouvert,True,/boutiques-restaurants/autoclean
+Créteil Soleil,creteil-soleil,France,AUDIO POUR TOUS,Ouvert,True,/boutiques-restaurants/audio-pour-tous
+Créteil Soleil,creteil-soleil,France,ATOL MON OPTICIEN,Ouvert,False,/boutiques-restaurants/atol
+Créteil Soleil,creteil-soleil,France,AROMA-ZONE,Ouvert,False,/boutiques-restaurants/aromazone
+Créteil Soleil,creteil-soleil,France,ARMAND THIERY HOMME,Ouvert,False,/boutiques-restaurants/armand-thiery-homme
+Créteil Soleil,creteil-soleil,France,ARMAND THIERY FEMME,Ouvert,False,/boutiques-restaurants/armand-thiery-femme
+Créteil Soleil,creteil-soleil,France,ANTONELLE,Ouvert,False,/boutiques-restaurants/antonelle
+Créteil Soleil,creteil-soleil,France,ALAIN AFFLELOU,Ouvert,False,/boutiques-restaurants/alain-afflelou
+Créteil Soleil,creteil-soleil,France,ADOPT',Ouvert,True,/boutiques-restaurants/adopt
+Créteil Soleil,creteil-soleil,France,BALABOOSTE,Ouvert,True,/boutiques-restaurants/balabooste
+Créteil Soleil,creteil-soleil,France,BIJOU BRIGITTE,Ouvert,False,/boutiques-restaurants/bijou-brigitte
+Créteil Soleil,creteil-soleil,France,BLEU CERISE,Ouvert,False,/boutiques-restaurants/bleu-cerise
+Créteil Soleil,creteil-soleil,France,BEL CHOU'S,Ouvert,False,/boutiques-restaurants/bel-chous
+Créteil Soleil,creteil-soleil,France,BODY MINUTE,Ouvert,False,/boutiques-restaurants/body-nail-hair-minute
+Créteil Soleil,creteil-soleil,France,BEXLEY,Ouvert,False,/boutiques-restaurants/bexley
+Créteil Soleil,creteil-soleil,France,BURGER KING,Ouvert,False,/boutiques-restaurants/burger-king
+Créteil Soleil,creteil-soleil,France,BRIOCHE DORÉE (PORTE 23),Ouvert,False,/boutiques-restaurants/brioche-doree-porte-23
+Créteil Soleil,creteil-soleil,France,BRIOCHE DORÉE (PORTE 11),Ouvert,False,/boutiques-restaurants/brioche-doree-porte-17
+Créteil Soleil,creteil-soleil,France,BRIOCHE DORÉE (PORTE 14),Ouvert,False,/boutiques-restaurants/brioche-doree-porte-14
+Créteil Soleil,creteil-soleil,France,BRENDY'S CAFÉ,Ouvert,True,/boutiques-restaurants/brendyscafe
+Créteil Soleil,creteil-soleil,France,BLACK AND WHITE BURGER,Ouvert,False,/boutiques-restaurants/black-and-white-burger
+Créteil Soleil,creteil-soleil,France,BABOO TEA,Ouvert,False,/boutiques-restaurants/baboo-tea
+Créteil Soleil,creteil-soleil,France,BABECO,Ouvert,False,/boutiques-restaurants/babeco
+Créteil Soleil,creteil-soleil,France,BRED - BANQUE POPULAIRE,Ouvert,False,/boutiques-restaurants/bred
+Créteil Soleil,creteil-soleil,France,BOUYGUES TELECOM,Ouvert,False,/boutiques-restaurants/bouygues-telecom
+Créteil Soleil,creteil-soleil,France,BNP PARIBAS,Ouvert,True,/boutiques-restaurants/bnp-paribas
+Créteil Soleil,creteil-soleil,France,BLEU LIBELLULE,Ouvert,False,/boutiques-restaurants/bleu-libellule
+Créteil Soleil,creteil-soleil,France,BIOTECH,Ouvert,False,/boutiques-restaurants/biotech
+Créteil Soleil,creteil-soleil,France,BERSHKA,Ouvert,False,/boutiques-restaurants/bershka
+Créteil Soleil,creteil-soleil,France,BEAUTY QUEEN,Ouvert,False,/boutiques-restaurants/beauty-queen
+Créteil Soleil,creteil-soleil,France,Chik'Chill,Ouvert,False,/boutiques-restaurants/chick-chill
+Créteil Soleil,creteil-soleil,France,Chaussea,Ouvert,False,/boutiques-restaurants/chaussea
+Créteil Soleil,creteil-soleil,France,C&A,Ouvert,False,/boutiques-restaurants/c-a
+Créteil Soleil,creteil-soleil,France,CRÊPE TOUCH,Ouvert,True,/boutiques-restaurants/crepetouch
+Créteil Soleil,creteil-soleil,France,CAROLL,Ouvert,False,/boutiques-restaurants/caroll
+Créteil Soleil,creteil-soleil,France,CLEOR,Ouvert,False,/boutiques-restaurants/cleor
+Créteil Soleil,creteil-soleil,France,CARREFOUR,Ouvert,False,/boutiques-restaurants/carrefour
+Créteil Soleil,creteil-soleil,France,CIGUSTO,Ouvert,False,/boutiques-restaurants/cigusto
+Créteil Soleil,creteil-soleil,France,CYRILLUS,Ouvert,False,/boutiques-restaurants/cyrillus
+Créteil Soleil,creteil-soleil,France,COURIR,Ouvert,False,/boutiques-restaurants/courir
+Créteil Soleil,creteil-soleil,France,CLAIRE'S,Ouvert,False,/boutiques-restaurants/claire-s
+Créteil Soleil,creteil-soleil,France,CIC,Ouvert,False,/boutiques-restaurants/cic
+Créteil Soleil,creteil-soleil,France,CELIO,Ouvert,False,/boutiques-restaurants/celio
+Créteil Soleil,creteil-soleil,France,CARREFOUR VOYAGES,Ouvert,False,/boutiques-restaurants/carrefour-voyages
+Créteil Soleil,creteil-soleil,France,CALZEDONIA,Ouvert,False,/boutiques-restaurants/calzedonia
+Créteil Soleil,creteil-soleil,France,DU BRUIT DANS LA CUISINE,Ouvert,False,/boutiques-restaurants/du-bruit-dans-la-cuisine
+Créteil Soleil,creteil-soleil,France,DRAEGER,Ouvert,False,/boutiques-restaurants/draeger
+Créteil Soleil,creteil-soleil,France,DEVRED,Ouvert,False,/boutiques-restaurants/devred
+Créteil Soleil,creteil-soleil,France,DEICHMANN,Ouvert,False,/boutiques-restaurants/deichmann
+Créteil Soleil,creteil-soleil,France,DARTY,Ouvert,False,/boutiques-restaurants/darty
+Créteil Soleil,creteil-soleil,France,DARJEELING,Ouvert,True,/boutiques-restaurants/darjeeling
+Créteil Soleil,creteil-soleil,France,EXO SOLEIL,Ouvert,False,/boutiques-restaurants/exo-soleil
+Créteil Soleil,creteil-soleil,France,ENCRE SERVICE,Ouvert,False,/boutiques-restaurants/encore-service
+Créteil Soleil,creteil-soleil,France,ELITE CLUB,Ouvert,False,/boutiques-restaurants/elite-club
+Créteil Soleil,creteil-soleil,France,EDJI,Ouvert,False,/boutiques-restaurants/edji
+Créteil Soleil,creteil-soleil,France,ESPACE SFR (NIVEAU 2),Ouvert,True,/boutiques-restaurants/sfr-niv2
+Créteil Soleil,creteil-soleil,France,ESPACE SFR (NIVEAU 1),Ouvert,True,/boutiques-restaurants/sfr-niv1
+Créteil Soleil,creteil-soleil,France,EVERWOOD,Ouvert,False,/boutiques-restaurants/everwood
+Créteil Soleil,creteil-soleil,France,ETAM,Ouvert,False,/boutiques-restaurants/etam
+Créteil Soleil,creteil-soleil,France,FIVE GUYS,Ouvert,False,/boutiques-restaurants/five-guys
+Créteil Soleil,creteil-soleil,France,FREE,Ouvert,True,/boutiques-restaurants/free
+Créteil Soleil,creteil-soleil,France,FRANCK PROVOST,Ouvert,True,/boutiques-restaurants/franck-provost
+Créteil Soleil,creteil-soleil,France,FOOT LOCKER,Ouvert,False,/boutiques-restaurants/foot-locker
+Créteil Soleil,creteil-soleil,France,FOOTKORNER,Ouvert,False,/boutiques-restaurants/footkorner
+Créteil Soleil,creteil-soleil,France,FNAC,Ouvert,False,/boutiques-restaurants/fnac
+Créteil Soleil,creteil-soleil,France,FITNESS PARK,Ouvert,True,/boutiques-restaurants/fitness-park
+Créteil Soleil,creteil-soleil,France,FABIO SALSA,Ouvert,False,/boutiques-restaurants/fabio-salsa
+Créteil Soleil,creteil-soleil,France,Gold Service,Ouvert,False,/boutiques-restaurants/gold-service
+Créteil Soleil,creteil-soleil,France,GRAND OPTICAL,Ouvert,True,/boutiques-restaurants/grandoptical
+Créteil Soleil,creteil-soleil,France,GÉNÉRALE D'OPTIQUE,Ouvert,True,/boutiques-restaurants/generale-d-optique
+Créteil Soleil,creteil-soleil,France,GEOX,Ouvert,False,/boutiques-restaurants/geox
+Créteil Soleil,creteil-soleil,France,HISTOIRE D'OR,Ouvert,False,/boutiques-restaurants/histoire-d-or
+Créteil Soleil,creteil-soleil,France,Häagen-Dazs,Ouvert,False,/boutiques-restaurants/h-agen-dazs
+Créteil Soleil,creteil-soleil,France,HIPPOPOTAMUS,Ouvert,False,/boutiques-restaurants/hippopotamus
+Créteil Soleil,creteil-soleil,France,H&M,Ouvert,False,/boutiques-restaurants/h-m
+Créteil Soleil,creteil-soleil,France,HEMA,Ouvert,False,/boutiques-restaurants/hema
+Créteil Soleil,creteil-soleil,France,HARCOURT,Ouvert,False,/boutiques-restaurants/harcourt
+Créteil Soleil,creteil-soleil,France,iServices,Ouvert,False,/boutiques-restaurants/iservices
+Créteil Soleil,creteil-soleil,France,IZAC,Ouvert,True,/boutiques-restaurants/izac
+Créteil Soleil,creteil-soleil,France,INTERSPORT,Ouvert,False,/boutiques-restaurants/intersport
+Créteil Soleil,creteil-soleil,France,IT,Ouvert,False,/boutiques-restaurants/it-trattoria
+Créteil Soleil,creteil-soleil,France,INDIANA CAFÉ,Ouvert,True,/boutiques-restaurants/indiana-cafe
+Créteil Soleil,creteil-soleil,France,IJO,Ouvert,False,/boutiques-restaurants/ijo
+Créteil Soleil,creteil-soleil,France,JD SPORTS,Ouvert,False,/boutiques-restaurants/jd-sports
+Créteil Soleil,creteil-soleil,France,JULES,Ouvert,False,/boutiques-restaurants/jules
+Créteil Soleil,creteil-soleil,France,Jack & Jones,Ouvert,False,/boutiques-restaurants/jack-and-jones
+Créteil Soleil,creteil-soleil,France,JEFF DE BRUGES,Ouvert,True,/boutiques-restaurants/jeff-de-bruges
+Créteil Soleil,creteil-soleil,France,KRISPY KREME,Ouvert,False,/boutiques-restaurants/krispy-kreme
+Créteil Soleil,creteil-soleil,France,KFC,Ouvert,True,/boutiques-restaurants/kfc
+Créteil Soleil,creteil-soleil,France,KRYS,Ouvert,True,/boutiques-restaurants/krys
+Créteil Soleil,creteil-soleil,France,KIKO MILANO,Ouvert,False,/boutiques-restaurants/kiko
+Créteil Soleil,creteil-soleil,France,KIABI,Ouvert,False,/boutiques-restaurants/kiabi
+Créteil Soleil,creteil-soleil,France,LA FABRIQUE COOKIES,Ouvert,False,/boutiques-restaurants/la-fabrique-a-cookies
+Créteil Soleil,creteil-soleil,France,Legami,Ouvert,False,/boutiques-restaurants/legami
+Créteil Soleil,creteil-soleil,France,LA GRANDE RÉCRÉ,Ouvert,True,/boutiques-restaurants/la-grande-recre
+Créteil Soleil,creteil-soleil,France,LA CASA DE LAS CARCASAS,Ouvert,False,/boutiques-restaurants/la-casa-de-las-carcasas
+Créteil Soleil,creteil-soleil,France,LA BOUTIQUE DU COIFFEUR,Ouvert,True,/boutiques-restaurants/la-boutique-du-coiffeur
+Créteil Soleil,creteil-soleil,France,L.A BARBER,Ouvert,False,/boutiques-restaurants/l-a-barber
+Créteil Soleil,creteil-soleil,France,LOLLY'S,Ouvert,False,/boutiques-restaurants/lollys
+Créteil Soleil,creteil-soleil,France,LOS POLLOS,Ouvert,False,/boutiques-restaurants/los-pollos
+Créteil Soleil,creteil-soleil,France,LE PARADIS DU FRUIT,Ouvert,False,/boutiques-restaurants/le-paradis-du-fruit
+Créteil Soleil,creteil-soleil,France,LAL QILA,Ouvert,False,/boutiques-restaurants/lal-qila
+Créteil Soleil,creteil-soleil,France,LA CANTINE LIBANAISE,Ouvert,False,/boutiques-restaurants/la-cantine-libanaise
+Créteil Soleil,creteil-soleil,France,LUNETTES POUR TOUS,Ouvert,False,/boutiques-restaurants/lunettes-pour-tous
+Créteil Soleil,creteil-soleil,France,LOVISA (PORTE 26),Ouvert,True,/boutiques-restaurants/lovisa2
+Créteil Soleil,creteil-soleil,France,LOVISA (PORTE 23),Ouvert,True,/boutiques-restaurants/lovisa
+Créteil Soleil,creteil-soleil,France,LOUIS PION,Ouvert,False,/boutiques-restaurants/louis-pion
+Créteil Soleil,creteil-soleil,France,LISSAC,Ouvert,False,/boutiques-restaurants/lissac
+Créteil Soleil,creteil-soleil,France,LEVI'S,Ouvert,False,/boutiques-restaurants/levi-s
+Créteil Soleil,creteil-soleil,France,LE TEMPS DES CERISES,Ouvert,False,/boutiques-restaurants/le-temps-des-cerises
+Créteil Soleil,creteil-soleil,France,LEONIDAS,Ouvert,True,/boutiques-restaurants/leonidas
+Créteil Soleil,creteil-soleil,France,LEGO,Ouvert,False,/boutiques-restaurants/lego
+Créteil Soleil,creteil-soleil,France,LCL,Ouvert,False,/boutiques-restaurants/lcl
+Créteil Soleil,creteil-soleil,France,LASER GAME EVOLUTION,Fermé,True,/boutiques-restaurants/laser-game-evolution
+Créteil Soleil,creteil-soleil,France,LACOSTE,Ouvert,False,/boutiques-restaurants/lacoste
+Créteil Soleil,creteil-soleil,France,Men's Club,Ouvert,False,/boutiques-restaurants/men-s-club
+Créteil Soleil,creteil-soleil,France,M·A·C,Ouvert,False,/boutiques-restaurants/mac
+Créteil Soleil,creteil-soleil,France,MENSTORE,Ouvert,False,/boutiques-restaurants/menstore
+Créteil Soleil,creteil-soleil,France,MAISON CENT VINGT-TROIS,Ouvert,False,/boutiques-restaurants/maison-cent-vingt-trois
+Créteil Soleil,creteil-soleil,France,MICHEL MAROQUINERIE,Ouvert,False,/boutiques-restaurants/michel-maroquinerie
+Créteil Soleil,creteil-soleil,France,MS MODE,Ouvert,False,/boutiques-restaurants/ms-mode
+Créteil Soleil,creteil-soleil,France,MONCEAU FLEURS,Ouvert,False,/boutiques-restaurants/monceau-fleurs
+Créteil Soleil,creteil-soleil,France,MISTER MINIT,Ouvert,True,/boutiques-restaurants/mister-minit
+Créteil Soleil,creteil-soleil,France,MINISO,Ouvert,False,/boutiques-restaurants/miniso
+Créteil Soleil,creteil-soleil,France,MICROMANIA,Ouvert,False,/boutiques-restaurants/micromania-niveau-2
+Créteil Soleil,creteil-soleil,France,MOMEN'TEA,Ouvert,False,/boutiques-restaurants/momentea
+Créteil Soleil,creteil-soleil,France,MC DONALD'S,Ouvert,False,/boutiques-restaurants/mc-donald-s
+Créteil Soleil,creteil-soleil,France,MC CAFÉ,Ouvert,False,/boutiques-restaurants/mc-cafe
+Créteil Soleil,creteil-soleil,France,MANGOS,Ouvert,False,/boutiques-restaurants/mangos
+Créteil Soleil,creteil-soleil,France,MARIONNAUD,Ouvert,False,/boutiques-restaurants/marionnaud
+Créteil Soleil,creteil-soleil,France,MARC ORIAN,Ouvert,True,/boutiques-restaurants/marc-orian
+Créteil Soleil,creteil-soleil,France,MANGO,Ouvert,False,/boutiques-restaurants/mango
+Créteil Soleil,creteil-soleil,France,MANÈGE,Ouvert,False,/boutiques-restaurants/manege
+Créteil Soleil,creteil-soleil,France,Nin & Laur,Ouvert,False,/boutiques-restaurants/nin---laur
+Créteil Soleil,creteil-soleil,France,NYX PROFESSIONAL MAKEUP,Ouvert,False,/boutiques-restaurants/nyx-professional-makeup
+Créteil Soleil,creteil-soleil,France,NORMAL,Ouvert,False,/boutiques-restaurants/normal
+Créteil Soleil,creteil-soleil,France,NOCIBÉ,Ouvert,False,/boutiques-restaurants/nocibe
+Créteil Soleil,creteil-soleil,France,NIKE,Ouvert,False,/boutiques-restaurants/nike
+Créteil Soleil,creteil-soleil,France,NATURE & DÉCOUVERTES,Ouvert,False,/boutiques-restaurants/nature-decouvertes
+Créteil Soleil,creteil-soleil,France,ONLY,Ouvert,False,/boutiques-restaurants/only
+Créteil Soleil,creteil-soleil,France,Onyxia,Ouvert,False,/boutiques-restaurants/onyxia
+Créteil Soleil,creteil-soleil,France,ORANGE,Ouvert,False,/boutiques-restaurants/orange
+Créteil Soleil,creteil-soleil,France,O'TACOS,Ouvert,False,/boutiques-restaurants/o-tacos
+Créteil Soleil,creteil-soleil,France,PANDORA,Ouvert,False,/boutiques-restaurants/pandora
+Créteil Soleil,creteil-soleil,France,POPEYES,Ouvert,False,/boutiques-restaurants/popeyes
+Créteil Soleil,creteil-soleil,France,Pomme de pain,Ouvert,False,/boutiques-restaurants/pomme-de-pain
+Créteil Soleil,creteil-soleil,France,poltronesofà,Ouvert,False,/boutiques-restaurants/poltronesofa
+Créteil Soleil,creteil-soleil,France,PHARMACIE,Ouvert,False,/boutiques-restaurants/pharmacie
+Créteil Soleil,creteil-soleil,France,PRIMARK,Ouvert,False,/boutiques-restaurants/primark
+Créteil Soleil,creteil-soleil,France,PULL & BEAR,Ouvert,False,/boutiques-restaurants/pull-bear
+Créteil Soleil,creteil-soleil,France,PROMOVACANCES,Ouvert,True,/boutiques-restaurants/promovacances
+Créteil Soleil,creteil-soleil,France,PROMOD,Ouvert,False,/boutiques-restaurants/promod
+Créteil Soleil,creteil-soleil,France,PRIMADONNA COLLECTION,Ouvert,False,/boutiques-restaurants/primadonna
+Créteil Soleil,creteil-soleil,France,POINT SMOKE,Ouvert,False,/boutiques-restaurants/point-smoke
+Créteil Soleil,creteil-soleil,France,PARFOIS,Ouvert,False,/boutiques-restaurants/parfois
+Créteil Soleil,creteil-soleil,France,PITAYA THAI STREET FOOD,Ouvert,True,/boutiques-restaurants/pitaya
+Créteil Soleil,creteil-soleil,France,PAUL (PORTE 17),Ouvert,False,/boutiques-restaurants/paul3
+Créteil Soleil,creteil-soleil,France,PAUL (PORTE 23),Ouvert,False,/boutiques-restaurants/paul2
+Créteil Soleil,creteil-soleil,France,PAUL (PORTE 24),Ouvert,False,/boutiques-restaurants/paul
+Créteil Soleil,creteil-soleil,France,QUICK,Ouvert,True,/boutiques-restaurants/quick
+Créteil Soleil,creteil-soleil,France,RITUALS,Ouvert,False,/boutiques-restaurants/rituals
+Créteil Soleil,creteil-soleil,France,RISTORANTE DEL ARTE,Ouvert,True,/boutiques-restaurants/restaurant-del-arte
+Créteil Soleil,creteil-soleil,France,Smile World,Ouvert,False,/boutiques-restaurants/smile-world
+Créteil Soleil,creteil-soleil,France,SAC AVENUE,Ouvert,True,/boutiques-restaurants/sac-avenue
+Créteil Soleil,creteil-soleil,France,SWAROVSKI,Ouvert,False,/boutiques-restaurants/swarovski
+Créteil Soleil,creteil-soleil,France,STUDIO JULIETTE,Ouvert,False,/boutiques-restaurants/studio-juliette
+Créteil Soleil,creteil-soleil,France,STRADIVARIUS,Ouvert,False,/boutiques-restaurants/stradivarius
+Créteil Soleil,creteil-soleil,France,SPEEDY,Ouvert,False,/boutiques-restaurants/speedy
+Créteil Soleil,creteil-soleil,France,SNIPES,Ouvert,False,/boutiques-restaurants/snipes
+Créteil Soleil,creteil-soleil,France,SERGENT MAJOR,Ouvert,False,/boutiques-restaurants/sergent-major
+Créteil Soleil,creteil-soleil,France,SEPHORA,Ouvert,False,/boutiques-restaurants/sephora
+Créteil Soleil,creteil-soleil,France,Sunnamusk,Ouvert,False,/boutiques-restaurants/sunnamusk
+Créteil Soleil,creteil-soleil,France,SUSHI WAY,Ouvert,False,/boutiques-restaurants/sushi-way
+Créteil Soleil,creteil-soleil,France,SUBWAY,Ouvert,False,/boutiques-restaurants/subway
+Créteil Soleil,creteil-soleil,France,STARBUCKS,Ouvert,False,/boutiques-restaurants/starbucks
+Créteil Soleil,creteil-soleil,France,TRÉSOR (NIVEAU 2),Ouvert,False,/boutiques-restaurants/tresor-niveau-2
+Créteil Soleil,creteil-soleil,France,TRÉSOR (NIVEAU 1),Ouvert,False,/boutiques-restaurants/tresor-niveau-1
+Créteil Soleil,creteil-soleil,France,TOSCANE,Ouvert,False,/boutiques-restaurants/toscane
+Créteil Soleil,creteil-soleil,France,TEZENIS,Ouvert,False,/boutiques-restaurants/tezenis
+Créteil Soleil,creteil-soleil,France,TEEN FASHION,Ouvert,True,/boutiques-restaurants/teen-fashion
+Créteil Soleil,creteil-soleil,France,TABAC,Ouvert,False,/boutiques-restaurants/tabac
+Créteil Soleil,creteil-soleil,France,Tema's Cake,Ouvert,False,/boutiques-restaurants/tema-s-cake
+Créteil Soleil,creteil-soleil,France,THAÏ BASILIC,Ouvert,False,/boutiques-restaurants/thai-basilic
+Créteil Soleil,creteil-soleil,France,UN JOUR AILLEURS,Ouvert,False,/boutiques-restaurants/un-jour-ailleurs
+Créteil Soleil,creteil-soleil,France,UNDIZ,Ouvert,False,/boutiques-restaurants/undiz
+Créteil Soleil,creteil-soleil,France,UGC CINE CITE CRETEIL,Ouvert,True,/boutiques-restaurants/ugc
+Créteil Soleil,creteil-soleil,France,Victoria's Secret,Ouvert,False,/boutiques-restaurants/victoria-s-secret
+Créteil Soleil,creteil-soleil,France,VIB'S,Ouvert,False,/boutiques-restaurants/vib-s
+Créteil Soleil,creteil-soleil,France,VERTBAUDET,Ouvert,False,/boutiques-restaurants/vertbaudet
+Créteil Soleil,creteil-soleil,France,VALEGE,Ouvert,True,/boutiques-restaurants/valege
+Créteil Soleil,creteil-soleil,France,WYCON,Ouvert,False,/boutiques-restaurants/wycon
+Créteil Soleil,creteil-soleil,France,WAFFLE FACTORY,Ouvert,False,/boutiques-restaurants/waffle-factory
+Créteil Soleil,creteil-soleil,France,Xiaomi,Ouvert,False,/boutiques-restaurants/xiaomi
+Créteil Soleil,creteil-soleil,France,YVES ROCHER,Ouvert,True,/boutiques-restaurants/yves-rocher
+Créteil Soleil,creteil-soleil,France,YOGURT FACTORY,Ouvert,False,/boutiques-restaurants/yogurt-factory
+Créteil Soleil,creteil-soleil,France,ZARA,Ouvert,False,/boutiques-restaurants/zara
+Belle Épine,belle-epine,France,Aïgoo,Ouvert,False,/boutiques-restaurants/aigoo
+Belle Épine,belle-epine,France,Armand Thiery Homme,Ouvert,False,/boutiques-restaurants/armand_thierry_homme
+Belle Épine,belle-epine,France,Alain Afflelou,Ouvert,True,/boutiques-restaurants/alain-afflelou
+Belle Épine,belle-epine,France,Adopt',Ouvert,False,/boutiques-restaurants/adopt
+Belle Épine,belle-epine,France,Adidas,Ouvert,False,/boutiques-restaurants/adidas
+Belle Épine,belle-epine,France,Armand Thiery Femme,Ouvert,False,/boutiques-restaurants/armand-thiery
+Belle Épine,belle-epine,France,Alice Pizza,Ouvert,True,/boutiques-restaurants/alice-pizza
+Belle Épine,belle-epine,France,Audio Pour Tous,Ouvert,True,/boutiques-restaurants/audiopourtous
+Belle Épine,belle-epine,France,"ATOL, les opticiens",Ouvert,True,/boutiques-restaurants/atol
+Belle Épine,belle-epine,France,Antonelle,Ouvert,False,/boutiques-restaurants/antonelle
+Belle Épine,belle-epine,France,Bouygues Telecom,Ouvert,False,/boutiques-restaurants/bouygues-telecom
+Belle Épine,belle-epine,France,Body'minute,Ouvert,True,/boutiques-restaurants/body-minute
+Belle Épine,belle-epine,France,Bleu Libellule,Ouvert,False,/boutiques-restaurants/bleu-libellule
+Belle Épine,belle-epine,France,Bleu Cerise,Ouvert,False,/boutiques-restaurants/bleu-cerise
+Belle Épine,belle-epine,France,Biotech USA,Ouvert,False,/boutiques-restaurants/biotech
+Belle Épine,belle-epine,France,Bershka,Ouvert,False,/boutiques-restaurants/bershka
+Belle Épine,belle-epine,France,Belle & Bio,Ouvert,True,/boutiques-restaurants/belle-et-bio
+Belle Épine,belle-epine,France,Bel Chou's,Ouvert,False,/boutiques-restaurants/belchous
+Belle Épine,belle-epine,France,Beach Bowling,Ouvert,False,/boutiques-restaurants/beach-bowling
+Belle Épine,belle-epine,France,Belle Asie,Ouvert,False,/boutiques-restaurants/belle-asie
+Belle Épine,belle-epine,France,Brendy's Café,Ouvert,True,/boutiques-restaurants/brendy-s-caf
+Belle Épine,belle-epine,France,Burger King,Ouvert,False,/boutiques-restaurants/burger-king
+Belle Épine,belle-epine,France,Baboo tea,Ouvert,False,/boutiques-restaurants/chatime
+Belle Épine,belle-epine,France,Cultura,Ouvert,False,/boutiques-restaurants/cultura
+Belle Épine,belle-epine,France,Carrefour,Ouvert,False,/boutiques-restaurants/carrefour
+Belle Épine,belle-epine,France,Caroll,Ouvert,False,/boutiques-restaurants/caroll
+Belle Épine,belle-epine,France,Calzedonia,Ouvert,False,/boutiques-restaurants/calzedonia
+Belle Épine,belle-epine,France,C&A,Ouvert,False,/boutiques-restaurants/c-a
+Belle Épine,belle-epine,France,Crêpe By Crêpe,Ouvert,False,/boutiques-restaurants/creperie-le-dolmen
+Belle Épine,belle-epine,France,Courir,Ouvert,False,/boutiques-restaurants/courir
+Belle Épine,belle-epine,France,CARREFOUR - BANQUE & ASSURANCES,Ouvert,False,/boutiques-restaurants/carrefour_banque
+Belle Épine,belle-epine,France,Cinéma Pathé Gaumont,Ouvert,True,/boutiques-restaurants/pathe-belle-epine
+Belle Épine,belle-epine,France,CIAMT _ Médecine du Travail,Ouvert,False,/boutiques-restaurants/medecine-du-travail
+Belle Épine,belle-epine,France,cleor,Ouvert,False,/boutiques-restaurants/cleor
+Belle Épine,belle-epine,France,Claire's,Ouvert,False,/boutiques-restaurants/claire-s
+Belle Épine,belle-epine,France,Centre Médical & Laboratoire d'Analyses,Ouvert,False,/boutiques-restaurants/centre-medical
+Belle Épine,belle-epine,France,Celio,Ouvert,False,/boutiques-restaurants/celio-niv-1
+Belle Épine,belle-epine,France,Carrefour voyages,Ouvert,False,/boutiques-restaurants/carrefour-voyages
+Belle Épine,belle-epine,France,Devred,Ouvert,False,/boutiques-restaurants/devred
+Belle Épine,belle-epine,France,Darty,Ouvert,False,/boutiques-restaurants/darty
+Belle Épine,belle-epine,France,Darjeeling,Ouvert,True,/boutiques-restaurants/darjeeling
+Belle Épine,belle-epine,France,Dunkin',Ouvert,False,/boutiques-restaurants/dunkin
+Belle Épine,belle-epine,France,DEICHMANN,Ouvert,False,/boutiques-restaurants/deichmann
+Belle Épine,belle-epine,France,DOUBBLE DONUTS,Ouvert,False,/boutiques-restaurants/doubble
+Belle Épine,belle-epine,France,Emy's Café,Ouvert,False,/boutiques-restaurants/emy-s-cafe
+Belle Épine,belle-epine,France,Eden park,Ouvert,False,/boutiques-restaurants/eden-park
+Belle Épine,belle-epine,France,Etam Lingerie,Ouvert,True,/boutiques-restaurants/etam-lingerie
+Belle Épine,belle-epine,France,Eram,Ouvert,False,/boutiques-restaurants/eram
+Belle Épine,belle-epine,France,Fratellini,Ouvert,True,/boutiques-restaurants/fratellini
+Belle Épine,belle-epine,France,Flunch,Ouvert,True,/boutiques-restaurants/flunch
+Belle Épine,belle-epine,France,Finsbury,Ouvert,False,/boutiques-restaurants/finsbury
+Belle Épine,belle-epine,France,Fripe Avenue,Ouvert,False,/boutiques-restaurants/fripe-avenue
+Belle Épine,belle-epine,France,Foot Locker,Ouvert,False,/boutiques-restaurants/foot-locker
+Belle Épine,belle-epine,France,Free,Ouvert,True,/boutiques-restaurants/free
+Belle Épine,belle-epine,France,Franck Provost,Ouvert,False,/boutiques-restaurants/franck-provost
+Belle Épine,belle-epine,France,FootKorner,Ouvert,False,/boutiques-restaurants/footkorner
+Belle Épine,belle-epine,France,Fitness Park,Ouvert,True,/boutiques-restaurants/fitness-park
+Belle Épine,belle-epine,France,GrandOptical,Ouvert,True,/boutiques-restaurants/grandoptical
+Belle Épine,belle-epine,France,Games Centers,Ouvert,False,/boutiques-restaurants/games-centers
+Belle Épine,belle-epine,France,Geox,Ouvert,False,/boutiques-restaurants/geox
+Belle Épine,belle-epine,France,Hippopotamus,Ouvert,False,/boutiques-restaurants/hippopotamus
+Belle Épine,belle-epine,France,Histoire d'Or,Ouvert,False,/boutiques-restaurants/histoire-d-or
+Belle Épine,belle-epine,France,Histoire d'Or,Ouvert,False,/boutiques-restaurants/histoire-d-or-niv-1
+Belle Épine,belle-epine,France,"Helvetica, Mountain Pioneers",Ouvert,False,/boutiques-restaurants/helvetica
+Belle Épine,belle-epine,France,H&M,Ouvert,False,/boutiques-restaurants/h-m
+Belle Épine,belle-epine,France,Happesmoke,Ouvert,False,/boutiques-restaurants/happesmoke
+Belle Épine,belle-epine,France,Izac,Ouvert,True,/boutiques-restaurants/izac
+Belle Épine,belle-epine,France,Iservices,Ouvert,False,/boutiques-restaurants/iservices
+Belle Épine,belle-epine,France,IKKS Women,Ouvert,False,/boutiques-restaurants/ikks-women
+Belle Épine,belle-epine,France,Intersport,Ouvert,False,/boutiques-restaurants/intersport
+Belle Épine,belle-epine,France,Intimissimi,Ouvert,False,/boutiques-restaurants/intimissimi
+Belle Épine,belle-epine,France,Jefe Burger,Ouvert,False,/boutiques-restaurants/jefe-burger
+Belle Épine,belle-epine,France,Jean Louis David,Ouvert,False,/boutiques-restaurants/jean-louis-david
+Belle Épine,belle-epine,France,JD Sports,Ouvert,False,/boutiques-restaurants/jd-sports
+Belle Épine,belle-epine,France,Jules,Ouvert,False,/boutiques-restaurants/jules
+Belle Épine,belle-epine,France,Jeff de Bruges,Ouvert,True,/boutiques-restaurants/jeff-de-bruges
+Belle Épine,belle-epine,France,Kyushu Ramen,Ouvert,False,/boutiques-restaurants/kyushu-ramen
+Belle Épine,belle-epine,France,Krispy Kreme,Ouvert,False,/boutiques-restaurants/krispy-kreme
+Belle Épine,belle-epine,France,KFC,Ouvert,False,/boutiques-restaurants/kfc
+Belle Épine,belle-epine,France,KRYS,Ouvert,True,/boutiques-restaurants/krys
+Belle Épine,belle-epine,France,Kiosque presse,Ouvert,False,/boutiques-restaurants/kiosque-presse
+Belle Épine,belle-epine,France,KIKO Milano,Ouvert,False,/boutiques-restaurants/kiko
+Belle Épine,belle-epine,France,KIABI,Ouvert,False,/boutiques-restaurants/kiabi
+Belle Épine,belle-epine,France,Le Fifties,Ouvert,False,/boutiques-restaurants/le-fifties
+Belle Épine,belle-epine,France,Léon Fish - Brasserie,Ouvert,True,/boutiques-restaurants/leon-de-bruxelles
+Belle Épine,belle-epine,France,Le Paradis du Fruit,Ouvert,False,/boutiques-restaurants/le-paradis-du-fruit
+Belle Épine,belle-epine,France,La Générale d'Optique et Audition,Ouvert,False,/boutiques-restaurants/generale-d-optique
+Belle Épine,belle-epine,France,Lovisa,Ouvert,True,/boutiques-restaurants/lovisa
+Belle Épine,belle-epine,France,Love Tabac,Ouvert,False,/boutiques-restaurants/love-tabac
+Belle Épine,belle-epine,France,Lunicco,Ouvert,False,/boutiques-restaurants/lunicco
+Belle Épine,belle-epine,France,La Casa de las Carcasas,Ouvert,False,/boutiques-restaurants/la-casa-de-las-carcasas
+Belle Épine,belle-epine,France,La fabrique à cookies,Ouvert,False,/boutiques-restaurants/la-fabrique-a-cookies
+Belle Épine,belle-epine,France,L'Atelier Gabriella,Ouvert,False,/boutiques-restaurants/l-atelier-gabriella
+Belle Épine,belle-epine,France,leonidas,Ouvert,True,/boutiques-restaurants/leonidas
+Belle Épine,belle-epine,France,Lunettes pour tous,Ouvert,False,/boutiques-restaurants/lunettes-pour-tous
+Belle Épine,belle-epine,France,Louis Pion,Ouvert,False,/boutiques-restaurants/louis-pion
+Belle Épine,belle-epine,France,Levi's Store,Ouvert,False,/boutiques-restaurants/levi-s-store
+Belle Épine,belle-epine,France,le comptoir de mathilde,Ouvert,False,/boutiques-restaurants/le-comptoir-de-mathilde
+Belle Épine,belle-epine,France,LCL,Ouvert,False,/boutiques-restaurants/lcl
+Belle Épine,belle-epine,France,La Maro,Ouvert,False,/boutiques-restaurants/la-maro
+Belle Épine,belle-epine,France,La Grande Récré,Ouvert,False,/boutiques-restaurants/la-grande-recre
+Belle Épine,belle-epine,France,Lacoste,Ouvert,False,/boutiques-restaurants/lacoste
+Belle Épine,belle-epine,France,La Boutique du Coiffeur,Ouvert,True,/boutiques-restaurants/la-boutique-du-coiffeur
+Belle Épine,belle-epine,France,Mc-café,Ouvert,False,/boutiques-restaurants/mc--cafe
+Belle Épine,belle-epine,France,Mangue Thai,Ouvert,False,/boutiques-restaurants/mangue-thai
+Belle Épine,belle-epine,France,Mc Donald's,Ouvert,False,/boutiques-restaurants/mc-donald-s
+Belle Épine,belle-epine,France,Maisons Pierre,Ouvert,False,/boutiques-restaurants/maisons_pierre
+Belle Épine,belle-epine,France,Manège,Ouvert,True,/boutiques-restaurants/manege
+Belle Épine,belle-epine,France,Manga Story,Ouvert,False,/boutiques-restaurants/manga-story
+Belle Épine,belle-epine,France,muy mucho,Ouvert,True,/boutiques-restaurants/muy-mucho
+Belle Épine,belle-epine,France,MS Mode,Ouvert,False,/boutiques-restaurants/ms-mode
+Belle Épine,belle-epine,France,Morgan,Ouvert,False,/boutiques-restaurants/morgan
+Belle Épine,belle-epine,France,Montre Service,Ouvert,True,/boutiques-restaurants/montre-service
+Belle Épine,belle-epine,France,Mister Minit,Ouvert,True,/boutiques-restaurants/mister-minit
+Belle Épine,belle-epine,France,Micromania,Ouvert,False,/boutiques-restaurants/micromania-porte-1
+Belle Épine,belle-epine,France,Miala,Ouvert,True,/boutiques-restaurants/miala
+Belle Épine,belle-epine,France,Mauboussin,Ouvert,True,/boutiques-restaurants/mauboussin
+Belle Épine,belle-epine,France,Marionnaud,Ouvert,False,/boutiques-restaurants/marionnaud
+Belle Épine,belle-epine,France,Marc Orian,Ouvert,True,/boutiques-restaurants/marc-orian
+Belle Épine,belle-epine,France,Mango,Ouvert,False,/boutiques-restaurants/mango
+Belle Épine,belle-epine,France,Mokka,Ouvert,False,/boutiques-restaurants/mokka
+Belle Épine,belle-epine,France,Maisons du Monde,Ouvert,False,/boutiques-restaurants/maisons-du-monde
+Belle Épine,belle-epine,France,Maison Cent Vingt-Trois,Ouvert,False,/boutiques-restaurants/maison-cent-vingt-trois
+Belle Épine,belle-epine,France,Maïnucure,Ouvert,False,/boutiques-restaurants/mainucure
+Belle Épine,belle-epine,France,Mac Cosmetics,Ouvert,False,/boutiques-restaurants/mac-cosmetics
+Belle Épine,belle-epine,France,Nyx Professional Makeup,Ouvert,False,/boutiques-restaurants/nyx
+Belle Épine,belle-epine,France,NORMAL,Ouvert,False,/boutiques-restaurants/normal
+Belle Épine,belle-epine,France,Norauto,Ouvert,False,/boutiques-restaurants/norauto
+Belle Épine,belle-epine,France,Nocibé,Ouvert,False,/boutiques-restaurants/nocibe
+Belle Épine,belle-epine,France,Nike Store,Ouvert,False,/boutiques-restaurants/nike
+Belle Épine,belle-epine,France,NEW YORKER – Dress for the moment!,Ouvert,False,/boutiques-restaurants/new-yorker
+Belle Épine,belle-epine,France,Nespresso,Ouvert,False,/boutiques-restaurants/nespresso
+Belle Épine,belle-epine,France,Nature & découvertes,Ouvert,False,/boutiques-restaurants/nature-decouvertes
+Belle Épine,belle-epine,France,Old Wild West,Ouvert,False,/boutiques-restaurants/old-wild-west
+Belle Épine,belle-epine,France,O'TACOS,Ouvert,False,/boutiques-restaurants/o-tacos
+Belle Épine,belle-epine,France,Okaïdi,Ouvert,False,/boutiques-restaurants/okaidi
+Belle Épine,belle-epine,France,Optical Distrikt,Ouvert,False,/boutiques-restaurants/optical-distrikt1
+Belle Épine,belle-epine,France,Orange,Ouvert,False,/boutiques-restaurants/orange
+Belle Épine,belle-epine,France,Only,Ouvert,True,/boutiques-restaurants/only
+Belle Épine,belle-epine,France,poke house,Ouvert,False,/boutiques-restaurants/poke-house
+Belle Épine,belle-epine,France,Pressing 5àSec,Ouvert,True,/boutiques-restaurants/5asec
+Belle Épine,belle-epine,France,Pizza Hut,Ouvert,True,/boutiques-restaurants/pizza-hut
+Belle Épine,belle-epine,France,Pomme de pain,Ouvert,True,/boutiques-restaurants/pomme-de-pain
+Belle Épine,belle-epine,France,Pandora,Ouvert,False,/boutiques-restaurants/pandora
+Belle Épine,belle-epine,France,Poulet Braisé,Ouvert,False,/boutiques-restaurants/poulet-braise
+Belle Épine,belle-epine,France,Promod,Ouvert,False,/boutiques-restaurants/promod
+Belle Épine,belle-epine,France,Pixou,Ouvert,False,/boutiques-restaurants/pixou
+Belle Épine,belle-epine,France,Primark,Ouvert,False,/boutiques-restaurants/primark
+Belle Épine,belle-epine,France,Pull & Bear,Ouvert,False,/boutiques-restaurants/pull-bear
+Belle Épine,belle-epine,France,Project X Paris,Ouvert,False,/boutiques-restaurants/project-x-paris
+Belle Épine,belle-epine,France,Promovacances,Ouvert,True,/boutiques-restaurants/promovacances
+Belle Épine,belle-epine,France,Poltronesofa,Ouvert,False,/boutiques-restaurants/poltronesofa
+Belle Épine,belle-epine,France,Point Smoke,Ouvert,False,/boutiques-restaurants/point-smoke
+Belle Épine,belle-epine,France,Pharmacie du Centre,Ouvert,False,/boutiques-restaurants/pharmacie-du-centre
+Belle Épine,belle-epine,France,Pharmacie Belle Epine,Ouvert,False,/boutiques-restaurants/pharmacie-belle-epine
+Belle Épine,belle-epine,France,Parfois,Ouvert,False,/boutiques-restaurants/parfois
+Belle Épine,belle-epine,France,Quick,Ouvert,False,/boutiques-restaurants/quick
+Belle Épine,belle-epine,France,Rituals,Ouvert,False,/boutiques-restaurants/rituals
+Belle Épine,belle-epine,France,RIU Paris,Ouvert,False,/boutiques-restaurants/riu-paris
+Belle Épine,belle-epine,France,Subway,Ouvert,True,/boutiques-restaurants/subway
+Belle Épine,belle-epine,France,Snowball,Ouvert,False,/boutiques-restaurants/snowball
+Belle Épine,belle-epine,France,Société Générale,Ouvert,False,/boutiques-restaurants/societe-general
+Belle Épine,belle-epine,France,Skechers,Ouvert,False,/boutiques-restaurants/skechers
+Belle Épine,belle-epine,France,Swarovski,Ouvert,False,/boutiques-restaurants/swarovski
+Belle Épine,belle-epine,France,Superdry,Ouvert,False,/boutiques-restaurants/superdry
+Belle Épine,belle-epine,France,STRADIVARIUS,Ouvert,False,/boutiques-restaurants/stradivarius
+Belle Épine,belle-epine,France,station-service-esso,Ouvert,False,/boutiques-restaurants/station-service-esso
+Belle Épine,belle-epine,France,Snipes,Ouvert,False,/boutiques-restaurants/snipes
+Belle Épine,belle-epine,France,SFR,Ouvert,True,/boutiques-restaurants/sfr
+Belle Épine,belle-epine,France,Sergent major,Ouvert,False,/boutiques-restaurants/sergent-major
+Belle Épine,belle-epine,France,Sephora Niveau 1,Ouvert,False,/boutiques-restaurants/sephora-niveau-1
+Belle Épine,belle-epine,France,Sephora Niveau 0,Ouvert,False,/boutiques-restaurants/sephora-niveau-0
+Belle Épine,belle-epine,France,Starbucks Coffee,Ouvert,False,/boutiques-restaurants/starbucks-coffee
+Belle Épine,belle-epine,France,Tamaya Sushi,Ouvert,False,/boutiques-restaurants/tamaya
+Belle Épine,belle-epine,France,Tortilla,Ouvert,True,/boutiques-restaurants/tortilla
+Belle Épine,belle-epine,France,Tresor 2,Ouvert,False,/boutiques-restaurants/smizze
+Belle Épine,belle-epine,France,Tezenis,Ouvert,False,/boutiques-restaurants/tezenis
+Belle Épine,belle-epine,France,Trésor,Ouvert,False,/boutiques-restaurants/tresor-porte-9-10
+Belle Épine,belle-epine,France,Undiz,Ouvert,False,/boutiques-restaurants/undiz
+Belle Épine,belle-epine,France,Vertbaudet,Ouvert,False,/boutiques-restaurants/vertbaudet
+Belle Épine,belle-epine,France,Valège,Ouvert,True,/boutiques-restaurants/valege
+Belle Épine,belle-epine,France,Waffle Factory,Ouvert,True,/boutiques-restaurants/waffle-factory
+Belle Épine,belle-epine,France,Wizzle,Ouvert,False,/boutiques-restaurants/wizzle
+Belle Épine,belle-epine,France,WeFix,Ouvert,False,/boutiques-restaurants/wefix
+Belle Épine,belle-epine,France,Yves Rocher,Ouvert,True,/boutiques-restaurants/yves-rocher
+Belle Épine,belle-epine,France,Yogurt Factory,Ouvert,False,/boutiques-restaurants/yogurt-factory
+Belle Épine,belle-epine,France,Zelys Paris,Ouvert,True,/boutiques-restaurants/zelys-paris
+Belle Épine,belle-epine,France,Zara,Ouvert,False,/boutiques-restaurants/zara
+Blagnac,blagnac,France,5 à sec,Ouvert,False,/boutiques-restaurants/5-a-sec
+Blagnac,blagnac,France,Au Bureau,Ouvert,False,/boutiques-restaurants/au-bureau
+Blagnac,blagnac,France,Armand Thiery Femme,Ouvert,False,/boutiques-restaurants/armand-thiery-femme
+Blagnac,blagnac,France,Alain Afflelou,Ouvert,True,/boutiques-restaurants/alain-afflelou
+Blagnac,blagnac,France,Agatha,Ouvert,False,/boutiques-restaurants/agatha
+Blagnac,blagnac,France,Armand thiery homme,Ouvert,False,/boutiques-restaurants/armand-thiery-homme
+Blagnac,blagnac,France,Adopt',Ouvert,True,/boutiques-restaurants/adopt
+Blagnac,blagnac,France,Berliner,Ouvert,False,/boutiques-restaurants/berliner
+Blagnac,blagnac,France,Biotech USA,Ouvert,False,/boutiques-restaurants/biotech
+Blagnac,blagnac,France,Brioche Dorée,Ouvert,False,/boutiques-restaurants/brioche-doree
+Blagnac,blagnac,France,Brice,Ouvert,False,/boutiques-restaurants/brice
+Blagnac,blagnac,France,Bleu cerise,Ouvert,False,/boutiques-restaurants/bleu-cerise
+Blagnac,blagnac,France,Bagel Corner,Ouvert,False,/boutiques-restaurants/bagel-corner
+Blagnac,blagnac,France,Bouygues telecom,Ouvert,False,/boutiques-restaurants/bouygues-telecom
+Blagnac,blagnac,France,Body Minute - Nail'Minute,Ouvert,True,/boutiques-restaurants/body-minute-nail-minute
+Blagnac,blagnac,France,Bershka,Ouvert,False,/boutiques-restaurants/bershka
+Blagnac,blagnac,France,Crepe Touch,Ouvert,False,/boutiques-restaurants/Crep Touch
+Blagnac,blagnac,France,Calzedonia,Ouvert,False,/boutiques-restaurants/calzedonia
+Blagnac,blagnac,France,Caffe Galery,Ouvert,False,/boutiques-restaurants/caffe-galery
+Blagnac,blagnac,France,Courir,Ouvert,False,/boutiques-restaurants/courir
+Blagnac,blagnac,France,Coiffure du monde,Ouvert,False,/boutiques-restaurants/coiffure-du-monde
+Blagnac,blagnac,France,Claire's,Ouvert,False,/boutiques-restaurants/claire-s
+Blagnac,blagnac,France,Cigusto,Ouvert,False,/boutiques-restaurants/cigusto
+Blagnac,blagnac,France,Celio,Ouvert,False,/boutiques-restaurants/celio
+Blagnac,blagnac,France,Caroll,Ouvert,True,/boutiques-restaurants/caroll
+Blagnac,blagnac,France,Du bruit dans la cuisine,Ouvert,False,/boutiques-restaurants/du-bruit-dans-la-cuisine
+Blagnac,blagnac,France,Donjon Bijoux,Ouvert,True,/boutiques-restaurants/donjon-bijoux
+Blagnac,blagnac,France,Devred,Ouvert,False,/boutiques-restaurants/devred
+Blagnac,blagnac,France,Darjeeling,Ouvert,True,/boutiques-restaurants/darjeeling
+Blagnac,blagnac,France,E. Leclerc,Ouvert,False,/boutiques-restaurants/e-leclerc
+Blagnac,blagnac,France,Etam Lingerie,Ouvert,True,/boutiques-restaurants/etam-lingerie
+Blagnac,blagnac,France,Emotional,Ouvert,False,/boutiques-restaurants/emotional
+Blagnac,blagnac,France,EdSylver,Ouvert,False,/boutiques-restaurants/edsylver
+Blagnac,blagnac,France,Father & Sons,Ouvert,True,/boutiques-restaurants/father---sons
+Blagnac,blagnac,France,Free,Ouvert,True,/boutiques-restaurants/free
+Blagnac,blagnac,France,Foot Locker,Ouvert,False,/boutiques-restaurants/foot-locker
+Blagnac,blagnac,France,Grand Optical,Ouvert,True,/boutiques-restaurants/grandoptical
+Blagnac,blagnac,France,Générale d'Optique,Ouvert,True,/boutiques-restaurants/general-doptique
+Blagnac,blagnac,France,GEOX,Ouvert,True,/boutiques-restaurants/geox
+Blagnac,blagnac,France,Hylton,Ouvert,False,/boutiques-restaurants/hylton
+Blagnac,blagnac,France,H&M,Ouvert,False,/boutiques-restaurants/h-m
+Blagnac,blagnac,France,Histoire d'Or,Ouvert,True,/boutiques-restaurants/histoire-d-or
+Blagnac,blagnac,France,IZAC,Ouvert,True,/boutiques-restaurants/izac
+Blagnac,blagnac,France,Ikks women,Ouvert,False,/boutiques-restaurants/ikks-women
+Blagnac,blagnac,France,Intimissimi,Ouvert,False,/boutiques-restaurants/intimissimi
+Blagnac,blagnac,France,IDKIDS,Ouvert,False,/boutiques-restaurants/idkids
+Blagnac,blagnac,France,JACK & JONES,Ouvert,False,/boutiques-restaurants/jack---jones
+Blagnac,blagnac,France,Jeff de Bruges,Ouvert,True,/boutiques-restaurants/jeff-de-bruges
+Blagnac,blagnac,France,Julien d'Orcel,Ouvert,True,/boutiques-restaurants/julien-d-orcel
+Blagnac,blagnac,France,Jules,Ouvert,False,/boutiques-restaurants/jules
+Blagnac,blagnac,France,Jott,Ouvert,False,/boutiques-restaurants/jott
+Blagnac,blagnac,France,Jimmy Fairly,Ouvert,False,/boutiques-restaurants/jimmy-fairly
+Blagnac,blagnac,France,Kiosque La Croissanterie,Ouvert,False,/boutiques-restaurants/kiosque-la-croissanterie
+Blagnac,blagnac,France,Kompo,Ouvert,False,/boutiques-restaurants/kompo
+Blagnac,blagnac,France,Kusmi Tea,Ouvert,True,/boutiques-restaurants/kusmi-tea
+Blagnac,blagnac,France,KRYS,Ouvert,True,/boutiques-restaurants/krys
+Blagnac,blagnac,France,KIKO Milano,Ouvert,False,/boutiques-restaurants/kiko
+Blagnac,blagnac,France,LEGAMI,Ouvert,False,/boutiques-restaurants/legami
+Blagnac,blagnac,France,La Croissanterie,Ouvert,False,/boutiques-restaurants/la-croissanterie
+Blagnac,blagnac,France,Les Georgettes,Ouvert,True,/boutiques-restaurants/les-georgettes
+Blagnac,blagnac,France,La Brigade,Ouvert,False,/boutiques-restaurants/la-brigade
+Blagnac,blagnac,France,LEGO Store,Ouvert,False,/boutiques-restaurants/lego-store
+Blagnac,blagnac,France,Lunettes Pour Tous,Ouvert,False,/boutiques-restaurants/lunettes-pour-tous
+Blagnac,blagnac,France,La Fée Maraboutée,Ouvert,False,/boutiques-restaurants/la-fee-maraboutee
+Blagnac,blagnac,France,Le Petit Souk,Ouvert,False,/boutiques-restaurants/le-petit-souk
+Blagnac,blagnac,France,Le Paradis du Fruit,Ouvert,False,/boutiques-restaurants/le-paradis-du-fruit
+Blagnac,blagnac,France,Le Barbier,Ouvert,False,/boutiques-restaurants/le-barbier
+Blagnac,blagnac,France,Le Bar à Ongles ...l'Onglerie,Ouvert,False,/boutiques-restaurants/le-bar-a-ongles-by-v
+Blagnac,blagnac,France,La Casa de Las Carcasas,Ouvert,False,/boutiques-restaurants/la-casa-de-las-carcasas
+Blagnac,blagnac,France,LUSH,Ouvert,True,/boutiques-restaurants/lush
+Blagnac,blagnac,France,Lovisa,Ouvert,True,/boutiques-restaurants/lovisa
+Blagnac,blagnac,France,Lise Charmel,Ouvert,False,/boutiques-restaurants/lise-charmel
+Blagnac,blagnac,France,Levi's Store,Ouvert,False,/boutiques-restaurants/levi-s-store
+Blagnac,blagnac,France,Le Temps des Cerises,Ouvert,False,/boutiques-restaurants/le-temps-des-cerises
+Blagnac,blagnac,France,Leclerc voyages,Ouvert,False,/boutiques-restaurants/leclerc-voyages
+Blagnac,blagnac,France,Leclerc presse,Ouvert,False,/boutiques-restaurants/leclerc-presse
+Blagnac,blagnac,France,Leclerc Parapharmacie,Ouvert,False,/boutiques-restaurants/leclerc-parapharmacie
+Blagnac,blagnac,France,Leclerc Espace Culturel,Ouvert,False,/boutiques-restaurants/leclerc-espace-culturel
+Blagnac,blagnac,France,Lacoste,Ouvert,False,/boutiques-restaurants/lacoste
+Blagnac,blagnac,France,La boutique du coiffeur,Ouvert,True,/boutiques-restaurants/la-boutique-du-coiffeur
+Blagnac,blagnac,France,Musardise,Ouvert,False,/boutiques-restaurants/musardise
+Blagnac,blagnac,France,Miramira,Ouvert,False,/boutiques-restaurants/miramira
+Blagnac,blagnac,France,MAC Cosmetics,Ouvert,False,/boutiques-restaurants/mac-cosmetics
+Blagnac,blagnac,France,Mangos,Ouvert,False,/boutiques-restaurants/mangos-2
+Blagnac,blagnac,France,Montres Services,Ouvert,True,/boutiques-restaurants/montres-services
+Blagnac,blagnac,France,Montres & Co,Ouvert,True,/boutiques-restaurants/montresandco
+Blagnac,blagnac,France,Mister Minit,Ouvert,True,/boutiques-restaurants/mister-minit
+Blagnac,blagnac,France,Micromania,Ouvert,False,/boutiques-restaurants/micromania
+Blagnac,blagnac,France,Maty,Ouvert,False,/boutiques-restaurants/maty
+Blagnac,blagnac,France,Mango,Ouvert,False,/boutiques-restaurants/mango
+Blagnac,blagnac,France,Maisons du Monde,Ouvert,False,/boutiques-restaurants/maisons-du-monde
+Blagnac,blagnac,France,Maison 123,Ouvert,False,/boutiques-restaurants/maison-123
+Blagnac,blagnac,France,Narh,Ouvert,False,/boutiques-restaurants/narh
+Blagnac,blagnac,France,NYX Professional Makeup,Ouvert,False,/boutiques-restaurants/nyx
+Blagnac,blagnac,France,Noix d'Arec,Ouvert,False,/boutiques-restaurants/noix-darec
+Blagnac,blagnac,France,Nulle part,Ouvert,True,/boutiques-restaurants/nulle-part
+Blagnac,blagnac,France,Nocibé,Ouvert,False,/boutiques-restaurants/nocibe
+Blagnac,blagnac,France,Nature & découvertes,Ouvert,False,/boutiques-restaurants/nature-decouvertes
+Blagnac,blagnac,France,O'Tacos,Ouvert,False,/boutiques-restaurants/o-tacos
+Blagnac,blagnac,France,ONLY,Ouvert,False,/boutiques-restaurants/only
+Blagnac,blagnac,France,Orange,Ouvert,False,/boutiques-restaurants/orange
+Blagnac,blagnac,France,Pandora,Ouvert,False,/pandora
+Blagnac,blagnac,France,Pokawa,Ouvert,True,/boutiques-restaurants/pokawa
+Blagnac,blagnac,France,Pharmacie,Ouvert,False,/boutiques-restaurants/pharmacie
+Blagnac,blagnac,France,Project X Paris,Ouvert,False,/boutiques-restaurants/project-x-paris
+Blagnac,blagnac,France,Palais des Thés,Ouvert,False,/boutiques-restaurants/palais-des-thes
+Blagnac,blagnac,France,Pylones,Ouvert,False,/boutiques-restaurants/pylones
+Blagnac,blagnac,France,Pull & bear,Ouvert,False,/boutiques-restaurants/pull-bear
+Blagnac,blagnac,France,Promod,Ouvert,False,/boutiques-restaurants/promod
+Blagnac,blagnac,France,Parfois,Ouvert,False,/boutiques-restaurants/parfois
+Blagnac,blagnac,France,Rituals,Ouvert,False,/boutiques-restaurants/rituals
+Blagnac,blagnac,France,Swarovski,Ouvert,True,/boutiques-restaurants/swarovski
+Blagnac,blagnac,France,SUD EXPRESS,Ouvert,False,/boutiques-restaurants/sud-express
+Blagnac,blagnac,France,Starbucks Coffee,Ouvert,False,/boutiques-restaurants/starbucks-coffee
+Blagnac,blagnac,France,Stradivarius,Ouvert,False,/boutiques-restaurants/stradivarius
+Blagnac,blagnac,France,Snipes,Ouvert,False,/boutiques-restaurants/snipes
+Blagnac,blagnac,France,SFR,Ouvert,True,/boutiques-restaurants/sfr
+Blagnac,blagnac,France,Sergent Major,Ouvert,False,/boutiques-restaurants/sergent-major
+Blagnac,blagnac,France,Serge Blanco,Ouvert,False,/boutiques-restaurants/serge-blanco
+Blagnac,blagnac,France,Sephora,Ouvert,False,/boutiques-restaurants/sephora
+Blagnac,blagnac,France,Trésor,Ouvert,False,/boutiques-restaurants/tresor
+Blagnac,blagnac,France,Tokami,Ouvert,False,/boutiques-restaurants/tokami
+Blagnac,blagnac,France,Tezenis,Ouvert,False,/boutiques-restaurants/tezenis
+Blagnac,blagnac,France,Texto,Ouvert,False,/boutiques-restaurants/texto
+Blagnac,blagnac,France,Undiz,Ouvert,False,/boutiques-restaurants/undiz
+Blagnac,blagnac,France,Victoria's Secret,Ouvert,False,/boutiques-restaurants/victoria-secret
+Blagnac,blagnac,France,Wingstop,Ouvert,False,/boutiques-restaurants/wingstop
+Blagnac,blagnac,France,Wizzle,Ouvert,False,/boutiques-restaurants/wizzle
+Blagnac,blagnac,France,Waffle Factory,Ouvert,False,/boutiques-restaurants/waffle-factory
+Blagnac,blagnac,France,Wizzle,Ouvert,False,
+Blagnac,blagnac,France,Wok To Walk,Ouvert,False,/boutiques-restaurants/wok-to-walk
+Blagnac,blagnac,France,Yogurt Factory,Ouvert,True,/boutiques-restaurants/yogurt-factory
+Blagnac,blagnac,France,Yves Rocher,Ouvert,True,/boutiques-restaurants/yves-rocher
+Blagnac,blagnac,France,ZARA,Ouvert,False,/boutiques-restaurants/zara
+O'Parinor,o-parinor,France,5àsec,Ouvert,True,/boutiques-restaurants/5asec
+O'Parinor,o-parinor,France,Atelier Gabriella,Ouvert,False,/boutiques-restaurants/Atelier Gabriella
+O'Parinor,o-parinor,France,Atol Les Opticiens,Ouvert,True,/boutiques-restaurants/atol-les-opticiens
+O'Parinor,o-parinor,France,Atacadao,Ouvert,False,/boutiques-restaurants/atacadao
+O'Parinor,o-parinor,France,ATB,Ouvert,False,/boutiques-restaurants/atb
+O'Parinor,o-parinor,France,Armand Thiery Homme,Ouvert,False,/boutiques-restaurants/armand-thiery-homme
+O'Parinor,o-parinor,France,Album,Ouvert,False,/boutiques-restaurants/album
+O'Parinor,o-parinor,France,Alain Afflelou,Ouvert,True,/boutiques-restaurants/alain-afflelou
+O'Parinor,o-parinor,France,Adopt,Ouvert,False,/boutiques-restaurants/adopt
+O'Parinor,o-parinor,France,ACTION,Ouvert,False,/boutiques-restaurants/action
+O'Parinor,o-parinor,France,BSL,Ouvert,False,/boutiques-restaurants/BSL
+O'Parinor,o-parinor,France,Biotech USA,Ouvert,False,/boutiques-restaurants/biotech-usa
+O'Parinor,o-parinor,France,Brioche Dorée,Ouvert,False,/boutiques-restaurants/brioche-doree
+O'Parinor,o-parinor,France,BabooTéa,Ouvert,True,/boutiques-restaurants/babootea
+O'Parinor,o-parinor,France,Beautélicious,Ouvert,False,/boutiques-restaurants/beautélicious
+O'Parinor,o-parinor,France,Brendy's,Ouvert,True,/boutiques-restaurants/bendy's
+O'Parinor,o-parinor,France,Burger King,Ouvert,True,/boutiques-restaurants/burger-king
+O'Parinor,o-parinor,France,Big M,Ouvert,False,/boutiques-restaurants/big-m
+O'Parinor,o-parinor,France,BAZE,Ouvert,True,/boutiques-restaurants/baze
+O'Parinor,o-parinor,France,Bouygues Telecom,Ouvert,False,/boutiques-restaurants/bouygues-telecom
+O'Parinor,o-parinor,France,Body Minute,Ouvert,True,/boutiques-restaurants/body-minute
+O'Parinor,o-parinor,France,Bleu Libellule,Ouvert,False,/boutiques-restaurants/bleu-libellule
+O'Parinor,o-parinor,France,Bershka,Ouvert,False,/boutiques-restaurants/bershka
+O'Parinor,o-parinor,France,Bel Chou's,Ouvert,False,/boutiques-restaurants/bel-chou-s
+O'Parinor,o-parinor,France,Beauty Phone,Ouvert,False,/boutiques-restaurants/beauty-phone
+O'Parinor,o-parinor,France,Celio,Ouvert,False,/boutiques-restaurants/celio
+O'Parinor,o-parinor,France,Cinéma UGC,Ouvert,True,/boutiques-restaurants/cinema-ugc
+O'Parinor,o-parinor,France,Crêpe Touch,Ouvert,False,/boutiques-restaurants/Crêpe Touch
+O'Parinor,o-parinor,France,CHK,Fermé,False,/boutiques-restaurants/chk
+O'Parinor,o-parinor,France,C&A Niveaux 1,Ouvert,False,/boutiques-restaurants/ca-niveau-1
+O'Parinor,o-parinor,France,C&A Niveaux 0,Ouvert,False,/boutiques-restaurants/ca-niveau-0
+O'Parinor,o-parinor,France,Chicken Spot,Ouvert,False,/boutiques-restaurants/chicken-spot
+O'Parinor,o-parinor,France,Courir,Ouvert,True,/boutiques-restaurants/courir
+O'Parinor,o-parinor,France,Chaussea,Ouvert,True,/boutiques-restaurants/chaussea
+O'Parinor,o-parinor,France,Cezam,Ouvert,False,/boutiques-restaurants/cezam
+O'Parinor,o-parinor,France,Clippers,Ouvert,False,/boutiques-restaurants/clippers
+O'Parinor,o-parinor,France,Claire's,Ouvert,False,/boutiques-restaurants/claire-s
+O'Parinor,o-parinor,France,Christine Laure,Ouvert,False,/boutiques-restaurants/christine-laure
+O'Parinor,o-parinor,France,Centre Medical O'Parinor,Ouvert,False,/boutiques-restaurants/centre-medical-o-parinor
+O'Parinor,o-parinor,France,Carrefour voyages,Ouvert,False,/boutiques-restaurants/carrefour-voyages
+O'Parinor,o-parinor,France,Dream Games,Ouvert,False,/boutiques-restaurants/dream-games
+O'Parinor,o-parinor,France,Délices D'Asie,Ouvert,False,/boutiques-restaurants/delices-d-asie
+O'Parinor,o-parinor,France,Décathlon,Ouvert,False,/boutiques-restaurants/decathlon
+O'Parinor,o-parinor,France,Del Arte,Ouvert,True,/boutiques-restaurants/del-arte
+O'Parinor,o-parinor,France,Decimas,Ouvert,False,/boutiques-restaurants/decimas
+O'Parinor,o-parinor,France,Darty,Ouvert,False,/boutiques-restaurants/darty
+O'Parinor,o-parinor,France,Exepxion,Ouvert,False,/boutiques-restaurants/exepxion
+O'Parinor,o-parinor,France,E Clope store,Ouvert,False,/boutiques-restaurants/e-clope-store
+O'Parinor,o-parinor,France,Foot korner sneakers,Ouvert,False,/boutiques-restaurants/foot-korner-sneakers
+O'Parinor,o-parinor,France,Foot korner,Ouvert,False,/boutiques-restaurants/foot-korner
+O'Parinor,o-parinor,France,Francuir (haut),Ouvert,False,/boutiques-restaurants/francuir-haut
+O'Parinor,o-parinor,France,Francuir (bas),Ouvert,False,/boutiques-restaurants/francuir-bas
+O'Parinor,o-parinor,France,Flunch,Ouvert,False,/boutiques-restaurants/flunch
+O'Parinor,o-parinor,France,FREE,Ouvert,True,/boutiques-restaurants/free
+O'Parinor,o-parinor,France,Franck Provost,Ouvert,False,/boutiques-restaurants/franck-provost
+O'Parinor,o-parinor,France,Foot Locker,Ouvert,False,/boutiques-restaurants/foot-locker
+O'Parinor,o-parinor,France,Fnac Service/Billeterie,Ouvert,False,/boutiques-restaurants/fnac-service-billeterie
+O'Parinor,o-parinor,France,Fnac,Ouvert,False,/boutiques-restaurants/fnac
+O'Parinor,o-parinor,France,Feu Vert,Ouvert,True,/boutiques-restaurants/feu-vert
+O'Parinor,o-parinor,France,Générale d'Optique,Ouvert,True,/boutiques-restaurants/generale-d-optique
+O'Parinor,o-parinor,France,Grand Optical,Ouvert,True,/boutiques-restaurants/grand-optical
+O'Parinor,o-parinor,France,Griff Mark,Ouvert,False,/boutiques-restaurants/Griff Mark
+O'Parinor,o-parinor,France,G-Star Raw,Ouvert,False,/boutiques-restaurants/g-star-raw
+O'Parinor,o-parinor,France,Helvetica,Ouvert,False,/boutiques-restaurants/helvetica
+O'Parinor,o-parinor,France,HISTOIRE D'OR Boutique haut,Ouvert,False,/boutiques-restaurants/histoire-d-or-boutique-haut
+O'Parinor,o-parinor,France,Histoire d’Or,Ouvert,False,/boutiques-restaurants/histoire-d-or
+O'Parinor,o-parinor,France,Hoc Job,Ouvert,False,/boutiques-restaurants/hoc job
+O'Parinor,o-parinor,France,Häagen-Dazs Café,Ouvert,False,/boutiques-restaurants/haagen-dazs-cafe
+O'Parinor,o-parinor,France,Hollyghost,Ouvert,False,/boutiques-restaurants/hollyghost
+O'Parinor,o-parinor,France,H&M,Ouvert,False,/boutiques-restaurants/hm
+O'Parinor,o-parinor,France,IZAC,Ouvert,True,/boutiques-restaurants/izac
+O'Parinor,o-parinor,France,Intersport,Ouvert,False,/boutiques-restaurants/intersport
+O'Parinor,o-parinor,France,INVITI,Ouvert,False,/boutiques-restaurants/inviti
+O'Parinor,o-parinor,France,Imo Lavage,Ouvert,False,/boutiques-restaurants/imo-lavage
+O'Parinor,o-parinor,France,JD Sport,Ouvert,False,/boutiques-restaurants/jd-sports
+O'Parinor,o-parinor,France,Jules,Ouvert,False,/boutiques-restaurants/jules
+O'Parinor,o-parinor,France,Jeff de Bruges,Ouvert,True,/boutiques-restaurants/jeff-de-bruges
+O'Parinor,o-parinor,France,Krispy kreme,Ouvert,False,/boutiques-restaurants/krispy-kreme
+O'Parinor,o-parinor,France,Krys Optique,Ouvert,True,/boutiques-restaurants/krys-optique
+O'Parinor,o-parinor,France,Kozza,Ouvert,False,/boutiques-restaurants/kozza
+O'Parinor,o-parinor,France,Kiosque accueil,Ouvert,False,/boutiques-restaurants/kiosque-accueil
+O'Parinor,o-parinor,France,Kiko Milano,Ouvert,False,/boutiques-restaurants/kiko-milano
+O'Parinor,o-parinor,France,Kiabi,Ouvert,False,/boutiques-restaurants/kiabi
+O'Parinor,o-parinor,France,Lorenzo Sport,Fermé,False,/boutiques-restaurants/lorenzo-sport
+O'Parinor,o-parinor,France,La cordonnerie parisienne,Ouvert,False,/boutiques-restaurants/la-cordonnerie-parisienne
+O'Parinor,o-parinor,France,Loris parfum,Ouvert,False,/boutiques-restaurants/Loris-parfum
+O'Parinor,o-parinor,France,LNT Paris,Ouvert,False,/boutiques-restaurants/LNT-paris
+O'Parinor,o-parinor,France,Lovisa,Ouvert,False,/boutiques-restaurants/lovisa
+O'Parinor,o-parinor,France,La Casa de las Carcasas,Ouvert,False,/boutiques-restaurants/la-casa-de-las-carcasas
+O'Parinor,o-parinor,France,Logik,Ouvert,False,/boutiques-restaurants/Logik
+O'Parinor,o-parinor,France,La croissanterie,Ouvert,False,/boutiques-restaurants/la-croissanterie
+O'Parinor,o-parinor,France,Le Chill,Ouvert,False,/boutiques-restaurants/le-chill
+O'Parinor,o-parinor,France,La Gazelle d'Or,Ouvert,False,/boutiques-restaurants/la-gazelle-dor
+O'Parinor,o-parinor,France,La Factoria,Ouvert,False,/boutiques-restaurants/la-factoria
+O'Parinor,o-parinor,France,Ludivine Passion,Ouvert,False,/boutiques-restaurants/ludivine-passion
+O'Parinor,o-parinor,France,Lorenzo,Ouvert,False,/boutiques-restaurants/lorenzo
+O'Parinor,o-parinor,France,Lacoste,Ouvert,False,/boutiques-restaurants/lacoste
+O'Parinor,o-parinor,France,La boutique du coiffeur,Ouvert,True,
+O'Parinor,o-parinor,France,La boutique du coiffeur,Ouvert,True,/boutiques-restaurants/la-boutique-du-coiffeur
+O'Parinor,o-parinor,France,Maison Azalée,Ouvert,False,/boutiques-restaurants/maison-azalee
+O'Parinor,o-parinor,France,Mondial pare-brise,Ouvert,False,/boutiques-restaurants/mondial-pare-brise
+O'Parinor,o-parinor,France,Micromania,Ouvert,False,/boutiques-restaurants/micromania
+O'Parinor,o-parinor,France,Mobilicious,Ouvert,False,/boutiques-restaurants/Mobilicious
+O'Parinor,o-parinor,France,Maxxi Games,Ouvert,True,/boutiques-restaurants/maxxi-games
+O'Parinor,o-parinor,France,Menstore,Ouvert,False,/boutiques-restaurants/menstore
+O'Parinor,o-parinor,France,My French Cantine,Ouvert,False,/boutiques-restaurants/my-french-cantine
+O'Parinor,o-parinor,France,Mokka,Ouvert,False,/boutiques-restaurants/mokka
+O'Parinor,o-parinor,France,McDonald's,Ouvert,False,/boutiques-restaurants/mcdonald-s
+O'Parinor,o-parinor,France,Mayda,Ouvert,False,/boutiques-restaurants/mayda
+O'Parinor,o-parinor,France,Mango's,Ouvert,False,/boutiques-restaurants/mango-s
+O'Parinor,o-parinor,France,Maître Dattier,Ouvert,False,/boutiques-restaurants/maitre-dattier
+O'Parinor,o-parinor,France,Montre Service,Ouvert,True,/boutiques-restaurants/montre-service
+O'Parinor,o-parinor,France,Marionnaud,Ouvert,False,/boutiques-restaurants/marionnaud
+O'Parinor,o-parinor,France,Marc Orian,Ouvert,True,/boutiques-restaurants/marc-orian
+O'Parinor,o-parinor,France,Mango,Ouvert,False,/boutiques-restaurants/mango
+O'Parinor,o-parinor,France,Manège Jules Verne,Ouvert,False,/boutiques-restaurants/manege-jules-verne
+O'Parinor,o-parinor,France,Manège Doll Beach,Ouvert,False,/boutiques-restaurants/manege-doll-beach
+O'Parinor,o-parinor,France,Marvellous,Ouvert,False,/boutiques-restaurants/marvellous
+O'Parinor,o-parinor,France,NKD TECH,Ouvert,False,/boutiques-restaurants/nkd-tech
+O'Parinor,o-parinor,France,NYX PROFESSIONAL MAKEUP,Ouvert,False,/boutiques-restaurants/nyx-professional-makeup
+O'Parinor,o-parinor,France,Ninja Thaï,Ouvert,False,/boutiques-restaurants/ninja-thai
+O'Parinor,o-parinor,France,Nambo,Ouvert,False,/boutiques-restaurants/nambo
+O'Parinor,o-parinor,France,Normal,Ouvert,False,/boutiques-restaurants/normal
+O'Parinor,o-parinor,France,Orchestra,Ouvert,False,/boutiques-restaurants/orchestra
+O'Parinor,o-parinor,France,Okaïdi-Obaïbi,Ouvert,True,/boutiques-restaurants/obaibi
+O'Parinor,o-parinor,France,Onyxia,Ouvert,False,/boutiques-restaurants/onyxia
+O'Parinor,o-parinor,France,O'TACOS,Ouvert,False,/boutiques-restaurants/o-tacos
+O'Parinor,o-parinor,France,Orange,Ouvert,False,/boutiques-restaurants/orange
+O'Parinor,o-parinor,France,On air,Ouvert,False,/boutiques-restaurants/on-air
+O'Parinor,o-parinor,France,Pitaya,Ouvert,True,/boutiques-restaurants/Pitaya
+O'Parinor,o-parinor,France,Primark,Ouvert,False,/boutiques-restaurants/primark
+O'Parinor,o-parinor,France,Pharmacie O'Parinor,Ouvert,False,/boutiques-restaurants/pharmacie-parinor
+O'Parinor,o-parinor,France,Parfois,Ouvert,False,/boutiques-restaurants/parfois
+O'Parinor,o-parinor,France,Promovacances,Ouvert,True,/boutiques-restaurants/promovacances
+O'Parinor,o-parinor,France,Pixou Phone,Ouvert,False,/boutiques-restaurants/pixou-phone
+O'Parinor,o-parinor,France,Quick,Ouvert,False,/boutiques-restaurants/quick
+O'Parinor,o-parinor,France,Rituals,Ouvert,False,/boutiques-restaurants/rituals
+O'Parinor,o-parinor,France,So fête,Ouvert,False,/boutiques-restaurants/So-fete
+O'Parinor,o-parinor,France,Stradivarius,Fermé,False,/boutiques-restaurants/stradivarius
+O'Parinor,o-parinor,France,Stockmark,Ouvert,False,/boutiques-restaurants/Stockmark
+O'Parinor,o-parinor,France,Subway,Ouvert,True,/boutiques-restaurants/subway
+O'Parinor,o-parinor,France,Swarovski,Ouvert,False,/boutiques-restaurants/swarovski
+O'Parinor,o-parinor,France,Snipes,Ouvert,False,/boutiques-restaurants/snipes
+O'Parinor,o-parinor,France,SFR,Ouvert,True,/boutiques-restaurants/sfr
+O'Parinor,o-parinor,France,Sephora,Ouvert,False,/boutiques-restaurants/sephora
+O'Parinor,o-parinor,France,SUSHI KYO,Ouvert,False,/boutiques-restaurants/sushi-kyo
+O'Parinor,o-parinor,France,Starbucks,Ouvert,False,/boutiques-restaurants/starbucks
+O'Parinor,o-parinor,France,SEGAFREDO- Bar Brasserie,Ouvert,False,/boutiques-restaurants/segafredo-bar-brasserie
+O'Parinor,o-parinor,France,Teen Fashion,Ouvert,False,/boutiques-restaurants/teen-fashion
+O'Parinor,o-parinor,France,Tabac et Presse O'Parinor,Ouvert,False,/boutiques-restaurants/tabac-et-presse-o-parinor
+O'Parinor,o-parinor,France,Undiz,Ouvert,False,/boutiques-restaurants/undiz
+O'Parinor,o-parinor,France,Wycon,Ouvert,False,/boutiques-restaurants/Wycon
+O'Parinor,o-parinor,France,Winuts,Ouvert,False,/boutiques-restaurants/winuts
+O'Parinor,o-parinor,France,Waffle Factory,Ouvert,False,/boutiques-restaurants/waffle-factory
+O'Parinor,o-parinor,France,Yogurt factory,Ouvert,False,/boutiques-restaurants/yogurt-factory
+O'Parinor,o-parinor,France,Yves Rocher,Ouvert,False,/boutiques-restaurants/yves-rocher
+O'Parinor,o-parinor,France,Yogi Spa,Ouvert,False,/boutiques-restaurants/yogi-spa
+O'Parinor,o-parinor,France,Zara,Ouvert,False,/boutiques-restaurants/zara
+Odysseum,odysseum,France,Altissimo,Ouvert,True,/boutiques-restaurants/altissimo
+Odysseum,odysseum,France,Armand Thiery Femme,Ouvert,False,/boutiques-restaurants/armand-thiery-femme
+Odysseum,odysseum,France,APPLE,Ouvert,False,/boutiques-restaurants/apple
+Odysseum,odysseum,France,Au Bureau,Ouvert,False,/boutiques-restaurants/au-bureau
+Odysseum,odysseum,France,Armand Thiery Homme,Ouvert,False,/boutiques-restaurants/armand-thiery-homme
+Odysseum,odysseum,France,American Vintage,Ouvert,False,/boutiques-restaurants/american-vintage
+Odysseum,odysseum,France,Adopt',Ouvert,True,/boutiques-restaurants/adopt
+Odysseum,odysseum,France,Balaboosté,Ouvert,True,/boutiques-restaurants/balabooste
+Odysseum,odysseum,France,Bouygues Telecom,Ouvert,False,/boutiques-restaurants/bouygues-telecom
+Odysseum,odysseum,France,Black Corner,Ouvert,False,/boutiques-restaurants/black-corner
+Odysseum,odysseum,France,BLACK AND WHITE,Ouvert,False,/boutiques-restaurants/black-and-white
+Odysseum,odysseum,France,Baraka Jeux,Ouvert,False,/boutiques-restaurants/baraka-jeux
+Odysseum,odysseum,France,Body Minute,Ouvert,True,/boutiques-restaurants/body-minute
+Odysseum,odysseum,France,Burger King,Ouvert,True,/boutiques-restaurants/burger-king
+Odysseum,odysseum,France,Brioche Dorée,Ouvert,False,/boutiques-restaurants/brioche-doree
+Odysseum,odysseum,France,Brasserie Gusto,Ouvert,False,/boutiques-restaurants/brasserie-gusto
+Odysseum,odysseum,France,Boss,Ouvert,False,/boutiques-restaurants/boss
+Odysseum,odysseum,France,Bistro Régent,Ouvert,False,/boutiques-restaurants/bistro-regent
+Odysseum,odysseum,France,Bershka,Ouvert,False,/boutiques-restaurants/bershka
+Odysseum,odysseum,France,Belle & Bio Lavage Auto,Ouvert,True,/boutiques-restaurants/belle-et-bio-lavage-auto
+Odysseum,odysseum,France,Columbus Café,Ouvert,False,/boutiques-restaurants/columbus-cafe
+Odysseum,odysseum,France,Crunchie by Kaeri,Ouvert,False,/boutiques-restaurants/crunchie-by-kaeri
+Odysseum,odysseum,France,Crêperie Amélie,Ouvert,False,/boutiques-restaurants/amelie
+Odysseum,odysseum,France,Cabaïa,Ouvert,False,/boutiques-restaurants/cabaia
+Odysseum,odysseum,France,CREPE TOUCH,Ouvert,False,/boutiques-restaurants/crepe-touch
+Odysseum,odysseum,France,Calzedonia,Ouvert,False,/boutiques-restaurants/calzedonia
+Odysseum,odysseum,France,Cleor,Ouvert,False,/boutiques-restaurants/cleor
+Odysseum,odysseum,France,CINEMA PATHE ODYSSEUM,Ouvert,False,/boutiques-restaurants/cinemagaumont
+Odysseum,odysseum,France,Celio,Ouvert,False,/boutiques-restaurants/celio
+Odysseum,odysseum,France,DOPPIO MALTO,Ouvert,False,/boutiques-restaurants/doppio-malto
+Odysseum,odysseum,France,Dolce Café,Ouvert,False,/boutiques-restaurants/dolce-cafe
+Odysseum,odysseum,France,Du bruit dans la cuisine,Ouvert,False,/boutiques-restaurants/du-bruit-dans-la-cuisine
+Odysseum,odysseum,France,Decathlon,Ouvert,False,/boutiques-restaurants/decathlon
+Odysseum,odysseum,France,Darty,Ouvert,False,/boutiques-restaurants/darty
+Odysseum,odysseum,France,EdenKids,Ouvert,False,/boutiques-restaurants/edenkids
+Odysseum,odysseum,France,Excel Coiffure,Ouvert,True,/boutiques-restaurants/excel-coiffeur
+Odysseum,odysseum,France,Foot Locker,Ouvert,False,/boutiques-restaurants/foot-locker
+Odysseum,odysseum,France,Fort Boyard Aventures,Fermé,False,/boutiques-restaurants/fort-boyard-aventures
+Odysseum,odysseum,France,Fitness Park,Ouvert,True,/boutiques-restaurants/fitness-park
+Odysseum,odysseum,France,FREE,Ouvert,True,/boutiques-restaurants/free
+Odysseum,odysseum,France,Générale d'Optique,Ouvert,True,/boutiques-restaurants/generale-d-optique
+Odysseum,odysseum,France,H&M,Ouvert,False,/boutiques-restaurants/h-m
+Odysseum,odysseum,France,Histoire d'Or,Ouvert,False,/boutiques-restaurants/histoire-d-or
+Odysseum,odysseum,France,Hylton,Ouvert,False,/boutiques-restaurants/hylton
+Odysseum,odysseum,France,Hippopotamus,Ouvert,False,/boutiques-restaurants/hippopotamus
+Odysseum,odysseum,France,Izac,Ouvert,True,/boutiques-restaurants/izac
+Odysseum,odysseum,France,IRIS GALERIE,Ouvert,False,/boutiques-restaurants/iris-galerie
+Odysseum,odysseum,France,Il Ristorante,Fermé,False,/boutiques-restaurants/il-ristorante
+Odysseum,odysseum,France,Intimissimi,Ouvert,False,/boutiques-restaurants/intimissimi
+Odysseum,odysseum,France,IKEA,Ouvert,False,/boutiques-restaurants/ikea
+Odysseum,odysseum,France,JD Sports,Ouvert,False,/boutiques-restaurants/jd-sport
+Odysseum,odysseum,France,Jimmy Fairly,Ouvert,False,/boutiques-restaurants/jimmy-fairly
+Odysseum,odysseum,France,JOTT,Ouvert,False,/boutiques-restaurants/jott
+Odysseum,odysseum,France,Kusmi Tea,Fermé,False,/boutiques-restaurants/kusmi-tea
+Odysseum,odysseum,France,KIKO Milano,Ouvert,False,/boutiques-restaurants/kiko
+Odysseum,odysseum,France,KFC,Ouvert,True,/boutiques-restaurants/kfc
+Odysseum,odysseum,France,L'Atelier d'Amaya,Ouvert,False,/boutiques-restaurants/l-atelier-d-amaya
+Odysseum,odysseum,France,Le Comptoir du Flan,Ouvert,False,/boutiques-restaurants/le-comptoir-du-flan
+Odysseum,odysseum,France,Le petit souk,Ouvert,False,/boutiques-restaurants/le-petit-souk
+Odysseum,odysseum,France,Lovisa 1,Ouvert,True,/boutiques-restaurants/lovisa
+Odysseum,odysseum,France,Lovisa 2,Ouvert,True,/boutiques-restaurants/lovisa-2
+Odysseum,odysseum,France,Legami,Ouvert,False,/boutiques-restaurants/legami
+Odysseum,odysseum,France,LE SUD,Ouvert,False,/boutiques-restaurants/le-sud
+Odysseum,odysseum,France,Les 3 Brasseurs,Ouvert,False,/boutiques-restaurants/les-3-brasseurs
+Odysseum,odysseum,France,La Casa De Las Carcasas,Ouvert,False,/boutiques-restaurants/la-casa-de-las-carcasas
+Odysseum,odysseum,France,La Grande Pharmacie,Ouvert,False,/boutiques-restaurants/la-grande-pharmacie
+Odysseum,odysseum,France,Lunettes Pour Tous,Ouvert,False,/boutiques-restaurants/lunettes-pour-tous
+Odysseum,odysseum,France,LPB Woman,Ouvert,False,/boutiques-restaurants/lpb-woman
+Odysseum,odysseum,France,Levis Store,Ouvert,False,/boutiques-restaurants/levi-s-store
+Odysseum,odysseum,France,Les Jardins de l’Orchidée,Ouvert,False,/boutiques-restaurants/les-jardins-de-l-orchidee
+Odysseum,odysseum,France,Le Temps des Cerises,Ouvert,False,/boutiques-restaurants/le-temps-des-cerises
+Odysseum,odysseum,France,Le Lézard sur Pâtes,Ouvert,False,/boutiques-restaurants/le-lezard-sur-pates
+Odysseum,odysseum,France,Laser Game Evolution,Ouvert,True,/boutiques-restaurants/laser-game-evolution
+Odysseum,odysseum,France,LACOSTE,Ouvert,False,/boutiques-restaurants/lacoste
+Odysseum,odysseum,France,La Boutique du Coiffeur,Ouvert,True,/boutiques-restaurants/la-boutique-du-coiffeur
+Odysseum,odysseum,France,Micromania,Ouvert,False,/boutiques-restaurants/micromania
+Odysseum,odysseum,France,Marc Orian,Ouvert,True,/boutiques-restaurants/marc-orian
+Odysseum,odysseum,France,MHSC Store,Ouvert,False,/boutiques-restaurants/mhsc-store
+Odysseum,odysseum,France,Mc Donald's,Ouvert,False,/boutiques-restaurants/mc-donald-s
+Odysseum,odysseum,France,Mango,Ouvert,False,/boutiques-restaurants/mango
+Odysseum,odysseum,France,Ma Première Cantine,Ouvert,False,/boutiques-restaurants/ma-premiere-cantine
+Odysseum,odysseum,France,NYX Professional Makeup,Ouvert,False,/boutiques-restaurants/nyx-professional-makeup
+Odysseum,odysseum,France,Nature & Découvertes,Ouvert,False,/boutiques-restaurants/nature-decouvertes
+Odysseum,odysseum,France,Odiki Sushi,Ouvert,False,/boutiques-restaurants/odiki-sushi
+Odysseum,odysseum,France,Okaïdi-Obaïbi,Ouvert,False,/boutiques-restaurants/okaidi-obaibi
+Odysseum,odysseum,France,Pandora,Ouvert,False,/boutiques-restaurants/pandora
+Odysseum,odysseum,France,PARFOIS,Ouvert,False,/boutiques-restaurants/parfois
+Odysseum,odysseum,France,Patinoire Vegapolis,Fermé,False,/boutiques-restaurants/patinoire-vegapolis
+Odysseum,odysseum,France,POKAWA,Ouvert,False,/boutiques-restaurants/pokawa
+Odysseum,odysseum,France,PRIMARK,Ouvert,False,/boutiques-restaurants/primark
+Odysseum,odysseum,France,Popeyes,Ouvert,False,/boutiques-restaurants/popeyes
+Odysseum,odysseum,France,Pull & Bear,Ouvert,False,/boutiques-restaurants/pull-bear
+Odysseum,odysseum,France,Pomme de Pain,Ouvert,True,/boutiques-restaurants/pomme-de-pain
+Odysseum,odysseum,France,Pirates Paradise,Ouvert,False,/boutiques-restaurants/pirates-paradise
+Odysseum,odysseum,France,Planet Ocean,Ouvert,False,/boutiques-restaurants/planet-ocean
+Odysseum,odysseum,France,Palais des Thés,Ouvert,True,/boutiques-restaurants/palais-des-thes
+Odysseum,odysseum,France,Quiksilver/Roxy,Ouvert,True,/boutiques-restaurants/roxy
+Odysseum,odysseum,France,QUICK,Ouvert,False,/boutiques-restaurants/quick
+Odysseum,odysseum,France,RougeGorge,Ouvert,False,/boutiques-restaurants/rougegorge
+Odysseum,odysseum,France,Rosemarine,Ouvert,False,/boutiques-restaurants/rosemarine
+Odysseum,odysseum,France,Rituals,Ouvert,False,/boutiques-restaurants/rituals
+Odysseum,odysseum,France,Sephora,Ouvert,False,/boutiques-restaurants/sephora
+Odysseum,odysseum,France,Swarovski,Ouvert,False,/boutiques-restaurants/swarovski
+Odysseum,odysseum,France,Sunglass Hut,Ouvert,False,/boutiques-restaurants/sunglass-hut
+Odysseum,odysseum,France,Sud express,Ouvert,False,/boutiques-restaurants/sud-express
+Odysseum,odysseum,France,Subway,Ouvert,False,/boutiques-restaurants/subway
+Odysseum,odysseum,France,Stradivarius,Ouvert,False,/boutiques-restaurants/stradivarius
+Odysseum,odysseum,France,Tommy Hilfiger,Ouvert,False,/boutiques-restaurants/tommy-hilfiger
+Odysseum,odysseum,France,Twist'Air,Ouvert,True,/boutiques-restaurants/twist-air
+Odysseum,odysseum,France,Under The Sea,Ouvert,False,/boutiques-restaurants/under-the-sea
+Odysseum,odysseum,France,WYCON,Ouvert,False,/boutiques-restaurants/wycon
+Odysseum,odysseum,France,Waffle Factory,Ouvert,False,/boutiques-restaurants/waffle-factory
+Odysseum,odysseum,France,YOU JUMP!,Ouvert,False,/boutiques-restaurants/you-jump
+Odysseum,odysseum,France,Yogurt Factory,Ouvert,True,/boutiques-restaurants/yogurt-factory
+Odysseum,odysseum,France,Zara,Ouvert,False,/boutiques-restaurants/zara
+Odysseum,odysseum,France,Zumo,Ouvert,False,/boutiques-restaurants/zumo
+Grand Place,grand-place,France,Adopt',Ouvert,False,/boutiques-restaurants/adopt
+Grand Place,grand-place,France,Adidas,Ouvert,False,/boutiques-restaurants/adidas
+Grand Place,grand-place,France,Alice Pizza,Ouvert,False,/boutiques-restaurants/alice-pizza
+Grand Place,grand-place,France,AUDIO POUR TOUS,Ouvert,True,/boutiques-restaurants/audio-pour-tous
+Grand Place,grand-place,France,Armand Thiery Homme,Ouvert,False,/boutiques-restaurants/armand-thiery-homme
+Grand Place,grand-place,France,Armand Thiery Femme,Ouvert,False,/boutiques-restaurants/armand-thiery-femme
+Grand Place,grand-place,France,Alain Afflelou,Ouvert,False,/boutiques-restaurants/afflelou
+Grand Place,grand-place,France,Action,Ouvert,False,/boutiques-restaurants/action
+Grand Place,grand-place,France,Baboo Tea,Fermé,False,/boutiques-restaurants/baboo-tea
+Grand Place,grand-place,France,Bijou Brigitte,Ouvert,False,/boutiques-restaurants/bijou-brigitte
+Grand Place,grand-place,France,Burger King,Ouvert,False,/boutiques-restaurants/burger-king
+Grand Place,grand-place,France,Balaboosté,Ouvert,True,/boutiques-restaurants/balabooste
+Grand Place,grand-place,France,Bouygues Telecom,Ouvert,False,/boutiques-restaurants/bouygues-telecom
+Grand Place,grand-place,France,Bonobo,Ouvert,True,/boutiques-restaurants/bonobo
+Grand Place,grand-place,France,Bibliothèque Kateb Yacine,Ouvert,False,/boutiques-restaurants/bibliotheque-kateb-yacine
+Grand Place,grand-place,France,Bershka,Ouvert,False,/boutiques-restaurants/bershka
+Grand Place,grand-place,France,Chikin Bang,Ouvert,False,/boutiques-restaurants/chikin-bang
+Grand Place,grand-place,France,CINNAROLLS,Ouvert,False,/boutiques-restaurants/cinnarolls
+Grand Place,grand-place,France,crêpe touch',Ouvert,False,/boutiques-restaurants/crepe-touch
+Grand Place,grand-place,France,Chamas Tacos,Ouvert,False,/boutiques-restaurants/chamas-tacos
+Grand Place,grand-place,France,chausséa,Ouvert,True,/boutiques-restaurants/chaussea
+Grand Place,grand-place,France,Cactus,Ouvert,False,/boutiques-restaurants/cactus
+Grand Place,grand-place,France,Crêp'eat,Ouvert,False,/boutiques-restaurants/crep-eat
+Grand Place,grand-place,France,Courir,Ouvert,False,/boutiques-restaurants/courir
+Grand Place,grand-place,France,Cleor,Ouvert,False,/boutiques-restaurants/cleor
+Grand Place,grand-place,France,Claire's,Ouvert,False,/boutiques-restaurants/claire-s
+Grand Place,grand-place,France,Celio,Ouvert,False,/boutiques-restaurants/celio
+Grand Place,grand-place,France,Caroll,Ouvert,False,/boutiques-restaurants/caroll
+Grand Place,grand-place,France,Calzedonia,Ouvert,False,/boutiques-restaurants/calzedonia
+Grand Place,grand-place,France,Cache-Cache,Ouvert,True,/boutiques-restaurants/cache-cache
+Grand Place,grand-place,France,Devred,Ouvert,False,/boutiques-restaurants/devred
+Grand Place,grand-place,France,Emilie and the cool kids,Ouvert,False,/boutiques-restaurants/emilie-and-the-cool-kids
+Grand Place,grand-place,France,Etam,Ouvert,False,/boutiques-restaurants/etam
+Grand Place,grand-place,France,Fragolina,Ouvert,False,/boutiques-restaurants/fragolina
+Grand Place,grand-place,France,Free,Ouvert,True,/boutiques-restaurants/free
+Grand Place,grand-place,France,Foot Locker,Ouvert,False,/boutiques-restaurants/foot-locker
+Grand Place,grand-place,France,Fnac,Ouvert,False,/boutiques-restaurants/fnac
+Grand Place,grand-place,France,Générale d'Optique,Ouvert,False,/boutiques-restaurants/generale-d-optique
+Grand Place,grand-place,France,Gandy,Ouvert,False,/boutiques-restaurants/gandy
+Grand Place,grand-place,France,Gomu,Ouvert,False,/boutiques-restaurants/gomu
+Grand Place,grand-place,France,Histoire d'Or,Ouvert,False,/boutiques-restaurants/histoire-d-or-montres
+Grand Place,grand-place,France,Histoire d'Or,Ouvert,True,/boutiques-restaurants/histoire-d-or-bijouterie
+Grand Place,grand-place,France,H&M,Ouvert,False,/boutiques-restaurants/h-m
+Grand Place,grand-place,France,Intersport,Ouvert,False,/boutiques-restaurants/go-sport
+Grand Place,grand-place,France,JD Sports,Ouvert,False,/boutiques-restaurants/jd-sports
+Grand Place,grand-place,France,jack & jones,Ouvert,True,/boutiques-restaurants/jack-and-jones
+Grand Place,grand-place,France,Jules,Ouvert,False,/boutiques-restaurants/jules
+Grand Place,grand-place,France,Jeff de Bruges,Ouvert,True,/boutiques-restaurants/jeff-de-bruges
+Grand Place,grand-place,France,KR INSPIRATION,Ouvert,False,/boutiques-restaurants/kr-inspiration
+Grand Place,grand-place,France,KR INSPIRATION FASHION,Ouvert,False,/boutiques-restaurants/kr-inspiration-fashion
+Grand Place,grand-place,France,KIKO Milano,Ouvert,False,/boutiques-restaurants/kiko-milano
+Grand Place,grand-place,France,Krys,Ouvert,True,/boutiques-restaurants/krys
+Grand Place,grand-place,France,Kohcora,Ouvert,False,/boutiques-restaurants/kohcora
+Grand Place,grand-place,France,KFC,Ouvert,False,/boutiques-restaurants/kfc
+Grand Place,grand-place,France,K Donuts,Ouvert,False,/boutiques-restaurants/k-donuts
+Grand Place,grand-place,France,Les Petits Bonheurs,Ouvert,False,/boutiques-restaurants/les-petits-bonheurs
+Grand Place,grand-place,France,La casa de las carcasas,Ouvert,False,/boutiques-restaurants/la-casa-de-las-carcasas
+Grand Place,grand-place,France,La Haute Paris,Ouvert,False,/boutiques-restaurants/la-haute-paris
+Grand Place,grand-place,France,Laboratoire Biogroup Grand Place,Fermé,False,/boutiques-restaurants/laboratoire-biogroup-grand-place
+Grand Place,grand-place,France,Los Pueblos,Ouvert,False,/boutiques-restaurants/los-pueblos
+Grand Place,grand-place,France,L'Espace du Fumeur,Ouvert,False,/boutiques-restaurants/l-espace-du-fumeur
+Grand Place,grand-place,France,Le Petit Vapoteur,Ouvert,False,/boutiques-restaurants/le-petit-vapoteur
+Grand Place,grand-place,France,La Boutique Du Coiffeur,Ouvert,True,/boutiques-restaurants/la-boutique-du-coiffeur
+Grand Place,grand-place,France,Lunicco,Ouvert,False,/boutiques-restaurants/lunicco
+Grand Place,grand-place,France,La Croissanterie,Ouvert,False,/boutiques-restaurants/la-croissanterie
+Grand Place,grand-place,France,Lovisa,Ouvert,True,/boutiques-restaurants/lovisa
+Grand Place,grand-place,France,Louis Pion,Ouvert,False,/boutiques-restaurants/louis-pion
+Grand Place,grand-place,France,Le Temps des Cerises,Ouvert,False,/boutiques-restaurants/le-temps-des-cerises
+Grand Place,grand-place,France,LEGO STORE,Ouvert,False,/boutiques-restaurants/lego_store
+Grand Place,grand-place,France,Le Comptoir de Mathilde,Ouvert,False,/boutiques-restaurants/le-comptoir-de-mathilde
+Grand Place,grand-place,France,Lavage Auto SLA Isère,Ouvert,True,/boutiques-restaurants/lavage-auto-sla-isere
+Grand Place,grand-place,France,Mc Donald's,Ouvert,False,/boutiques-restaurants/mcdonald-s
+Grand Place,grand-place,France,Morgan,Ouvert,False,/boutiques-restaurants/morgan
+Grand Place,grand-place,France,Montre Service,Ouvert,True,/boutiques-restaurants/montre-service
+Grand Place,grand-place,France,Micromania,Ouvert,False,/boutiques-restaurants/micromania
+Grand Place,grand-place,France,Marc Thierry,Ouvert,False,/boutiques-restaurants/marc-thierry
+Grand Place,grand-place,France,Mango,Ouvert,False,/boutiques-restaurants/mango
+Grand Place,grand-place,France,NYX PROFESSIONAL MAKEUP,Ouvert,False,/boutiques-restaurants/nyx
+Grand Place,grand-place,France,Normal,Ouvert,False,/boutiques-restaurants/normal
+Grand Place,grand-place,France,Noélie,Ouvert,False,/boutiques-restaurants/noelie
+Grand Place,grand-place,France,Nocibé,Ouvert,False,/boutiques-restaurants/nocibe
+Grand Place,grand-place,France,Nature & Découvertes,Ouvert,False,/boutiques-restaurants/nature-decouvertes
+Grand Place,grand-place,France,Orange,Ouvert,False,/boutiques-restaurants/orange
+Grand Place,grand-place,France,ONLY,Ouvert,False,/boutiques-restaurants/only
+Grand Place,grand-place,France,Originel,Ouvert,False,/boutiques-restaurants/originel
+Grand Place,grand-place,France,Okaïdi,Ouvert,True,/boutiques-restaurants/okaidi
+Grand Place,grand-place,France,Poke House,Ouvert,False,/boutiques-restaurants/poke-house
+Grand Place,grand-place,France,Pandora,Ouvert,False,/boutiques-restaurants/pandora
+Grand Place,grand-place,France,primark,Ouvert,False,/boutiques-restaurants/primark
+Grand Place,grand-place,France,PRIMAPRIX,Ouvert,False,/boutiques-restaurants/primaprix
+Grand Place,grand-place,France,Pastavia,Ouvert,True,/boutiques-restaurants/pastavia
+Grand Place,grand-place,France,Palais des thés,Ouvert,False,/boutiques-restaurants/le-palais-des-thes
+Grand Place,grand-place,France,Poulet Braisé,Ouvert,True,/boutiques-restaurants/poulet-braise
+Grand Place,grand-place,France,popeyes,Ouvert,False,/boutiques-restaurants/popeyes
+Grand Place,grand-place,France,Pimkie,Ouvert,False,/boutiques-restaurants/pimkie
+Grand Place,grand-place,France,Pharmacie Grand Place,Ouvert,False,/boutiques-restaurants/pharmacie-grand-place
+Grand Place,grand-place,France,PARFOIS,Ouvert,False,/boutiques-restaurants/parfois
+Grand Place,grand-place,France,RougeGorge,Ouvert,False,/boutiques-restaurants/rougegorge
+Grand Place,grand-place,France,RITUALS,Ouvert,False,/boutiques-restaurants/rituals
+Grand Place,grand-place,France,Skechers,Ouvert,False,/boutiques-restaurants/skechers
+Grand Place,grand-place,France,Sushi Way,Ouvert,False,/boutiques-restaurants/sushi-way
+Grand Place,grand-place,France,Starbucks,Ouvert,False,/boutiques-restaurants/starbucks
+Grand Place,grand-place,France,Swarovski,Ouvert,True,/boutiques-restaurants/swarovski
+Grand Place,grand-place,France,SNIPES,Ouvert,False,/boutiques-restaurants/snipes
+Grand Place,grand-place,France,Sephora,Ouvert,False,/boutiques-restaurants/sephora
+Grand Place,grand-place,France,SFR,Ouvert,True,/boutiques-restaurants/espace-sfr
+Grand Place,grand-place,France,TEZENIS,Ouvert,False,/boutiques-restaurants/tezenis
+Grand Place,grand-place,France,Undiz,Ouvert,False,/boutiques-restaurants/undiz
+Grand Place,grand-place,France,Wycon,Ouvert,False,/boutiques-restaurants/wycon
+Grand Place,grand-place,France,Waffle Factory,Ouvert,False,/boutiques-restaurants/waffle-factory
+Grand Place,grand-place,France,Wefix,Ouvert,False,/boutiques-restaurants/wefix
+Grand Place,grand-place,France,Yogurt Factory,Ouvert,False,/boutiques-restaurants/yogurt-factory
+Grand Place,grand-place,France,Yves Rocher,Fermé,False,/boutiques-restaurants/yves-rocher
+Grand Place,grand-place,France,Zara,Ouvert,False,/boutiques-restaurants/zara
+L'Esplanade,l-esplanade,Belgique,America Today,Ouvert,False,/boutiques-restaurants/america-today
+L'Esplanade,l-esplanade,Belgique,AS Adventure,Ouvert,False,/boutiques-restaurants/as-adventure
+L'Esplanade,l-esplanade,Belgique,Australian,Ouvert,False,/boutiques-restaurants/australian
+L'Esplanade,l-esplanade,Belgique,April,Ouvert,True,/boutiques-restaurants/planet-parfum
+L'Esplanade,l-esplanade,Belgique,Armand Thiery Homme,Ouvert,False,/boutiques-restaurants/armand-thiery-homme
+L'Esplanade,l-esplanade,Belgique,Alain Afflelou,Ouvert,False,/boutiques-restaurants/alain-afflelou
+L'Esplanade,l-esplanade,Belgique,Adopt,Ouvert,False,/boutiques-restaurants/adopt
+L'Esplanade,l-esplanade,Belgique,Base,Ouvert,False,/boutiques-restaurants/base
+L'Esplanade,l-esplanade,Belgique,Basic-Fit,Ouvert,False,/boutiques-restaurants/basic-fit
+L'Esplanade,l-esplanade,Belgique,Burger King,Ouvert,False,/boutiques-restaurants/burger-king
+L'Esplanade,l-esplanade,Belgique,Brasserie de L'esplanade,Ouvert,False,/boutiques-restaurants/brasserie-de-l-esplanade
+L'Esplanade,l-esplanade,Belgique,Black & White,Ouvert,False,/boutiques-restaurants/blackwhite
+L'Esplanade,l-esplanade,Belgique,Brice,Ouvert,False,/boutiques-restaurants/brice
+L'Esplanade,l-esplanade,Belgique,Bershka,Ouvert,False,/boutiques-restaurants/bershka
+L'Esplanade,l-esplanade,Belgique,Confizz,Ouvert,False,/boutiques-restaurants/confizz
+L'Esplanade,l-esplanade,Belgique,Chaussures MANIET,Ouvert,False,/boutiques-restaurants/chaussures-maniet
+L'Esplanade,l-esplanade,Belgique,Chitir Chicken,Ouvert,True,/boutiques-restaurants/chitir-chicken
+L'Esplanade,l-esplanade,Belgique,Courir,Ouvert,False,/boutiques-restaurants/courir
+L'Esplanade,l-esplanade,Belgique,Comptoir du linge,Ouvert,True,/boutiques-restaurants/comptoir-du-linge
+L'Esplanade,l-esplanade,Belgique,Club,Ouvert,False,/boutiques-restaurants/club
+L'Esplanade,l-esplanade,Belgique,CIACO,Ouvert,True,/boutiques-restaurants/ciaco
+L'Esplanade,l-esplanade,Belgique,Celio,Ouvert,False,/boutiques-restaurants/celio
+L'Esplanade,l-esplanade,Belgique,Caroll,Ouvert,False,/boutiques-restaurants/caroll
+L'Esplanade,l-esplanade,Belgique,Cantata,Ouvert,False,/boutiques-restaurants/cantata
+L'Esplanade,l-esplanade,Belgique,Calzedonia,Ouvert,False,/boutiques-restaurants/calzedonia
+L'Esplanade,l-esplanade,Belgique,C&A,Ouvert,False,/boutiques-restaurants/c-a
+L'Esplanade,l-esplanade,Belgique,Di Beauty&Care,Ouvert,True,/boutiques-restaurants/di-beauty-care
+L'Esplanade,l-esplanade,Belgique,Delhaize,Ouvert,False,/boutiques-restaurants/delhaize
+L'Esplanade,l-esplanade,Belgique,Delcambe,Ouvert,False,/boutiques-restaurants/delcambe
+L'Esplanade,l-esplanade,Belgique,Dampshop,Ouvert,False,/boutiques-restaurants/dampshop
+L'Esplanade,l-esplanade,Belgique,EasyClothes,Ouvert,False,/boutiques-restaurants/easyclothes
+L'Esplanade,l-esplanade,Belgique,Exki (Rue Charlemagne),Ouvert,False,/boutiques-restaurants/exki-rue-charlemagne
+L'Esplanade,l-esplanade,Belgique,EXKi (Centre commercial),Ouvert,False,/boutiques-restaurants/exki-centre-commercial
+L'Esplanade,l-esplanade,Belgique,Etam Lingerie,Ouvert,False,/boutiques-restaurants/etam-lingerie
+L'Esplanade,l-esplanade,Belgique,Espace Vision,Ouvert,False,/boutiques-restaurants/espace-vision
+L'Esplanade,l-esplanade,Belgique,Fram Louvain-la-Neuve,Ouvert,False,/boutiques-restaurants/fram
+L'Esplanade,l-esplanade,Belgique,Flying Tiger,Ouvert,False,/boutiques-restaurants/flying-tiger
+L'Esplanade,l-esplanade,Belgique,FNAC,Ouvert,False,/boutiques-restaurants/fnac
+L'Esplanade,l-esplanade,Belgique,Geox,Ouvert,True,/boutiques-restaurants/geox
+L'Esplanade,l-esplanade,Belgique,Guapa,Ouvert,True,/boutiques-restaurants/guapa
+L'Esplanade,l-esplanade,Belgique,Gilance,Ouvert,False,/boutiques-restaurants/gilance
+L'Esplanade,l-esplanade,Belgique,Gong Cha,Ouvert,False,/boutiques-restaurants/gong-cha
+L'Esplanade,l-esplanade,Belgique,GEORGE JOAILLIERS,Ouvert,False,/boutiques-restaurants/george-joailliers
+L'Esplanade,l-esplanade,Belgique,H&M,Ouvert,False,/boutiques-restaurants/h-m
+L'Esplanade,l-esplanade,Belgique,Hawaiian Poke Bowl,Ouvert,False,/boutiques-restaurants/hawaiian-poke-bowl
+L'Esplanade,l-esplanade,Belgique,Histoire d'Or,Ouvert,True,/boutiques-restaurants/histoire-d-or
+L'Esplanade,l-esplanade,Belgique,Hema,Ouvert,False,/boutiques-restaurants/hema
+L'Esplanade,l-esplanade,Belgique,Hairdis,Ouvert,False,/boutiques-restaurants/hairdis
+L'Esplanade,l-esplanade,Belgique,iServices,Ouvert,False,/boutiques-restaurants/iservices
+L'Esplanade,l-esplanade,Belgique,Intimissimi,Ouvert,False,/boutiques-restaurants/intimissimi
+L'Esplanade,l-esplanade,Belgique,Ici Paris XL,Ouvert,False,/boutiques-restaurants/ici-paris-xl
+L'Esplanade,l-esplanade,Belgique,Jimmy Fairly,Ouvert,False,/boutiques-restaurants/jimmy-fairly
+L'Esplanade,l-esplanade,Belgique,Jules,Ouvert,False,/boutiques-restaurants/jules
+L'Esplanade,l-esplanade,Belgique,Jack & Jones,Ouvert,True,/boutiques-restaurants/jack-jones
+L'Esplanade,l-esplanade,Belgique,Kusmi Tea,Ouvert,True,/boutiques-restaurants/kusmi-tea
+L'Esplanade,l-esplanade,Belgique,KRUIDVAT,Ouvert,False,/boutiques-restaurants/kruidvat
+L'Esplanade,l-esplanade,Belgique,Kiko Milano,Ouvert,False,/boutiques-restaurants/kiko
+L'Esplanade,l-esplanade,Belgique,Le Zèbre à Pois,Ouvert,False,/boutiques-restaurants/le-zap
+L'Esplanade,l-esplanade,Belgique,L'Atelier d'Amaya,Ouvert,False,/boutiques-restaurants/l-atelier-d-amaya
+L'Esplanade,l-esplanade,Belgique,Le Comptoir de Mathilde,Ouvert,False,/boutiques-restaurants/le-comptoir-de-mathilde
+L'Esplanade,l-esplanade,Belgique,L.C. Coiffure,Ouvert,True,/boutiques-restaurants/l-c--coiffure
+L'Esplanade,l-esplanade,Belgique,Lush,Ouvert,False,/boutiques-restaurants/lush
+L'Esplanade,l-esplanade,Belgique,Lovisa,Ouvert,False,/boutiques-restaurants/lovisa
+L'Esplanade,l-esplanade,Belgique,Levi's,Ouvert,False,/boutiques-restaurants/levi-s
+L'Esplanade,l-esplanade,Belgique,Les Secrets du Chef,Ouvert,False,/boutiques-restaurants/les-secrets-du-chef
+L'Esplanade,l-esplanade,Belgique,Les Bourgeoises,Ouvert,False,/boutiques-restaurants/les-bourgeoises
+L'Esplanade,l-esplanade,Belgique,Les Ateliers du linge,Ouvert,False,/boutiques-restaurants/les-ateliers-du-linge
+L'Esplanade,l-esplanade,Belgique,Le Royal Bowl RB,Fermé,False,/boutiques-restaurants/le-royal-bowl-rb
+L'Esplanade,l-esplanade,Belgique,Leonidas,Ouvert,False,/boutiques-restaurants/leonidas
+L'Esplanade,l-esplanade,Belgique,Lacoste,Ouvert,False,/boutiques-restaurants/lacoste
+L'Esplanade,l-esplanade,Belgique,La Chaise Longue,Ouvert,False,/boutiques-restaurants/la-chaise-longue
+L'Esplanade,l-esplanade,Belgique,Lab9,Ouvert,False,/boutiques-restaurants/easy-m
+L'Esplanade,l-esplanade,Belgique,Maison 123,Ouvert,False,/boutiques-restaurants/maison-123
+L'Esplanade,l-esplanade,Belgique,Monica Jane,Ouvert,False,/boutiques-restaurants/monica-jane
+L'Esplanade,l-esplanade,Belgique,Mister Minit,Ouvert,True,/boutiques-restaurants/mister-minit
+L'Esplanade,l-esplanade,Belgique,Medi-Market,Ouvert,False,/boutiques-restaurants/medi-market
+L'Esplanade,l-esplanade,Belgique,Massimo Dutti,Ouvert,False,/boutiques-restaurants/massimo-dutti
+L'Esplanade,l-esplanade,Belgique,Mango,Ouvert,False,/boutiques-restaurants/mango
+L'Esplanade,l-esplanade,Belgique,Maisons du Monde,Ouvert,False,/boutiques-restaurants/maisons-du-monde
+L'Esplanade,l-esplanade,Belgique,Mac Cosmetics,Ouvert,False,/boutiques-restaurants/mac-cosmetics
+L'Esplanade,l-esplanade,Belgique,Namaste,Ouvert,False,/boutiques-restaurants/namaste
+L'Esplanade,l-esplanade,Belgique,Neuhaus,Ouvert,False,/boutiques-restaurants/neuhaus
+L'Esplanade,l-esplanade,Belgique,Nature & Découvertes,Ouvert,False,/boutiques-restaurants/nature-decouvertes
+L'Esplanade,l-esplanade,Belgique,Orange,Ouvert,False,/boutiques-restaurants/orange
+L'Esplanade,l-esplanade,Belgique,ONLY,Ouvert,False,/boutiques-restaurants/only
+L'Esplanade,l-esplanade,Belgique,Okaïdi,Ouvert,False,/boutiques-restaurants/okaidi
+L'Esplanade,l-esplanade,Belgique,Oil & Vinegar,Ouvert,True,/boutiques-restaurants/oil-vinegar
+L'Esplanade,l-esplanade,Belgique,Poke House,Ouvert,False,/boutiques-restaurants/poke-house
+L'Esplanade,l-esplanade,Belgique,Prego!,Ouvert,False,/boutiques-restaurants/prego
+L'Esplanade,l-esplanade,Belgique,Paul,Ouvert,False,/boutiques-restaurants/paul
+L'Esplanade,l-esplanade,Belgique,Panos,Ouvert,True,/boutiques-restaurants/panos
+L'Esplanade,l-esplanade,Belgique,Proximus RC,Ouvert,False,/boutiques-restaurants/proximus-rc
+L'Esplanade,l-esplanade,Belgique,Propharma,Ouvert,False,/boutiques-restaurants/propharma
+L'Esplanade,l-esplanade,Belgique,Press Shop,Ouvert,False,/boutiques-restaurants/press-shop
+L'Esplanade,l-esplanade,Belgique,Pearle,Ouvert,False,/boutiques-restaurants/pearle
+L'Esplanade,l-esplanade,Belgique,Pathé Louvain-la-Neuve,Ouvert,False,/boutiques-restaurants/pathe-louvain-la-neuve
+L'Esplanade,l-esplanade,Belgique,Pandora,Ouvert,False,/boutiques-restaurants/pandora
+L'Esplanade,l-esplanade,Belgique,Palais des Thés,Ouvert,True,/boutiques-restaurants/palais-des-thes
+L'Esplanade,l-esplanade,Belgique,Quick,Ouvert,False,/boutiques-restaurants/quick
+L'Esplanade,l-esplanade,Belgique,Riverwoods,Ouvert,False,/boutiques-restaurants/riverwoods
+L'Esplanade,l-esplanade,Belgique,Rituals,Ouvert,False,/boutiques-restaurants/rituals
+L'Esplanade,l-esplanade,Belgique,Sostrene Grene,Ouvert,False,/boutiques-restaurants/sostrene-grene
+L'Esplanade,l-esplanade,Belgique,Superdry,Ouvert,False,/boutiques-restaurants/superdry
+L'Esplanade,l-esplanade,Belgique,Snipes,Ouvert,False,/boutiques-restaurants/snipes
+L'Esplanade,l-esplanade,Belgique,Tape à l'Œil,Ouvert,False,/boutiques-restaurants/tape-a-l-aeil
+L'Esplanade,l-esplanade,Belgique,Twice as Nice,Ouvert,False,/boutiques-restaurants/twice-as-nice
+L'Esplanade,l-esplanade,Belgique,Tezenis,Ouvert,False,/boutiques-restaurants/tezenis
+L'Esplanade,l-esplanade,Belgique,Tequila,Ouvert,False,/boutiques-restaurants/tequila
+L'Esplanade,l-esplanade,Belgique,Undiz,Ouvert,False,/boutiques-restaurants/undiz
+L'Esplanade,l-esplanade,Belgique,Venizi,Ouvert,False,/boutiques-restaurants/venizi
+L'Esplanade,l-esplanade,Belgique,Veritas,Ouvert,False,/boutiques-restaurants/veritas
+L'Esplanade,l-esplanade,Belgique,Woké Noodle Bar,Ouvert,True,/boutiques-restaurants/woke-noodle-bar
+L'Esplanade,l-esplanade,Belgique,Wasbar,Ouvert,False,/boutiques-restaurants/wasbar
+L'Esplanade,l-esplanade,Belgique,Waffle Factory,Ouvert,True,/boutiques-restaurants/waffle-factory
+L'Esplanade,l-esplanade,Belgique,Yves Rocher,Ouvert,False,/boutiques-restaurants/yves-rocher
+L'Esplanade,l-esplanade,Belgique,Zara,Ouvert,False,/boutiques-restaurants/zara
