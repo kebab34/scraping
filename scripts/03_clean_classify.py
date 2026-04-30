@@ -7,7 +7,7 @@ Output : data/final/boutiques_final.csv
 import os
 import pandas as pd
 
-INPUT_CSV = "data/intermediate/boutiques_raw.csv"
+INPUT_CSV = "data/intermediate/boutiques_categories.csv"
 OUTPUT_CSV = "data/final/boutiques_final.csv"
 
 # Classification par mots-clés dans le nom de l'enseigne
@@ -120,8 +120,16 @@ def main():
     df = df[df["boutique_name"].str.len() > 0]
     print(f"{len(df)} boutiques après dédoublonnage")
 
-    # Classification
-    df["category"] = df["boutique_name"].apply(classify)
+    # Classification : utiliser category_final si disponible, sinon mots-clés
+    # "Services" depuis 02b est peu fiable (faux positifs via menu nav) → on re-classifie
+    if "category_final" in df.columns:
+        df["category"] = df.apply(
+            lambda r: classify(r["boutique_name"]) if r["category_final"] == "Services"
+            else r["category_final"],
+            axis=1
+        )
+    else:
+        df["category"] = df["boutique_name"].apply(classify)
 
     # Statut normalisé
     df["is_open"] = df["status"].str.lower().str.contains("ouvert|open|aperto|abierto|open", na=False)
@@ -131,11 +139,10 @@ def main():
     df["date_fermeture"] = ""
 
     # Sélection et ordre des colonnes finales
-    df_final = df[[
-        "center_name", "center_slug", "country",
-        "boutique_name", "category", "is_open", "has_deals",
-        "date_ouverture", "date_fermeture", "boutique_path"
-    ]]
+    cols = ["center_name", "center_slug", "country",
+            "boutique_name", "category", "is_open", "has_deals",
+            "date_ouverture", "date_fermeture", "boutique_path"]
+    df_final = df[[c for c in cols if c in df.columns]]
 
     os.makedirs("data/final", exist_ok=True)
     df_final.to_csv(OUTPUT_CSV, index=False, encoding="utf-8")
