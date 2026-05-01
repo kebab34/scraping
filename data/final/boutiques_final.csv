@@ -1,20 +1,20 @@
 center_name,center_slug,country,boutique_name,category,is_open,has_deals,date_ouverture,date_fermeture,boutique_path
 Val d'Europe,val-d-europe,France,ACUITIS,Autre,True,True,,,/boutiques-restaurants/acuitis
-Val d'Europe,val-d-europe,France,Activate,Autre,False,False,,,/boutiques-restaurants/activate
-Val d'Europe,val-d-europe,France,Axess,Autre,True,True,,,/boutiques-restaurants/axess
+Val d'Europe,val-d-europe,France,Activate,Divertissement,False,False,,,/boutiques-restaurants/activate
+Val d'Europe,val-d-europe,France,Axess,Mode,True,True,,,/boutiques-restaurants/axess
 Val d'Europe,val-d-europe,France,Auchan,Supermarchés & Alimentaire,True,False,,,/boutiques-restaurants/auchan
 Val d'Europe,val-d-europe,France,Aubade,Mode,True,True,,,/boutiques-restaurants/aubade
 Val d'Europe,val-d-europe,France,Atol,Santé & Beauté,True,True,,,/boutiques-restaurants/atol
 Val d'Europe,val-d-europe,France,Aroma-Zone,Santé & Beauté,True,False,,,/boutiques-restaurants/aroma-zone
 Val d'Europe,val-d-europe,France,Armand Thiery Homme,Mode,True,False,,,/boutiques-restaurants/armand-thiery-homme
 Val d'Europe,val-d-europe,France,Armand Thiery Femme,Mode,True,False,,,/boutiques-restaurants/armand-thiery-femme
-Val d'Europe,val-d-europe,France,Aquarium Sea Life,Autre,True,True,,,/boutiques-restaurants/aquarium-sea-life
+Val d'Europe,val-d-europe,France,Aquarium Sea Life,Divertissement,True,True,,,/boutiques-restaurants/aquarium-sea-life
 Val d'Europe,val-d-europe,France,Apple Store,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/apple-store
 Val d'Europe,val-d-europe,France,adidas,Mode,True,True,,,/boutiques-restaurants/adidas
 Val d'Europe,val-d-europe,France,Balaboosté,Autre,True,True,,,/boutiques-restaurants/balabooste
 Val d'Europe,val-d-europe,France,BRENDY'S CAFÉ,Restauration,True,True,,,/boutiques-restaurants/brendy-s-caf
-Val d'Europe,val-d-europe,France,BEXLEY,Autre,True,False,,,/boutiques-restaurants/bexley
-Val d'Europe,val-d-europe,France,Bonobo Jeans,Autre,True,True,,,/boutiques-restaurants/bonobo-jeans
+Val d'Europe,val-d-europe,France,BEXLEY,Mode,True,False,,,/boutiques-restaurants/bexley
+Val d'Europe,val-d-europe,France,Bonobo Jeans,Mode,True,True,,,/boutiques-restaurants/bonobo-jeans
 Val d'Europe,val-d-europe,France,Brioche Dorée - Les terrasses,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/brioche-doree-les-terrasses
 Val d'Europe,val-d-europe,France,Brioche Dorée,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/brioche-doree
 Val d'Europe,val-d-europe,France,Big Fernand,Restauration,True,True,,,/boutiques-restaurants/big-fernand
@@ -32,35 +32,35 @@ Val d'Europe,val-d-europe,France,Courir,Mode,True,True,,,/boutiques-restaurants/
 Val d'Europe,val-d-europe,France,Cordonnerie multiservices,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/cordonnerie
 Val d'Europe,val-d-europe,France,Cleor,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/cleor
 Val d'Europe,val-d-europe,France,Claire's,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/claire-s
-Val d'Europe,val-d-europe,France,Chantelle,Autre,True,True,,,/boutiques-restaurants/chantelle
+Val d'Europe,val-d-europe,France,Chantelle,Mode,True,True,,,/boutiques-restaurants/chantelle
 Val d'Europe,val-d-europe,France,Celio Club,Mode,True,False,,,/boutiques-restaurants/celio-club
 Val d'Europe,val-d-europe,France,Celio,Mode,True,False,,,/boutiques-restaurants/celio
 Val d'Europe,val-d-europe,France,Carré Blanc,Autre,True,False,,,/boutiques-restaurants/carre-blanc
 Val d'Europe,val-d-europe,France,Caroll,Mode,True,False,,,/boutiques-restaurants/caroll
-Val d'Europe,val-d-europe,France,Cap'Tonic,Autre,True,False,,,/boutiques-restaurants/cap-tonic
+Val d'Europe,val-d-europe,France,Cap'Tonic,Divertissement,True,False,,,/boutiques-restaurants/cap-tonic
 Val d'Europe,val-d-europe,France,Calzedonia,Mode,True,False,,,/boutiques-restaurants/calzedonia
-Val d'Europe,val-d-europe,France,Café coton,Autre,True,False,,,/boutiques-restaurants/cafe-coton
-Val d'Europe,val-d-europe,France,Cabaïa,Autre,True,False,,,/boutiques-restaurants/cabaia
+Val d'Europe,val-d-europe,France,Café coton,Mode,True,False,,,/boutiques-restaurants/cafe-coton
+Val d'Europe,val-d-europe,France,Cabaïa,Mode,True,False,,,/boutiques-restaurants/cabaia
 Val d'Europe,val-d-europe,France,Dunkin',Autre,True,False,,,/boutiques-restaurants/dunkin
 Val d'Europe,val-d-europe,France,Draeger,Maison & Décoration,True,True,,,/boutiques-restaurants/draeger
 Val d'Europe,val-d-europe,France,DEVRED,Mode,True,False,,,/boutiques-restaurants/devred
-Val d'Europe,val-d-europe,France,Desigual,Autre,True,False,,,/boutiques-restaurants/desigual
+Val d'Europe,val-d-europe,France,Desigual,Mode,True,False,,,/boutiques-restaurants/desigual
 Val d'Europe,val-d-europe,France,Ephemera - Wonderwoods,Autre,True,False,,,/boutiques-restaurants/wonderwoods
 Val d'Europe,val-d-europe,France,Etam Lingerie,Mode,True,False,,,/boutiques-restaurants/etam-lingerie
 Val d'Europe,val-d-europe,France,FOODZILLA,Restauration,True,True,,,/boutiques-restaurants/foodzilla
-Val d'Europe,val-d-europe,France,FATHER & SONS,Autre,True,False,,,/boutiques-restaurants/father-and-sons
+Val d'Europe,val-d-europe,France,FATHER & SONS,Mode,True,False,,,/boutiques-restaurants/father-and-sons
 Val d'Europe,val-d-europe,France,Foot Locker,Mode,True,False,,,/boutiques-restaurants/foot-locker
 Val d'Europe,val-d-europe,France,Fort Boyard Aventures,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/fort-boyard-aventures
 Val d'Europe,val-d-europe,France,Factory & Co,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/factory-co
 Val d'Europe,val-d-europe,France,Free,Services,True,True,,,/boutiques-restaurants/free
 Val d'Europe,val-d-europe,France,Franck Provost,Santé & Beauté,True,True,,,/boutiques-restaurants/franck-provost
 Val d'Europe,val-d-europe,France,FNAC,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/fnac
-Val d'Europe,val-d-europe,France,Finsbury,Autre,True,False,,,/boutiques-restaurants/finsbury
-Val d'Europe,val-d-europe,France,Falconeri,Autre,True,False,,,/boutiques-restaurants/falconeri
+Val d'Europe,val-d-europe,France,Finsbury,Mode,True,False,,,/boutiques-restaurants/finsbury
+Val d'Europe,val-d-europe,France,Falconeri,Mode,True,False,,,/boutiques-restaurants/falconeri
 Val d'Europe,val-d-europe,France,GrandOptical,Autre,True,True,,,/boutiques-restaurants/grandoptical
 Val d'Europe,val-d-europe,France,Générale d'Optique,Santé & Beauté,True,True,,,/boutiques-restaurants/generale-d-optique
 Val d'Europe,val-d-europe,France,GEOX,Mode,True,False,,,/boutiques-restaurants/geox
-Val d'Europe,val-d-europe,France,Havaianas,Autre,True,False,,,/boutiques-restaurants/havaianas-val-d-europe
+Val d'Europe,val-d-europe,France,Havaianas,Mode,True,False,,,/boutiques-restaurants/havaianas-val-d-europe
 Val d'Europe,val-d-europe,France,Hokkaïdo,Autre,True,False,,,/boutiques-restaurants/hokka-do
 Val d'Europe,val-d-europe,France,Hippopotamus,Restauration,False,False,,,/boutiques-restaurants/hippopotamus
 Val d'Europe,val-d-europe,France,HORACE,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/horace
@@ -74,21 +74,21 @@ Val d'Europe,val-d-europe,France,Illy,Autre,True,False,,,/boutiques-restaurants/
 Val d'Europe,val-d-europe,France,Italian Queen,Autre,True,False,,,/boutiques-restaurants/italian-queen
 Val d'Europe,val-d-europe,France,Intimissimi,Mode,True,False,,,/boutiques-restaurants/intimissimi
 Val d'Europe,val-d-europe,France,Intersport,Mode,True,False,,,/boutiques-restaurants/intersport
-Val d'Europe,val-d-europe,France,Jack&Jones,Autre,True,False,,,/boutiques-restaurants/jack-jones
+Val d'Europe,val-d-europe,France,Jack&Jones,Mode,True,False,,,/boutiques-restaurants/jack-jones
 Val d'Europe,val-d-europe,France,JD Sports,Mode,True,False,,,/boutiques-restaurants/jd-sports
 Val d'Europe,val-d-europe,France,Jules,Mode,True,False,,,/boutiques-restaurants/jules
-Val d'Europe,val-d-europe,France,JOTT,Autre,True,False,,,/boutiques-restaurants/jott
+Val d'Europe,val-d-europe,France,JOTT,Mode,True,False,,,/boutiques-restaurants/jott
 Val d'Europe,val-d-europe,France,Jeff de Bruges,Autre,True,True,,,/boutiques-restaurants/jeff-de-bruges
 Val d'Europe,val-d-europe,France,Jean-Louis David,Autre,True,True,,,/boutiques-restaurants/jean-louis-david
 Val d'Europe,val-d-europe,France,Kusmi Tea,Restauration,True,True,,,/boutiques-restaurants/kusmi-tea
-Val d'Europe,val-d-europe,France,KO Jump,Autre,True,False,,,/boutiques-restaurants/ko-jump
+Val d'Europe,val-d-europe,France,KO Jump,Divertissement,True,False,,,/boutiques-restaurants/ko-jump
 Val d'Europe,val-d-europe,France,Krispy Kreme,Autre,True,False,,,/boutiques-restaurants/krispy-kreme
 Val d'Europe,val-d-europe,France,KIKO Milano,Santé & Beauté,True,False,,,/boutiques-restaurants/kiko-cosmetics
 Val d'Europe,val-d-europe,France,Kiabi,Mode,True,False,,,/boutiques-restaurants/kiabi
 Val d'Europe,val-d-europe,France,Les Georgettes,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/les-georgettes
-Val d'Europe,val-d-europe,France,Le petit Souk,Autre,True,False,,,/boutiques-restaurants/le-petit-souk
+Val d'Europe,val-d-europe,France,Le petit Souk,Mode,True,False,,,/boutiques-restaurants/le-petit-souk
 Val d'Europe,val-d-europe,France,LA CASA DE LAS CARCASAS,Autre,True,False,,,/boutiques-restaurants/la-casa-de-las-carcasas
-Val d'Europe,val-d-europe,France,L'Atelier d'Amaya,Autre,True,False,,,/boutiques-restaurants/l-atelier-d-amaya
+Val d'Europe,val-d-europe,France,L'Atelier d'Amaya,Mode,True,False,,,/boutiques-restaurants/l-atelier-d-amaya
 Val d'Europe,val-d-europe,France,La Cantine Libanaise,Restauration,True,False,,,/boutiques-restaurants/la-cantine-libanaise
 Val d'Europe,val-d-europe,France,Legami,Autre,True,False,,,/boutiques-restaurants/legami
 Val d'Europe,val-d-europe,France,Le Paradis du fruit,Autre,True,False,,,/boutiques-restaurants/le-paradis-du-fruit
@@ -100,7 +100,7 @@ Val d'Europe,val-d-europe,France,Lovisa,Autre,True,False,,,/boutiques-restaurant
 Val d'Europe,val-d-europe,France,Louis Pion,Autre,True,False,,,/boutiques-restaurants/louis-pion
 Val d'Europe,val-d-europe,France,Lidl,Autre,True,False,,,/boutiques-restaurants/lidl
 Val d'Europe,val-d-europe,France,Levi's Store,Mode,True,False,,,/boutiques-restaurants/levi-s-store
-Val d'Europe,val-d-europe,France,Le Tanneur,Autre,True,False,,,/boutiques-restaurants/le-tanneur
+Val d'Europe,val-d-europe,France,Le Tanneur,Mode,True,False,,,/boutiques-restaurants/le-tanneur
 Val d'Europe,val-d-europe,France,Le bar à ongles EDESIA,Autre,True,True,,,/boutiques-restaurants/le-bar-a-ongles
 Val d'Europe,val-d-europe,France,La Chaise Longue,Autre,True,False,,,/boutiques-restaurants/la-chaise-longue
 Val d'Europe,val-d-europe,France,La Boutique du Coiffeur,Santé & Beauté,True,True,,,/boutiques-restaurants/la-boutique-du-coiffeur
@@ -114,29 +114,29 @@ Val d'Europe,val-d-europe,France,Mc donald's Zone restauration,Autre,True,False,
 Val d'Europe,val-d-europe,France,McCafé,Autre,True,False,,,/boutiques-restaurants/mccafe
 Val d'Europe,val-d-europe,France,Mangos,Mode,True,False,,,/boutiques-restaurants/mangos
 Val d'Europe,val-d-europe,France,My Pop Paradise,Autre,True,True,,,/boutiques-restaurants/my-pop-paradise
-Val d'Europe,val-d-europe,France,Mulligan,Autre,True,False,,,/boutiques-restaurants/mulligan
+Val d'Europe,val-d-europe,France,Mulligan,Mode,True,False,,,/boutiques-restaurants/mulligan
 Val d'Europe,val-d-europe,France,Micromania,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/micromania
 Val d'Europe,val-d-europe,France,Mauboussin,Autre,True,True,,,/boutiques-restaurants/mauboussin
 Val d'Europe,val-d-europe,France,Marc Orian,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/marc-orian
 Val d'Europe,val-d-europe,France,Mango,Mode,True,False,,,/boutiques-restaurants/mango
-Val d'Europe,val-d-europe,France,Manège,Autre,True,True,,,/boutiques-restaurants/manege
+Val d'Europe,val-d-europe,France,Manège,Divertissement,True,True,,,/boutiques-restaurants/manege
 Val d'Europe,val-d-europe,France,Maison 123,Mode,True,False,,,/boutiques-restaurants/maison-1-2-3
 Val d'Europe,val-d-europe,France,MAC Cosmetics,Santé & Beauté,True,False,,,/boutiques-restaurants/mac-cosmetics
 Val d'Europe,val-d-europe,France,Narh Paris,Autre,True,False,,,/boutiques-restaurants/narh-paris
 Val d'Europe,val-d-europe,France,NYX Cosmetics,Santé & Beauté,True,False,,,/boutiques-restaurants/nyx-cosmetics
 Val d'Europe,val-d-europe,France,Normal,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/normal
 Val d'Europe,val-d-europe,France,Nocibé,Autre,True,False,,,/boutiques-restaurants/nocibe
-Val d'Europe,val-d-europe,France,Nin&Laur,Autre,True,False,,,/boutiques-restaurants/nin-laur
+Val d'Europe,val-d-europe,France,Nin&Laur,Mode,True,False,,,/boutiques-restaurants/nin-laur
 Val d'Europe,val-d-europe,France,Nike Store,Mode,True,False,,,/boutiques-restaurants/nike-store
 Val d'Europe,val-d-europe,France,Nespresso,Autre,True,False,,,/boutiques-restaurants/nespresso
-Val d'Europe,val-d-europe,France,Okaïdi - Obaïbi,Autre,True,False,,,/boutiques-restaurants/okaidi-obaibi
+Val d'Europe,val-d-europe,France,Okaïdi - Obaïbi,Mode,True,False,,,/boutiques-restaurants/okaidi-obaibi
 Val d'Europe,val-d-europe,France,Oh Nata,Autre,True,False,,,/boutiques-restaurants/oh-nata
-Val d'Europe,val-d-europe,France,ONLY,Autre,True,False,,,/boutiques-restaurants/only
+Val d'Europe,val-d-europe,France,ONLY,Mode,True,False,,,/boutiques-restaurants/only
 Val d'Europe,val-d-europe,France,Orange France Telecom,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/orange-france-telecom
 Val d'Europe,val-d-europe,France,OB9 barber’s signature,Autre,True,True,,,/boutiques-restaurants/ob9-barber-s-signature
 Val d'Europe,val-d-europe,France,Pandora Store,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/pandora-store
 Val d'Europe,val-d-europe,France,Passage du désir,Autre,True,False,,,/boutiques-restaurants/passage-du-desir
-Val d'Europe,val-d-europe,France,Parfois,Autre,True,False,,,/boutiques-restaurants/parfois
+Val d'Europe,val-d-europe,France,Parfois,Mode,True,False,,,/boutiques-restaurants/parfois
 Val d'Europe,val-d-europe,France,Pharmacie Val d'Europe,Santé & Beauté,True,False,,,/boutiques-restaurants/pharmacie-val-deurope
 Val d'Europe,val-d-europe,France,Palais des thés,Autre,True,False,,,/boutiques-restaurants/palais-des-th-s
 Val d'Europe,val-d-europe,France,pokawa,Autre,True,False,,,/boutiques-restaurants/pokawa
@@ -151,14 +151,14 @@ Val d'Europe,val-d-europe,France,Rendel,Autre,True,True,,,/boutiques-restaurants
 Val d'Europe,val-d-europe,France,Rituals,Autre,True,False,,,/boutiques-restaurants/rituals
 Val d'Europe,val-d-europe,France,Roche Bobois,Autre,True,False,,,/boutiques-restaurants/roche-bobois
 Val d'Europe,val-d-europe,France,Ristorante Del Arte,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/ristorante-del-arte
-Val d'Europe,val-d-europe,France,SKECHERS®,Autre,True,False,,,/boutiques-restaurants/skechers
+Val d'Europe,val-d-europe,France,SKECHERS®,Mode,True,False,,,/boutiques-restaurants/skechers
 Val d'Europe,val-d-europe,France,Sephora,Santé & Beauté,True,False,,,/boutiques-restaurants/sephora
-Val d'Europe,val-d-europe,France,Speed Park,Autre,True,False,,,/boutiques-restaurants/speed-park
+Val d'Europe,val-d-europe,France,Speed Park,Divertissement,True,False,,,/boutiques-restaurants/speed-park
 Val d'Europe,val-d-europe,France,Starbucks - Porte de la gare,Restauration,True,False,,,/boutiques-restaurants/starbucks--gare
 Val d'Europe,val-d-europe,France,Swarovski,Mode,True,False,,,/boutiques-restaurants/swarovski
-Val d'Europe,val-d-europe,France,Stradivarius,Autre,True,False,,,/boutiques-restaurants/stradivarius
-Val d'Europe,val-d-europe,France,Springfield,Autre,True,False,,,/boutiques-restaurants/springfield
-Val d'Europe,val-d-europe,France,SNIPES,Autre,True,False,,,/boutiques-restaurants/snipes
+Val d'Europe,val-d-europe,France,Stradivarius,Mode,True,False,,,/boutiques-restaurants/stradivarius
+Val d'Europe,val-d-europe,France,Springfield,Mode,True,False,,,/boutiques-restaurants/springfield
+Val d'Europe,val-d-europe,France,SNIPES,Mode,True,False,,,/boutiques-restaurants/snipes
 Val d'Europe,val-d-europe,France,SFR,Services,True,True,,,/boutiques-restaurants/sfr
 Val d'Europe,val-d-europe,France,Sergent Major,Mode,True,False,,,/boutiques-restaurants/sergent-major
 Val d'Europe,val-d-europe,France,Sac O Val,Autre,True,False,,,/boutiques-restaurants/sac-o-val
@@ -166,7 +166,7 @@ Val d'Europe,val-d-europe,France,Sabon,Autre,True,True,,,/boutiques-restaurants/
 Val d'Europe,val-d-europe,France,Starbucks,Restauration,True,False,,,/boutiques-restaurants/starbucks
 Val d'Europe,val-d-europe,France,TEMA'S CAKE,Autre,True,False,,,/boutiques-restaurants/tema-s-cake
 Val d'Europe,val-d-europe,France,Tortilla,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/tortilla
-Val d'Europe,val-d-europe,France,Tezenis,Autre,True,False,,,/boutiques-restaurants/tezenis
+Val d'Europe,val-d-europe,France,Tezenis,Mode,True,False,,,/boutiques-restaurants/tezenis
 Val d'Europe,val-d-europe,France,Tabac Nuage et Plume,Autre,True,False,,,/boutiques-restaurants/tabac-nuage-et-plume
 Val d'Europe,val-d-europe,France,Uniqlo,Mode,True,False,,,/boutiques-restaurants/uniqlo
 Val d'Europe,val-d-europe,France,Undiz,Mode,True,False,,,/boutiques-restaurants/undiz
@@ -179,7 +179,7 @@ Val d'Europe,val-d-europe,France,Yogurt Factory,"Culture, Loisirs & Cadeaux",Tru
 Val d'Europe,val-d-europe,France,Zara,Mode,True,False,,,/boutiques-restaurants/zara
 Val d'Europe,val-d-europe,France,Zing Pop Culture,Autre,True,False,,,/boutiques-restaurants/zing-pop-culture
 Créteil Soleil,creteil-soleil,France,5 A SEC,Services,True,True,,,/boutiques-restaurants/5-a-sec
-Créteil Soleil,creteil-soleil,France,ADJ,Autre,True,False,,,/boutiques-restaurants/adj
+Créteil Soleil,creteil-soleil,France,ADJ,Mode,True,False,,,/boutiques-restaurants/adj
 Créteil Soleil,creteil-soleil,France,ADIDAS,Mode,True,True,,,/boutiques-restaurants/adidas
 Créteil Soleil,creteil-soleil,France,AMORINO,Restauration,True,True,,,/boutiques-restaurants/amorino
 Créteil Soleil,creteil-soleil,France,AUTOCLEAN EXPRESS,Services,True,True,,,/boutiques-restaurants/autoclean
@@ -194,9 +194,9 @@ Créteil Soleil,creteil-soleil,France,ADOPT',Santé & Beauté,True,True,,,/bouti
 Créteil Soleil,creteil-soleil,France,BALABOOSTE,Mode,True,True,,,/boutiques-restaurants/balabooste
 Créteil Soleil,creteil-soleil,France,BIJOU BRIGITTE,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/bijou-brigitte
 Créteil Soleil,creteil-soleil,France,BLEU CERISE,Mode,True,False,,,/boutiques-restaurants/bleu-cerise
-Créteil Soleil,creteil-soleil,France,BEL CHOU'S,Autre,True,False,,,/boutiques-restaurants/bel-chous
+Créteil Soleil,creteil-soleil,France,BEL CHOU'S,Mode,True,False,,,/boutiques-restaurants/bel-chous
 Créteil Soleil,creteil-soleil,France,BODY MINUTE,Santé & Beauté,True,False,,,/boutiques-restaurants/body-nail-hair-minute
-Créteil Soleil,creteil-soleil,France,BEXLEY,Autre,True,False,,,/boutiques-restaurants/bexley
+Créteil Soleil,creteil-soleil,France,BEXLEY,Mode,True,False,,,/boutiques-restaurants/bexley
 Créteil Soleil,creteil-soleil,France,BURGER KING,Restauration,True,False,,,/boutiques-restaurants/burger-king
 Créteil Soleil,creteil-soleil,France,BRIOCHE DORÉE (PORTE 23),"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/brioche-doree-porte-23
 Créteil Soleil,creteil-soleil,France,BRIOCHE DORÉE (PORTE 11),"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/brioche-doree-porte-17
@@ -236,7 +236,7 @@ Créteil Soleil,creteil-soleil,France,DARJEELING,Mode,True,True,,,/boutiques-res
 Créteil Soleil,creteil-soleil,France,EXO SOLEIL,Restauration,True,False,,,/boutiques-restaurants/exo-soleil
 Créteil Soleil,creteil-soleil,France,ENCRE SERVICE,Autre,True,False,,,/boutiques-restaurants/encore-service
 Créteil Soleil,creteil-soleil,France,ELITE CLUB,Services,True,False,,,/boutiques-restaurants/elite-club
-Créteil Soleil,creteil-soleil,France,EDJI,Autre,True,False,,,/boutiques-restaurants/edji
+Créteil Soleil,creteil-soleil,France,EDJI,Mode,True,False,,,/boutiques-restaurants/edji
 Créteil Soleil,creteil-soleil,France,ESPACE SFR (NIVEAU 2),Santé & Beauté,True,True,,,/boutiques-restaurants/sfr-niv2
 Créteil Soleil,creteil-soleil,France,ESPACE SFR (NIVEAU 1),Santé & Beauté,True,True,,,/boutiques-restaurants/sfr-niv1
 Créteil Soleil,creteil-soleil,France,EVERWOOD,Restauration,True,False,,,/boutiques-restaurants/everwood
@@ -258,7 +258,7 @@ Créteil Soleil,creteil-soleil,France,Häagen-Dazs,Autre,True,False,,,/boutiques
 Créteil Soleil,creteil-soleil,France,HIPPOPOTAMUS,Restauration,True,False,,,/boutiques-restaurants/hippopotamus
 Créteil Soleil,creteil-soleil,France,H&M,Mode,True,False,,,/boutiques-restaurants/h-m
 Créteil Soleil,creteil-soleil,France,HEMA,Autre,True,False,,,/boutiques-restaurants/hema
-Créteil Soleil,creteil-soleil,France,HARCOURT,Autre,True,False,,,/boutiques-restaurants/harcourt
+Créteil Soleil,creteil-soleil,France,HARCOURT,Mode,True,False,,,/boutiques-restaurants/harcourt
 Créteil Soleil,creteil-soleil,France,iServices,Autre,True,False,,,/boutiques-restaurants/iservices
 Créteil Soleil,creteil-soleil,France,IZAC,Mode,True,True,,,/boutiques-restaurants/izac
 Créteil Soleil,creteil-soleil,France,INTERSPORT,Mode,True,False,,,/boutiques-restaurants/intersport
@@ -267,7 +267,7 @@ Créteil Soleil,creteil-soleil,France,INDIANA CAFÉ,Autre,True,True,,,/boutiques
 Créteil Soleil,creteil-soleil,France,IJO,Autre,True,False,,,/boutiques-restaurants/ijo
 Créteil Soleil,creteil-soleil,France,JD SPORTS,Mode,True,False,,,/boutiques-restaurants/jd-sports
 Créteil Soleil,creteil-soleil,France,JULES,Mode,True,False,,,/boutiques-restaurants/jules
-Créteil Soleil,creteil-soleil,France,Jack & Jones,Autre,True,False,,,/boutiques-restaurants/jack-and-jones
+Créteil Soleil,creteil-soleil,France,Jack & Jones,Mode,True,False,,,/boutiques-restaurants/jack-and-jones
 Créteil Soleil,creteil-soleil,France,JEFF DE BRUGES,Autre,True,True,,,/boutiques-restaurants/jeff-de-bruges
 Créteil Soleil,creteil-soleil,France,KRISPY KREME,Autre,True,False,,,/boutiques-restaurants/krispy-kreme
 Créteil Soleil,creteil-soleil,France,KFC,Restauration,True,True,,,/boutiques-restaurants/kfc
@@ -291,7 +291,7 @@ Créteil Soleil,creteil-soleil,France,LOVISA (PORTE 23),"Culture, Loisirs & Cade
 Créteil Soleil,creteil-soleil,France,LOUIS PION,Autre,True,False,,,/boutiques-restaurants/louis-pion
 Créteil Soleil,creteil-soleil,France,LISSAC,Autre,True,False,,,/boutiques-restaurants/lissac
 Créteil Soleil,creteil-soleil,France,LEVI'S,Mode,True,False,,,/boutiques-restaurants/levi-s
-Créteil Soleil,creteil-soleil,France,LE TEMPS DES CERISES,Autre,True,False,,,/boutiques-restaurants/le-temps-des-cerises
+Créteil Soleil,creteil-soleil,France,LE TEMPS DES CERISES,Mode,True,False,,,/boutiques-restaurants/le-temps-des-cerises
 Créteil Soleil,creteil-soleil,France,LEONIDAS,Restauration,True,True,,,/boutiques-restaurants/leonidas
 Créteil Soleil,creteil-soleil,France,LEGO,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/lego
 Créteil Soleil,creteil-soleil,France,LCL,Services,True,False,,,/boutiques-restaurants/lcl
@@ -301,7 +301,7 @@ Créteil Soleil,creteil-soleil,France,Men's Club,Autre,True,False,,,/boutiques-r
 Créteil Soleil,creteil-soleil,France,M·A·C,Autre,True,False,,,/boutiques-restaurants/mac
 Créteil Soleil,creteil-soleil,France,MENSTORE,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/menstore
 Créteil Soleil,creteil-soleil,France,MAISON CENT VINGT-TROIS,Restauration,True,False,,,/boutiques-restaurants/maison-cent-vingt-trois
-Créteil Soleil,creteil-soleil,France,MICHEL MAROQUINERIE,Autre,True,False,,,/boutiques-restaurants/michel-maroquinerie
+Créteil Soleil,creteil-soleil,France,MICHEL MAROQUINERIE,Mode,True,False,,,/boutiques-restaurants/michel-maroquinerie
 Créteil Soleil,creteil-soleil,France,MS MODE,Mode,True,False,,,/boutiques-restaurants/ms-mode
 Créteil Soleil,creteil-soleil,France,MONCEAU FLEURS,Maison & Décoration,True,False,,,/boutiques-restaurants/monceau-fleurs
 Créteil Soleil,creteil-soleil,France,MISTER MINIT,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/mister-minit
@@ -314,14 +314,14 @@ Créteil Soleil,creteil-soleil,France,MANGOS,Mode,True,False,,,/boutiques-restau
 Créteil Soleil,creteil-soleil,France,MARIONNAUD,Santé & Beauté,True,False,,,/boutiques-restaurants/marionnaud
 Créteil Soleil,creteil-soleil,France,MARC ORIAN,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/marc-orian
 Créteil Soleil,creteil-soleil,France,MANGO,Mode,True,False,,,/boutiques-restaurants/mango
-Créteil Soleil,creteil-soleil,France,MANÈGE,Autre,True,False,,,/boutiques-restaurants/manege
-Créteil Soleil,creteil-soleil,France,Nin & Laur,Autre,True,False,,,/boutiques-restaurants/nin---laur
+Créteil Soleil,creteil-soleil,France,MANÈGE,Divertissement,True,False,,,/boutiques-restaurants/manege
+Créteil Soleil,creteil-soleil,France,Nin & Laur,Mode,True,False,,,/boutiques-restaurants/nin---laur
 Créteil Soleil,creteil-soleil,France,NYX PROFESSIONAL MAKEUP,Santé & Beauté,True,False,,,/boutiques-restaurants/nyx-professional-makeup
 Créteil Soleil,creteil-soleil,France,NORMAL,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/normal
 Créteil Soleil,creteil-soleil,France,NOCIBÉ,Autre,True,False,,,/boutiques-restaurants/nocibe
 Créteil Soleil,creteil-soleil,France,NIKE,Mode,True,False,,,/boutiques-restaurants/nike
 Créteil Soleil,creteil-soleil,France,NATURE & DÉCOUVERTES,Santé & Beauté,True,False,,,/boutiques-restaurants/nature-decouvertes
-Créteil Soleil,creteil-soleil,France,ONLY,Autre,True,False,,,/boutiques-restaurants/only
+Créteil Soleil,creteil-soleil,France,ONLY,Mode,True,False,,,/boutiques-restaurants/only
 Créteil Soleil,creteil-soleil,France,Onyxia,Santé & Beauté,True,False,,,/boutiques-restaurants/onyxia
 Créteil Soleil,creteil-soleil,France,ORANGE,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/orange
 Créteil Soleil,creteil-soleil,France,O'TACOS,Autre,True,False,,,/boutiques-restaurants/o-tacos
@@ -334,9 +334,9 @@ Créteil Soleil,creteil-soleil,France,PRIMARK,Mode,True,False,,,/boutiques-resta
 Créteil Soleil,creteil-soleil,France,PULL & BEAR,Mode,True,False,,,/boutiques-restaurants/pull-bear
 Créteil Soleil,creteil-soleil,France,PROMOVACANCES,Autre,True,True,,,/boutiques-restaurants/promovacances
 Créteil Soleil,creteil-soleil,France,PROMOD,Mode,True,False,,,/boutiques-restaurants/promod
-Créteil Soleil,creteil-soleil,France,PRIMADONNA COLLECTION,Autre,True,False,,,/boutiques-restaurants/primadonna
+Créteil Soleil,creteil-soleil,France,PRIMADONNA COLLECTION,Mode,True,False,,,/boutiques-restaurants/primadonna
 Créteil Soleil,creteil-soleil,France,POINT SMOKE,Autre,True,False,,,/boutiques-restaurants/point-smoke
-Créteil Soleil,creteil-soleil,France,PARFOIS,Autre,True,False,,,/boutiques-restaurants/parfois
+Créteil Soleil,creteil-soleil,France,PARFOIS,Mode,True,False,,,/boutiques-restaurants/parfois
 Créteil Soleil,creteil-soleil,France,PITAYA THAI STREET FOOD,Restauration,True,True,,,/boutiques-restaurants/pitaya
 Créteil Soleil,creteil-soleil,France,PAUL (PORTE 17),Restauration,True,False,,,/boutiques-restaurants/paul3
 Créteil Soleil,creteil-soleil,France,PAUL (PORTE 23),Restauration,True,False,,,/boutiques-restaurants/paul2
@@ -345,12 +345,12 @@ Créteil Soleil,creteil-soleil,France,QUICK,Restauration,True,True,,,/boutiques-
 Créteil Soleil,creteil-soleil,France,RITUALS,Autre,True,False,,,/boutiques-restaurants/rituals
 Créteil Soleil,creteil-soleil,France,RISTORANTE DEL ARTE,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/restaurant-del-arte
 Créteil Soleil,creteil-soleil,France,Smile World,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/smile-world
-Créteil Soleil,creteil-soleil,France,SAC AVENUE,Autre,True,True,,,/boutiques-restaurants/sac-avenue
+Créteil Soleil,creteil-soleil,France,SAC AVENUE,Mode,True,True,,,/boutiques-restaurants/sac-avenue
 Créteil Soleil,creteil-soleil,France,SWAROVSKI,Mode,True,False,,,/boutiques-restaurants/swarovski
 Créteil Soleil,creteil-soleil,France,STUDIO JULIETTE,Autre,True,False,,,/boutiques-restaurants/studio-juliette
-Créteil Soleil,creteil-soleil,France,STRADIVARIUS,Autre,True,False,,,/boutiques-restaurants/stradivarius
+Créteil Soleil,creteil-soleil,France,STRADIVARIUS,Mode,True,False,,,/boutiques-restaurants/stradivarius
 Créteil Soleil,creteil-soleil,France,SPEEDY,Autre,True,False,,,/boutiques-restaurants/speedy
-Créteil Soleil,creteil-soleil,France,SNIPES,Autre,True,False,,,/boutiques-restaurants/snipes
+Créteil Soleil,creteil-soleil,France,SNIPES,Mode,True,False,,,/boutiques-restaurants/snipes
 Créteil Soleil,creteil-soleil,France,SERGENT MAJOR,Mode,True,False,,,/boutiques-restaurants/sergent-major
 Créteil Soleil,creteil-soleil,France,SEPHORA,Santé & Beauté,True,False,,,/boutiques-restaurants/sephora
 Créteil Soleil,creteil-soleil,France,Sunnamusk,Autre,True,False,,,/boutiques-restaurants/sunnamusk
@@ -359,19 +359,19 @@ Créteil Soleil,creteil-soleil,France,SUBWAY,Restauration,True,False,,,/boutique
 Créteil Soleil,creteil-soleil,France,STARBUCKS,Restauration,True,False,,,/boutiques-restaurants/starbucks
 Créteil Soleil,creteil-soleil,France,TRÉSOR (NIVEAU 2),"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/tresor-niveau-2
 Créteil Soleil,creteil-soleil,France,TRÉSOR (NIVEAU 1),"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/tresor-niveau-1
-Créteil Soleil,creteil-soleil,France,TOSCANE,Autre,True,False,,,/boutiques-restaurants/toscane
-Créteil Soleil,creteil-soleil,France,TEZENIS,Autre,True,False,,,/boutiques-restaurants/tezenis
+Créteil Soleil,creteil-soleil,France,TOSCANE,Mode,True,False,,,/boutiques-restaurants/toscane
+Créteil Soleil,creteil-soleil,France,TEZENIS,Mode,True,False,,,/boutiques-restaurants/tezenis
 Créteil Soleil,creteil-soleil,France,TEEN FASHION,Mode,True,True,,,/boutiques-restaurants/teen-fashion
 Créteil Soleil,creteil-soleil,France,TABAC,Autre,True,False,,,/boutiques-restaurants/tabac
 Créteil Soleil,creteil-soleil,France,Tema's Cake,Autre,True,False,,,/boutiques-restaurants/tema-s-cake
 Créteil Soleil,creteil-soleil,France,THAÏ BASILIC,Autre,True,False,,,/boutiques-restaurants/thai-basilic
-Créteil Soleil,creteil-soleil,France,UN JOUR AILLEURS,Autre,True,False,,,/boutiques-restaurants/un-jour-ailleurs
+Créteil Soleil,creteil-soleil,France,UN JOUR AILLEURS,Mode,True,False,,,/boutiques-restaurants/un-jour-ailleurs
 Créteil Soleil,creteil-soleil,France,UNDIZ,Mode,True,False,,,/boutiques-restaurants/undiz
 Créteil Soleil,creteil-soleil,France,UGC CINE CITE CRETEIL,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/ugc
 Créteil Soleil,creteil-soleil,France,Victoria's Secret,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/victoria-s-secret
-Créteil Soleil,creteil-soleil,France,VIB'S,Autre,True,False,,,/boutiques-restaurants/vib-s
-Créteil Soleil,creteil-soleil,France,VERTBAUDET,Autre,True,False,,,/boutiques-restaurants/vertbaudet
-Créteil Soleil,creteil-soleil,France,VALEGE,Autre,True,True,,,/boutiques-restaurants/valege
+Créteil Soleil,creteil-soleil,France,VIB'S,Mode,True,False,,,/boutiques-restaurants/vib-s
+Créteil Soleil,creteil-soleil,France,VERTBAUDET,Mode,True,False,,,/boutiques-restaurants/vertbaudet
+Créteil Soleil,creteil-soleil,France,VALEGE,Mode,True,True,,,/boutiques-restaurants/valege
 Créteil Soleil,creteil-soleil,France,WYCON,Autre,True,False,,,/boutiques-restaurants/wycon
 Créteil Soleil,creteil-soleil,France,WAFFLE FACTORY,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/waffle-factory
 Créteil Soleil,creteil-soleil,France,Xiaomi,Autre,True,False,,,/boutiques-restaurants/xiaomi
@@ -395,7 +395,7 @@ Belle Épine,belle-epine,France,Bleu Cerise,Mode,True,False,,,/boutiques-restaur
 Belle Épine,belle-epine,France,Biotech USA,Santé & Beauté,True,False,,,/boutiques-restaurants/biotech
 Belle Épine,belle-epine,France,Bershka,Mode,True,False,,,/boutiques-restaurants/bershka
 Belle Épine,belle-epine,France,Belle & Bio,Supermarchés & Alimentaire,True,True,,,/boutiques-restaurants/belle-et-bio
-Belle Épine,belle-epine,France,Bel Chou's,Autre,True,False,,,/boutiques-restaurants/belchous
+Belle Épine,belle-epine,France,Bel Chou's,Mode,True,False,,,/boutiques-restaurants/belchous
 Belle Épine,belle-epine,France,Beach Bowling,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/beach-bowling
 Belle Épine,belle-epine,France,Belle Asie,Autre,True,False,,,/boutiques-restaurants/belle-asie
 Belle Épine,belle-epine,France,Brendy's Café,Restauration,True,True,,,/boutiques-restaurants/brendy-s-caf
@@ -409,7 +409,7 @@ Belle Épine,belle-epine,France,C&A,Mode,True,False,,,/boutiques-restaurants/c-a
 Belle Épine,belle-epine,France,Crêpe By Crêpe,Autre,True,False,,,/boutiques-restaurants/creperie-le-dolmen
 Belle Épine,belle-epine,France,Courir,Mode,True,False,,,/boutiques-restaurants/courir
 Belle Épine,belle-epine,France,CARREFOUR - BANQUE & ASSURANCES,Services,True,False,,,/boutiques-restaurants/carrefour_banque
-Belle Épine,belle-epine,France,Cinéma Pathé Gaumont,Autre,True,True,,,/boutiques-restaurants/pathe-belle-epine
+Belle Épine,belle-epine,France,Cinéma Pathé Gaumont,Divertissement,True,True,,,/boutiques-restaurants/pathe-belle-epine
 Belle Épine,belle-epine,France,CIAMT _ Médecine du Travail,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/medecine-du-travail
 Belle Épine,belle-epine,France,cleor,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/cleor
 Belle Épine,belle-epine,France,Claire's,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/claire-s
@@ -423,12 +423,12 @@ Belle Épine,belle-epine,France,Dunkin',Autre,True,False,,,/boutiques-restaurant
 Belle Épine,belle-epine,France,DEICHMANN,Mode,True,False,,,/boutiques-restaurants/deichmann
 Belle Épine,belle-epine,France,DOUBBLE DONUTS,Autre,True,False,,,/boutiques-restaurants/doubble
 Belle Épine,belle-epine,France,Emy's Café,Autre,True,False,,,/boutiques-restaurants/emy-s-cafe
-Belle Épine,belle-epine,France,Eden park,Autre,True,False,,,/boutiques-restaurants/eden-park
+Belle Épine,belle-epine,France,Eden park,Mode,True,False,,,/boutiques-restaurants/eden-park
 Belle Épine,belle-epine,France,Etam Lingerie,Mode,True,True,,,/boutiques-restaurants/etam-lingerie
 Belle Épine,belle-epine,France,Eram,Mode,True,False,,,/boutiques-restaurants/eram
 Belle Épine,belle-epine,France,Fratellini,Autre,True,True,,,/boutiques-restaurants/fratellini
 Belle Épine,belle-epine,France,Flunch,Restauration,True,True,,,/boutiques-restaurants/flunch
-Belle Épine,belle-epine,France,Finsbury,Autre,True,False,,,/boutiques-restaurants/finsbury
+Belle Épine,belle-epine,France,Finsbury,Mode,True,False,,,/boutiques-restaurants/finsbury
 Belle Épine,belle-epine,France,Fripe Avenue,Autre,True,False,,,/boutiques-restaurants/fripe-avenue
 Belle Épine,belle-epine,France,Foot Locker,Mode,True,False,,,/boutiques-restaurants/foot-locker
 Belle Épine,belle-epine,France,Free,Services,True,True,,,/boutiques-restaurants/free
@@ -440,12 +440,12 @@ Belle Épine,belle-epine,France,Games Centers,"Culture, Loisirs & Cadeaux",True,
 Belle Épine,belle-epine,France,Geox,Mode,True,False,,,/boutiques-restaurants/geox
 Belle Épine,belle-epine,France,Hippopotamus,Restauration,True,False,,,/boutiques-restaurants/hippopotamus
 Belle Épine,belle-epine,France,Histoire d'Or,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/histoire-d-or
-Belle Épine,belle-epine,France,"Helvetica, Mountain Pioneers",Autre,True,False,,,/boutiques-restaurants/helvetica
+Belle Épine,belle-epine,France,"Helvetica, Mountain Pioneers",Mode,True,False,,,/boutiques-restaurants/helvetica
 Belle Épine,belle-epine,France,H&M,Mode,True,False,,,/boutiques-restaurants/h-m
 Belle Épine,belle-epine,France,Happesmoke,Autre,True,False,,,/boutiques-restaurants/happesmoke
 Belle Épine,belle-epine,France,Izac,Mode,True,True,,,/boutiques-restaurants/izac
 Belle Épine,belle-epine,France,Iservices,Autre,True,False,,,/boutiques-restaurants/iservices
-Belle Épine,belle-epine,France,IKKS Women,Autre,True,False,,,/boutiques-restaurants/ikks-women
+Belle Épine,belle-epine,France,IKKS Women,Mode,True,False,,,/boutiques-restaurants/ikks-women
 Belle Épine,belle-epine,France,Intersport,Mode,True,False,,,/boutiques-restaurants/intersport
 Belle Épine,belle-epine,France,Intimissimi,Mode,True,False,,,/boutiques-restaurants/intimissimi
 Belle Épine,belle-epine,France,Jefe Burger,Autre,True,False,,,/boutiques-restaurants/jefe-burger
@@ -469,14 +469,14 @@ Belle Épine,belle-epine,France,Love Tabac,Autre,True,False,,,/boutiques-restaur
 Belle Épine,belle-epine,France,Lunicco,Autre,True,False,,,/boutiques-restaurants/lunicco
 Belle Épine,belle-epine,France,La Casa de las Carcasas,Autre,True,False,,,/boutiques-restaurants/la-casa-de-las-carcasas
 Belle Épine,belle-epine,France,La fabrique à cookies,Autre,True,False,,,/boutiques-restaurants/la-fabrique-a-cookies
-Belle Épine,belle-epine,France,L'Atelier Gabriella,Autre,True,False,,,/boutiques-restaurants/l-atelier-gabriella
+Belle Épine,belle-epine,France,L'Atelier Gabriella,Mode,True,False,,,/boutiques-restaurants/l-atelier-gabriella
 Belle Épine,belle-epine,France,leonidas,Restauration,True,True,,,/boutiques-restaurants/leonidas
 Belle Épine,belle-epine,France,Lunettes pour tous,Autre,True,False,,,/boutiques-restaurants/lunettes-pour-tous
 Belle Épine,belle-epine,France,Louis Pion,Autre,True,False,,,/boutiques-restaurants/louis-pion
 Belle Épine,belle-epine,France,Levi's Store,Mode,True,False,,,/boutiques-restaurants/levi-s-store
 Belle Épine,belle-epine,France,le comptoir de mathilde,Autre,True,False,,,/boutiques-restaurants/le-comptoir-de-mathilde
 Belle Épine,belle-epine,France,LCL,Services,True,False,,,/boutiques-restaurants/lcl
-Belle Épine,belle-epine,France,La Maro,Autre,True,False,,,/boutiques-restaurants/la-maro
+Belle Épine,belle-epine,France,La Maro,Mode,True,False,,,/boutiques-restaurants/la-maro
 Belle Épine,belle-epine,France,La Grande Récré,Autre,True,False,,,/boutiques-restaurants/la-grande-recre
 Belle Épine,belle-epine,France,Lacoste,Mode,True,False,,,/boutiques-restaurants/lacoste
 Belle Épine,belle-epine,France,La Boutique du Coiffeur,Santé & Beauté,True,True,,,/boutiques-restaurants/la-boutique-du-coiffeur
@@ -484,7 +484,7 @@ Belle Épine,belle-epine,France,Mc-café,Autre,True,False,,,/boutiques-restauran
 Belle Épine,belle-epine,France,Mangue Thai,Restauration,True,False,,,/boutiques-restaurants/mangue-thai
 Belle Épine,belle-epine,France,Mc Donald's,Autre,True,False,,,/boutiques-restaurants/mc-donald-s
 Belle Épine,belle-epine,France,Maisons Pierre,Restauration,True,False,,,/boutiques-restaurants/maisons_pierre
-Belle Épine,belle-epine,France,Manège,Autre,True,True,,,/boutiques-restaurants/manege
+Belle Épine,belle-epine,France,Manège,Divertissement,True,True,,,/boutiques-restaurants/manege
 Belle Épine,belle-epine,France,Manga Story,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/manga-story
 Belle Épine,belle-epine,France,muy mucho,Autre,True,True,,,/boutiques-restaurants/muy-mucho
 Belle Épine,belle-epine,France,MS Mode,Mode,True,False,,,/boutiques-restaurants/ms-mode
@@ -512,10 +512,10 @@ Belle Épine,belle-epine,France,Nespresso,Autre,True,False,,,/boutiques-restaura
 Belle Épine,belle-epine,France,Nature & découvertes,Santé & Beauté,True,False,,,/boutiques-restaurants/nature-decouvertes
 Belle Épine,belle-epine,France,Old Wild West,Autre,True,False,,,/boutiques-restaurants/old-wild-west
 Belle Épine,belle-epine,France,O'TACOS,Autre,True,False,,,/boutiques-restaurants/o-tacos
-Belle Épine,belle-epine,France,Okaïdi,Autre,True,False,,,/boutiques-restaurants/okaidi
+Belle Épine,belle-epine,France,Okaïdi,Mode,True,False,,,/boutiques-restaurants/okaidi
 Belle Épine,belle-epine,France,Optical Distrikt,Autre,True,False,,,/boutiques-restaurants/optical-distrikt1
 Belle Épine,belle-epine,France,Orange,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/orange
-Belle Épine,belle-epine,France,Only,Autre,True,True,,,/boutiques-restaurants/only
+Belle Épine,belle-epine,France,Only,Mode,True,True,,,/boutiques-restaurants/only
 Belle Épine,belle-epine,France,poke house,Autre,True,False,,,/boutiques-restaurants/poke-house
 Belle Épine,belle-epine,France,Pressing 5àSec,Services,True,True,,,/boutiques-restaurants/5asec
 Belle Épine,belle-epine,France,Pizza Hut,Restauration,True,True,,,/boutiques-restaurants/pizza-hut
@@ -526,25 +526,25 @@ Belle Épine,belle-epine,France,Promod,Mode,True,False,,,/boutiques-restaurants/
 Belle Épine,belle-epine,France,Pixou,Autre,True,False,,,/boutiques-restaurants/pixou
 Belle Épine,belle-epine,France,Primark,Mode,True,False,,,/boutiques-restaurants/primark
 Belle Épine,belle-epine,France,Pull & Bear,Mode,True,False,,,/boutiques-restaurants/pull-bear
-Belle Épine,belle-epine,France,Project X Paris,Autre,True,False,,,/boutiques-restaurants/project-x-paris
+Belle Épine,belle-epine,France,Project X Paris,Mode,True,False,,,/boutiques-restaurants/project-x-paris
 Belle Épine,belle-epine,France,Promovacances,Autre,True,True,,,/boutiques-restaurants/promovacances
 Belle Épine,belle-epine,France,Poltronesofa,Autre,True,False,,,/boutiques-restaurants/poltronesofa
 Belle Épine,belle-epine,France,Point Smoke,Autre,True,False,,,/boutiques-restaurants/point-smoke
 Belle Épine,belle-epine,France,Pharmacie du Centre,Santé & Beauté,True,False,,,/boutiques-restaurants/pharmacie-du-centre
 Belle Épine,belle-epine,France,Pharmacie Belle Epine,Santé & Beauté,True,False,,,/boutiques-restaurants/pharmacie-belle-epine
-Belle Épine,belle-epine,France,Parfois,Autre,True,False,,,/boutiques-restaurants/parfois
+Belle Épine,belle-epine,France,Parfois,Mode,True,False,,,/boutiques-restaurants/parfois
 Belle Épine,belle-epine,France,Quick,Restauration,True,False,,,/boutiques-restaurants/quick
 Belle Épine,belle-epine,France,Rituals,Autre,True,False,,,/boutiques-restaurants/rituals
-Belle Épine,belle-epine,France,RIU Paris,Autre,True,False,,,/boutiques-restaurants/riu-paris
+Belle Épine,belle-epine,France,RIU Paris,Mode,True,False,,,/boutiques-restaurants/riu-paris
 Belle Épine,belle-epine,France,Subway,Restauration,True,True,,,/boutiques-restaurants/subway
-Belle Épine,belle-epine,France,Snowball,Autre,True,False,,,/boutiques-restaurants/snowball
+Belle Épine,belle-epine,France,Snowball,Mode,True,False,,,/boutiques-restaurants/snowball
 Belle Épine,belle-epine,France,Société Générale,Autre,True,False,,,/boutiques-restaurants/societe-general
-Belle Épine,belle-epine,France,Skechers,Autre,True,False,,,/boutiques-restaurants/skechers
+Belle Épine,belle-epine,France,Skechers,Mode,True,False,,,/boutiques-restaurants/skechers
 Belle Épine,belle-epine,France,Swarovski,Mode,True,False,,,/boutiques-restaurants/swarovski
-Belle Épine,belle-epine,France,Superdry,Autre,True,False,,,/boutiques-restaurants/superdry
-Belle Épine,belle-epine,France,STRADIVARIUS,Autre,True,False,,,/boutiques-restaurants/stradivarius
+Belle Épine,belle-epine,France,Superdry,Mode,True,False,,,/boutiques-restaurants/superdry
+Belle Épine,belle-epine,France,STRADIVARIUS,Mode,True,False,,,/boutiques-restaurants/stradivarius
 Belle Épine,belle-epine,France,station-service-esso,Autre,True,False,,,/boutiques-restaurants/station-service-esso
-Belle Épine,belle-epine,France,Snipes,Autre,True,False,,,/boutiques-restaurants/snipes
+Belle Épine,belle-epine,France,Snipes,Mode,True,False,,,/boutiques-restaurants/snipes
 Belle Épine,belle-epine,France,SFR,Services,True,True,,,/boutiques-restaurants/sfr
 Belle Épine,belle-epine,France,Sergent major,Mode,True,False,,,/boutiques-restaurants/sergent-major
 Belle Épine,belle-epine,France,Sephora Niveau 1,Santé & Beauté,True,False,,,/boutiques-restaurants/sephora-niveau-1
@@ -553,17 +553,17 @@ Belle Épine,belle-epine,France,Starbucks Coffee,Restauration,True,False,,,/bout
 Belle Épine,belle-epine,France,Tamaya Sushi,Restauration,True,False,,,/boutiques-restaurants/tamaya
 Belle Épine,belle-epine,France,Tortilla,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/tortilla
 Belle Épine,belle-epine,France,Tresor 2,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/smizze
-Belle Épine,belle-epine,France,Tezenis,Autre,True,False,,,/boutiques-restaurants/tezenis
+Belle Épine,belle-epine,France,Tezenis,Mode,True,False,,,/boutiques-restaurants/tezenis
 Belle Épine,belle-epine,France,Trésor,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/tresor-porte-9-10
 Belle Épine,belle-epine,France,Undiz,Mode,True,False,,,/boutiques-restaurants/undiz
-Belle Épine,belle-epine,France,Vertbaudet,Autre,True,False,,,/boutiques-restaurants/vertbaudet
-Belle Épine,belle-epine,France,Valège,Autre,True,True,,,/boutiques-restaurants/valege
+Belle Épine,belle-epine,France,Vertbaudet,Mode,True,False,,,/boutiques-restaurants/vertbaudet
+Belle Épine,belle-epine,France,Valège,Mode,True,True,,,/boutiques-restaurants/valege
 Belle Épine,belle-epine,France,Waffle Factory,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/waffle-factory
 Belle Épine,belle-epine,France,Wizzle,Autre,True,False,,,/boutiques-restaurants/wizzle
 Belle Épine,belle-epine,France,WeFix,Autre,True,False,,,/boutiques-restaurants/wefix
 Belle Épine,belle-epine,France,Yves Rocher,Santé & Beauté,True,True,,,/boutiques-restaurants/yves-rocher
 Belle Épine,belle-epine,France,Yogurt Factory,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/yogurt-factory
-Belle Épine,belle-epine,France,Zelys Paris,Autre,True,True,,,/boutiques-restaurants/zelys-paris
+Belle Épine,belle-epine,France,Zelys Paris,Mode,True,True,,,/boutiques-restaurants/zelys-paris
 Belle Épine,belle-epine,France,Zara,Mode,True,False,,,/boutiques-restaurants/zara
 Blagnac,blagnac,France,5 à sec,Autre,True,False,,,/boutiques-restaurants/5-a-sec
 Blagnac,blagnac,France,Au Bureau,Services,True,False,,,/boutiques-restaurants/au-bureau
@@ -575,7 +575,7 @@ Blagnac,blagnac,France,Adopt',Santé & Beauté,True,True,,,/boutiques-restaurant
 Blagnac,blagnac,France,Berliner,Autre,True,False,,,/boutiques-restaurants/berliner
 Blagnac,blagnac,France,Biotech USA,Santé & Beauté,True,False,,,/boutiques-restaurants/biotech
 Blagnac,blagnac,France,Brioche Dorée,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/brioche-doree
-Blagnac,blagnac,France,Brice,Autre,True,False,,,/boutiques-restaurants/brice
+Blagnac,blagnac,France,Brice,Mode,True,False,,,/boutiques-restaurants/brice
 Blagnac,blagnac,France,Bleu cerise,Mode,True,False,,,/boutiques-restaurants/bleu-cerise
 Blagnac,blagnac,France,Bagel Corner,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/bagel-corner
 Blagnac,blagnac,France,Bouygues telecom,Services,True,False,,,/boutiques-restaurants/bouygues-telecom
@@ -596,26 +596,26 @@ Blagnac,blagnac,France,Devred,Mode,True,False,,,/boutiques-restaurants/devred
 Blagnac,blagnac,France,Darjeeling,Mode,True,True,,,/boutiques-restaurants/darjeeling
 Blagnac,blagnac,France,E. Leclerc,Supermarchés & Alimentaire,True,False,,,/boutiques-restaurants/e-leclerc
 Blagnac,blagnac,France,Etam Lingerie,Mode,True,True,,,/boutiques-restaurants/etam-lingerie
-Blagnac,blagnac,France,Emotional,Autre,True,False,,,/boutiques-restaurants/emotional
+Blagnac,blagnac,France,Emotional,Mode,True,False,,,/boutiques-restaurants/emotional
 Blagnac,blagnac,France,EdSylver,Autre,True,False,,,/boutiques-restaurants/edsylver
-Blagnac,blagnac,France,Father & Sons,Autre,True,True,,,/boutiques-restaurants/father---sons
+Blagnac,blagnac,France,Father & Sons,Mode,True,True,,,/boutiques-restaurants/father---sons
 Blagnac,blagnac,France,Free,Services,True,True,,,/boutiques-restaurants/free
 Blagnac,blagnac,France,Foot Locker,Mode,True,False,,,/boutiques-restaurants/foot-locker
 Blagnac,blagnac,France,Grand Optical,Santé & Beauté,True,True,,,/boutiques-restaurants/grandoptical
 Blagnac,blagnac,France,Générale d'Optique,Santé & Beauté,True,True,,,/boutiques-restaurants/general-doptique
 Blagnac,blagnac,France,GEOX,Mode,True,True,,,/boutiques-restaurants/geox
-Blagnac,blagnac,France,Hylton,Autre,True,False,,,/boutiques-restaurants/hylton
+Blagnac,blagnac,France,Hylton,Mode,True,False,,,/boutiques-restaurants/hylton
 Blagnac,blagnac,France,H&M,Mode,True,False,,,/boutiques-restaurants/h-m
 Blagnac,blagnac,France,Histoire d'Or,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/histoire-d-or
 Blagnac,blagnac,France,IZAC,Mode,True,True,,,/boutiques-restaurants/izac
-Blagnac,blagnac,France,Ikks women,Autre,True,False,,,/boutiques-restaurants/ikks-women
+Blagnac,blagnac,France,Ikks women,Mode,True,False,,,/boutiques-restaurants/ikks-women
 Blagnac,blagnac,France,Intimissimi,Mode,True,False,,,/boutiques-restaurants/intimissimi
-Blagnac,blagnac,France,IDKIDS,Autre,True,False,,,/boutiques-restaurants/idkids
-Blagnac,blagnac,France,JACK & JONES,Autre,True,False,,,/boutiques-restaurants/jack---jones
+Blagnac,blagnac,France,IDKIDS,Mode,True,False,,,/boutiques-restaurants/idkids
+Blagnac,blagnac,France,JACK & JONES,Mode,True,False,,,/boutiques-restaurants/jack---jones
 Blagnac,blagnac,France,Jeff de Bruges,Autre,True,True,,,/boutiques-restaurants/jeff-de-bruges
 Blagnac,blagnac,France,Julien d'Orcel,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/julien-d-orcel
 Blagnac,blagnac,France,Jules,Mode,True,False,,,/boutiques-restaurants/jules
-Blagnac,blagnac,France,Jott,Autre,True,False,,,/boutiques-restaurants/jott
+Blagnac,blagnac,France,Jott,Mode,True,False,,,/boutiques-restaurants/jott
 Blagnac,blagnac,France,Jimmy Fairly,Autre,True,False,,,/boutiques-restaurants/jimmy-fairly
 Blagnac,blagnac,France,Kiosque La Croissanterie,Autre,True,False,,,/boutiques-restaurants/kiosque-la-croissanterie
 Blagnac,blagnac,France,Kompo,Autre,True,False,,,/boutiques-restaurants/kompo
@@ -628,17 +628,17 @@ Blagnac,blagnac,France,Les Georgettes,"Culture, Loisirs & Cadeaux",True,True,,,/
 Blagnac,blagnac,France,La Brigade,Autre,True,False,,,/boutiques-restaurants/la-brigade
 Blagnac,blagnac,France,LEGO Store,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/lego-store
 Blagnac,blagnac,France,Lunettes Pour Tous,Autre,True,False,,,/boutiques-restaurants/lunettes-pour-tous
-Blagnac,blagnac,France,La Fée Maraboutée,Autre,True,False,,,/boutiques-restaurants/la-fee-maraboutee
+Blagnac,blagnac,France,La Fée Maraboutée,Mode,True,False,,,/boutiques-restaurants/la-fee-maraboutee
 Blagnac,blagnac,France,Le Petit Souk,Autre,True,False,,,/boutiques-restaurants/le-petit-souk
 Blagnac,blagnac,France,Le Paradis du Fruit,Autre,True,False,,,/boutiques-restaurants/le-paradis-du-fruit
 Blagnac,blagnac,France,Le Barbier,Autre,True,False,,,/boutiques-restaurants/le-barbier
 Blagnac,blagnac,France,Le Bar à Ongles ...l'Onglerie,Autre,True,False,,,/boutiques-restaurants/le-bar-a-ongles-by-v
-Blagnac,blagnac,France,La Casa de Las Carcasas,Autre,True,False,,,/boutiques-restaurants/la-casa-de-las-carcasas
+Blagnac,blagnac,France,La Casa de Las Carcasas,Mode,True,False,,,/boutiques-restaurants/la-casa-de-las-carcasas
 Blagnac,blagnac,France,LUSH,Santé & Beauté,True,True,,,/boutiques-restaurants/lush
 Blagnac,blagnac,France,Lovisa,Autre,True,True,,,/boutiques-restaurants/lovisa
 Blagnac,blagnac,France,Lise Charmel,Mode,True,False,,,/boutiques-restaurants/lise-charmel
 Blagnac,blagnac,France,Levi's Store,Mode,True,False,,,/boutiques-restaurants/levi-s-store
-Blagnac,blagnac,France,Le Temps des Cerises,Autre,True,False,,,/boutiques-restaurants/le-temps-des-cerises
+Blagnac,blagnac,France,Le Temps des Cerises,Mode,True,False,,,/boutiques-restaurants/le-temps-des-cerises
 Blagnac,blagnac,France,Leclerc voyages,Services,True,False,,,/boutiques-restaurants/leclerc-voyages
 Blagnac,blagnac,France,Leclerc presse,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/leclerc-presse
 Blagnac,blagnac,France,Leclerc Parapharmacie,Santé & Beauté,True,False,,,/boutiques-restaurants/leclerc-parapharmacie
@@ -657,37 +657,37 @@ Blagnac,blagnac,France,Maty,Autre,True,False,,,/boutiques-restaurants/maty
 Blagnac,blagnac,France,Mango,Mode,True,False,,,/boutiques-restaurants/mango
 Blagnac,blagnac,France,Maisons du Monde,Restauration,True,False,,,/boutiques-restaurants/maisons-du-monde
 Blagnac,blagnac,France,Maison 123,Mode,True,False,,,/boutiques-restaurants/maison-123
-Blagnac,blagnac,France,Narh,Autre,True,False,,,/boutiques-restaurants/narh
+Blagnac,blagnac,France,Narh,Mode,True,False,,,/boutiques-restaurants/narh
 Blagnac,blagnac,France,NYX Professional Makeup,Santé & Beauté,True,False,,,/boutiques-restaurants/nyx
-Blagnac,blagnac,France,Noix d'Arec,Autre,True,False,,,/boutiques-restaurants/noix-darec
-Blagnac,blagnac,France,Nulle part,Autre,True,True,,,/boutiques-restaurants/nulle-part
+Blagnac,blagnac,France,Noix d'Arec,Mode,True,False,,,/boutiques-restaurants/noix-darec
+Blagnac,blagnac,France,Nulle part,Mode,True,True,,,/boutiques-restaurants/nulle-part
 Blagnac,blagnac,France,Nocibé,Autre,True,False,,,/boutiques-restaurants/nocibe
 Blagnac,blagnac,France,Nature & découvertes,Santé & Beauté,True,False,,,/boutiques-restaurants/nature-decouvertes
 Blagnac,blagnac,France,O'Tacos,Autre,True,False,,,/boutiques-restaurants/o-tacos
-Blagnac,blagnac,France,ONLY,Autre,True,False,,,/boutiques-restaurants/only
+Blagnac,blagnac,France,ONLY,Mode,True,False,,,/boutiques-restaurants/only
 Blagnac,blagnac,France,Orange,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/orange
 Blagnac,blagnac,France,Pandora,"Culture, Loisirs & Cadeaux",True,False,,,/pandora
 Blagnac,blagnac,France,Pokawa,Autre,True,True,,,/boutiques-restaurants/pokawa
 Blagnac,blagnac,France,Pharmacie,Santé & Beauté,True,False,,,/boutiques-restaurants/pharmacie
-Blagnac,blagnac,France,Project X Paris,Autre,True,False,,,/boutiques-restaurants/project-x-paris
+Blagnac,blagnac,France,Project X Paris,Mode,True,False,,,/boutiques-restaurants/project-x-paris
 Blagnac,blagnac,France,Palais des Thés,Autre,True,False,,,/boutiques-restaurants/palais-des-thes
 Blagnac,blagnac,France,Pylones,Autre,True,False,,,/boutiques-restaurants/pylones
 Blagnac,blagnac,France,Pull & bear,Mode,True,False,,,/boutiques-restaurants/pull-bear
 Blagnac,blagnac,France,Promod,Mode,True,False,,,/boutiques-restaurants/promod
-Blagnac,blagnac,France,Parfois,Autre,True,False,,,/boutiques-restaurants/parfois
+Blagnac,blagnac,France,Parfois,Mode,True,False,,,/boutiques-restaurants/parfois
 Blagnac,blagnac,France,Rituals,Autre,True,False,,,/boutiques-restaurants/rituals
 Blagnac,blagnac,France,Swarovski,Mode,True,True,,,/boutiques-restaurants/swarovski
-Blagnac,blagnac,France,SUD EXPRESS,Autre,True,False,,,/boutiques-restaurants/sud-express
+Blagnac,blagnac,France,SUD EXPRESS,Mode,True,False,,,/boutiques-restaurants/sud-express
 Blagnac,blagnac,France,Starbucks Coffee,Restauration,True,False,,,/boutiques-restaurants/starbucks-coffee
-Blagnac,blagnac,France,Stradivarius,Autre,True,False,,,/boutiques-restaurants/stradivarius
-Blagnac,blagnac,France,Snipes,Autre,True,False,,,/boutiques-restaurants/snipes
+Blagnac,blagnac,France,Stradivarius,Mode,True,False,,,/boutiques-restaurants/stradivarius
+Blagnac,blagnac,France,Snipes,Mode,True,False,,,/boutiques-restaurants/snipes
 Blagnac,blagnac,France,SFR,Services,True,True,,,/boutiques-restaurants/sfr
 Blagnac,blagnac,France,Sergent Major,Mode,True,False,,,/boutiques-restaurants/sergent-major
-Blagnac,blagnac,France,Serge Blanco,Autre,True,False,,,/boutiques-restaurants/serge-blanco
+Blagnac,blagnac,France,Serge Blanco,Mode,True,False,,,/boutiques-restaurants/serge-blanco
 Blagnac,blagnac,France,Sephora,Santé & Beauté,True,False,,,/boutiques-restaurants/sephora
 Blagnac,blagnac,France,Trésor,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/tresor
 Blagnac,blagnac,France,Tokami,Autre,True,False,,,/boutiques-restaurants/tokami
-Blagnac,blagnac,France,Tezenis,Autre,True,False,,,/boutiques-restaurants/tezenis
+Blagnac,blagnac,France,Tezenis,Mode,True,False,,,/boutiques-restaurants/tezenis
 Blagnac,blagnac,France,Texto,Autre,True,False,,,/boutiques-restaurants/texto
 Blagnac,blagnac,France,Undiz,Mode,True,False,,,/boutiques-restaurants/undiz
 Blagnac,blagnac,France,Victoria's Secret,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/victoria-secret
@@ -702,13 +702,13 @@ O'Parinor,o-parinor,France,5àsec,Autre,True,True,,,/boutiques-restaurants/5asec
 O'Parinor,o-parinor,France,Atelier Gabriella,Autre,True,False,,,/boutiques-restaurants/Atelier Gabriella
 O'Parinor,o-parinor,France,Atol Les Opticiens,Santé & Beauté,True,True,,,/boutiques-restaurants/atol-les-opticiens
 O'Parinor,o-parinor,France,Atacadao,Autre,True,False,,,/boutiques-restaurants/atacadao
-O'Parinor,o-parinor,France,ATB,Autre,True,False,,,/boutiques-restaurants/atb
+O'Parinor,o-parinor,France,ATB,Mode,True,False,,,/boutiques-restaurants/atb
 O'Parinor,o-parinor,France,Armand Thiery Homme,Mode,True,False,,,/boutiques-restaurants/armand-thiery-homme
 O'Parinor,o-parinor,France,Album,Autre,True,False,,,/boutiques-restaurants/album
 O'Parinor,o-parinor,France,Alain Afflelou,Santé & Beauté,True,True,,,/boutiques-restaurants/alain-afflelou
 O'Parinor,o-parinor,France,Adopt,Santé & Beauté,True,False,,,/boutiques-restaurants/adopt
 O'Parinor,o-parinor,France,ACTION,Autre,True,False,,,/boutiques-restaurants/action
-O'Parinor,o-parinor,France,BSL,Autre,True,False,,,/boutiques-restaurants/BSL
+O'Parinor,o-parinor,France,BSL,Mode,True,False,,,/boutiques-restaurants/BSL
 O'Parinor,o-parinor,France,Biotech USA,Santé & Beauté,True,False,,,/boutiques-restaurants/biotech-usa
 O'Parinor,o-parinor,France,Brioche Dorée,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/brioche-doree
 O'Parinor,o-parinor,France,BabooTéa,Restauration,True,True,,,/boutiques-restaurants/babootea
@@ -721,12 +721,12 @@ O'Parinor,o-parinor,France,Bouygues Telecom,Services,True,False,,,/boutiques-res
 O'Parinor,o-parinor,France,Body Minute,Santé & Beauté,True,True,,,/boutiques-restaurants/body-minute
 O'Parinor,o-parinor,France,Bleu Libellule,Santé & Beauté,True,False,,,/boutiques-restaurants/bleu-libellule
 O'Parinor,o-parinor,France,Bershka,Mode,True,False,,,/boutiques-restaurants/bershka
-O'Parinor,o-parinor,France,Bel Chou's,Autre,True,False,,,/boutiques-restaurants/bel-chou-s
+O'Parinor,o-parinor,France,Bel Chou's,Mode,True,False,,,/boutiques-restaurants/bel-chou-s
 O'Parinor,o-parinor,France,Beauty Phone,Santé & Beauté,True,False,,,/boutiques-restaurants/beauty-phone
 O'Parinor,o-parinor,France,Celio,Mode,True,False,,,/boutiques-restaurants/celio
-O'Parinor,o-parinor,France,Cinéma UGC,Autre,True,True,,,/boutiques-restaurants/cinema-ugc
+O'Parinor,o-parinor,France,Cinéma UGC,Divertissement,True,True,,,/boutiques-restaurants/cinema-ugc
 O'Parinor,o-parinor,France,Crêpe Touch,Autre,True,False,,,/boutiques-restaurants/Crêpe Touch
-O'Parinor,o-parinor,France,CHK,Autre,False,False,,,/boutiques-restaurants/chk
+O'Parinor,o-parinor,France,CHK,Mode,False,False,,,/boutiques-restaurants/chk
 O'Parinor,o-parinor,France,C&A Niveaux 1,Mode,True,False,,,/boutiques-restaurants/ca-niveau-1
 O'Parinor,o-parinor,France,C&A Niveaux 0,Mode,True,False,,,/boutiques-restaurants/ca-niveau-0
 O'Parinor,o-parinor,France,Chicken Spot,Mode,True,False,,,/boutiques-restaurants/chicken-spot
@@ -735,21 +735,21 @@ O'Parinor,o-parinor,France,Chaussea,Mode,True,True,,,/boutiques-restaurants/chau
 O'Parinor,o-parinor,France,Cezam,Autre,True,False,,,/boutiques-restaurants/cezam
 O'Parinor,o-parinor,France,Clippers,Autre,True,False,,,/boutiques-restaurants/clippers
 O'Parinor,o-parinor,France,Claire's,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/claire-s
-O'Parinor,o-parinor,France,Christine Laure,Autre,True,False,,,/boutiques-restaurants/christine-laure
+O'Parinor,o-parinor,France,Christine Laure,Mode,True,False,,,/boutiques-restaurants/christine-laure
 O'Parinor,o-parinor,France,Centre Medical O'Parinor,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/centre-medical-o-parinor
 O'Parinor,o-parinor,France,Carrefour voyages,Services,True,False,,,/boutiques-restaurants/carrefour-voyages
 O'Parinor,o-parinor,France,Dream Games,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/dream-games
 O'Parinor,o-parinor,France,Délices D'Asie,Autre,True,False,,,/boutiques-restaurants/delices-d-asie
 O'Parinor,o-parinor,France,Décathlon,Autre,True,False,,,/boutiques-restaurants/decathlon
 O'Parinor,o-parinor,France,Del Arte,Autre,True,True,,,/boutiques-restaurants/del-arte
-O'Parinor,o-parinor,France,Decimas,Autre,True,False,,,/boutiques-restaurants/decimas
+O'Parinor,o-parinor,France,Decimas,Mode,True,False,,,/boutiques-restaurants/decimas
 O'Parinor,o-parinor,France,Darty,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/darty
 O'Parinor,o-parinor,France,Exepxion,Autre,True,False,,,/boutiques-restaurants/exepxion
 O'Parinor,o-parinor,France,E Clope store,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/e-clope-store
 O'Parinor,o-parinor,France,Foot korner sneakers,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/foot-korner-sneakers
 O'Parinor,o-parinor,France,Foot korner,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/foot-korner
-O'Parinor,o-parinor,France,Francuir (haut),Autre,True,False,,,/boutiques-restaurants/francuir-haut
-O'Parinor,o-parinor,France,Francuir (bas),Autre,True,False,,,/boutiques-restaurants/francuir-bas
+O'Parinor,o-parinor,France,Francuir (haut),Mode,True,False,,,/boutiques-restaurants/francuir-haut
+O'Parinor,o-parinor,France,Francuir (bas),Mode,True,False,,,/boutiques-restaurants/francuir-bas
 O'Parinor,o-parinor,France,Flunch,Restauration,True,False,,,/boutiques-restaurants/flunch
 O'Parinor,o-parinor,France,FREE,Services,True,True,,,/boutiques-restaurants/free
 O'Parinor,o-parinor,France,Franck Provost,Santé & Beauté,True,False,,,/boutiques-restaurants/franck-provost
@@ -760,24 +760,24 @@ O'Parinor,o-parinor,France,Feu Vert,Autre,True,True,,,/boutiques-restaurants/feu
 O'Parinor,o-parinor,France,Générale d'Optique,Santé & Beauté,True,True,,,/boutiques-restaurants/generale-d-optique
 O'Parinor,o-parinor,France,Grand Optical,Santé & Beauté,True,True,,,/boutiques-restaurants/grand-optical
 O'Parinor,o-parinor,France,Griff Mark,Autre,True,False,,,/boutiques-restaurants/Griff Mark
-O'Parinor,o-parinor,France,G-Star Raw,Autre,True,False,,,/boutiques-restaurants/g-star-raw
-O'Parinor,o-parinor,France,Helvetica,Autre,True,False,,,/boutiques-restaurants/helvetica
+O'Parinor,o-parinor,France,G-Star Raw,Mode,True,False,,,/boutiques-restaurants/g-star-raw
+O'Parinor,o-parinor,France,Helvetica,Mode,True,False,,,/boutiques-restaurants/helvetica
 O'Parinor,o-parinor,France,HISTOIRE D'OR Boutique haut,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/histoire-d-or-boutique-haut
 O'Parinor,o-parinor,France,Histoire d’Or,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/histoire-d-or
 O'Parinor,o-parinor,France,Hoc Job,Autre,True,False,,,/boutiques-restaurants/hoc job
 O'Parinor,o-parinor,France,Häagen-Dazs Café,Autre,True,False,,,/boutiques-restaurants/haagen-dazs-cafe
-O'Parinor,o-parinor,France,Hollyghost,Autre,True,False,,,/boutiques-restaurants/hollyghost
+O'Parinor,o-parinor,France,Hollyghost,Mode,True,False,,,/boutiques-restaurants/hollyghost
 O'Parinor,o-parinor,France,H&M,Mode,True,False,,,/boutiques-restaurants/hm
 O'Parinor,o-parinor,France,IZAC,Mode,True,True,,,/boutiques-restaurants/izac
 O'Parinor,o-parinor,France,Intersport,Mode,True,False,,,/boutiques-restaurants/intersport
-O'Parinor,o-parinor,France,INVITI,Autre,True,False,,,/boutiques-restaurants/inviti
+O'Parinor,o-parinor,France,INVITI,Mode,True,False,,,/boutiques-restaurants/inviti
 O'Parinor,o-parinor,France,Imo Lavage,Autre,True,False,,,/boutiques-restaurants/imo-lavage
 O'Parinor,o-parinor,France,JD Sport,Mode,True,False,,,/boutiques-restaurants/jd-sports
 O'Parinor,o-parinor,France,Jules,Mode,True,False,,,/boutiques-restaurants/jules
 O'Parinor,o-parinor,France,Jeff de Bruges,Autre,True,True,,,/boutiques-restaurants/jeff-de-bruges
 O'Parinor,o-parinor,France,Krispy kreme,Autre,True,False,,,/boutiques-restaurants/krispy-kreme
 O'Parinor,o-parinor,France,Krys Optique,Santé & Beauté,True,True,,,/boutiques-restaurants/krys-optique
-O'Parinor,o-parinor,France,Kozza,Autre,True,False,,,/boutiques-restaurants/kozza
+O'Parinor,o-parinor,France,Kozza,Mode,True,False,,,/boutiques-restaurants/kozza
 O'Parinor,o-parinor,France,Kiosque accueil,Autre,True,False,,,/boutiques-restaurants/kiosque-accueil
 O'Parinor,o-parinor,France,Kiko Milano,Santé & Beauté,True,False,,,/boutiques-restaurants/kiko-milano
 O'Parinor,o-parinor,France,Kiabi,Mode,True,False,,,/boutiques-restaurants/kiabi
@@ -813,33 +813,33 @@ O'Parinor,o-parinor,France,Marionnaud,Santé & Beauté,True,False,,,/boutiques-r
 O'Parinor,o-parinor,France,Marc Orian,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/marc-orian
 O'Parinor,o-parinor,France,Mango,Mode,True,False,,,/boutiques-restaurants/mango
 O'Parinor,o-parinor,France,Manège Jules Verne,Mode,True,False,,,/boutiques-restaurants/manege-jules-verne
-O'Parinor,o-parinor,France,Manège Doll Beach,Autre,True,False,,,/boutiques-restaurants/manege-doll-beach
-O'Parinor,o-parinor,France,Marvellous,Autre,True,False,,,/boutiques-restaurants/marvellous
+O'Parinor,o-parinor,France,Manège Doll Beach,Divertissement,True,False,,,/boutiques-restaurants/manege-doll-beach
+O'Parinor,o-parinor,France,Marvellous,Mode,True,False,,,/boutiques-restaurants/marvellous
 O'Parinor,o-parinor,France,NKD TECH,Autre,True,False,,,/boutiques-restaurants/nkd-tech
 O'Parinor,o-parinor,France,NYX PROFESSIONAL MAKEUP,Santé & Beauté,True,False,,,/boutiques-restaurants/nyx-professional-makeup
 O'Parinor,o-parinor,France,Ninja Thaï,Autre,True,False,,,/boutiques-restaurants/ninja-thai
 O'Parinor,o-parinor,France,Nambo,Autre,True,False,,,/boutiques-restaurants/nambo
 O'Parinor,o-parinor,France,Normal,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/normal
 O'Parinor,o-parinor,France,Orchestra,Mode,True,False,,,/boutiques-restaurants/orchestra
-O'Parinor,o-parinor,France,Okaïdi-Obaïbi,Autre,True,True,,,/boutiques-restaurants/obaibi
+O'Parinor,o-parinor,France,Okaïdi-Obaïbi,Mode,True,True,,,/boutiques-restaurants/obaibi
 O'Parinor,o-parinor,France,Onyxia,Santé & Beauté,True,False,,,/boutiques-restaurants/onyxia
 O'Parinor,o-parinor,France,O'TACOS,Autre,True,False,,,/boutiques-restaurants/o-tacos
 O'Parinor,o-parinor,France,Orange,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/orange
-O'Parinor,o-parinor,France,On air,Autre,True,False,,,/boutiques-restaurants/on-air
+O'Parinor,o-parinor,France,On air,Divertissement,True,False,,,/boutiques-restaurants/on-air
 O'Parinor,o-parinor,France,Pitaya,Restauration,True,True,,,/boutiques-restaurants/Pitaya
 O'Parinor,o-parinor,France,Primark,Mode,True,False,,,/boutiques-restaurants/primark
 O'Parinor,o-parinor,France,Pharmacie O'Parinor,Santé & Beauté,True,False,,,/boutiques-restaurants/pharmacie-parinor
-O'Parinor,o-parinor,France,Parfois,Autre,True,False,,,/boutiques-restaurants/parfois
+O'Parinor,o-parinor,France,Parfois,Mode,True,False,,,/boutiques-restaurants/parfois
 O'Parinor,o-parinor,France,Promovacances,Autre,True,True,,,/boutiques-restaurants/promovacances
 O'Parinor,o-parinor,France,Pixou Phone,Autre,True,False,,,/boutiques-restaurants/pixou-phone
 O'Parinor,o-parinor,France,Quick,Restauration,True,False,,,/boutiques-restaurants/quick
 O'Parinor,o-parinor,France,Rituals,Autre,True,False,,,/boutiques-restaurants/rituals
 O'Parinor,o-parinor,France,So fête,Autre,True,False,,,/boutiques-restaurants/So-fete
-O'Parinor,o-parinor,France,Stradivarius,Autre,False,False,,,/boutiques-restaurants/stradivarius
-O'Parinor,o-parinor,France,Stockmark,Autre,True,False,,,/boutiques-restaurants/Stockmark
+O'Parinor,o-parinor,France,Stradivarius,Mode,False,False,,,/boutiques-restaurants/stradivarius
+O'Parinor,o-parinor,France,Stockmark,Mode,True,False,,,/boutiques-restaurants/Stockmark
 O'Parinor,o-parinor,France,Subway,Restauration,True,True,,,/boutiques-restaurants/subway
 O'Parinor,o-parinor,France,Swarovski,Mode,True,False,,,/boutiques-restaurants/swarovski
-O'Parinor,o-parinor,France,Snipes,Autre,True,False,,,/boutiques-restaurants/snipes
+O'Parinor,o-parinor,France,Snipes,Mode,True,False,,,/boutiques-restaurants/snipes
 O'Parinor,o-parinor,France,SFR,Services,True,True,,,/boutiques-restaurants/sfr
 O'Parinor,o-parinor,France,Sephora,Santé & Beauté,True,False,,,/boutiques-restaurants/sephora
 O'Parinor,o-parinor,France,SUSHI KYO,Restauration,True,False,,,/boutiques-restaurants/sushi-kyo
@@ -855,7 +855,7 @@ O'Parinor,o-parinor,France,Yogurt factory,"Culture, Loisirs & Cadeaux",True,Fals
 O'Parinor,o-parinor,France,Yves Rocher,Santé & Beauté,True,False,,,/boutiques-restaurants/yves-rocher
 O'Parinor,o-parinor,France,Yogi Spa,Santé & Beauté,True,False,,,/boutiques-restaurants/yogi-spa
 O'Parinor,o-parinor,France,Zara,Mode,True,False,,,/boutiques-restaurants/zara
-Odysseum,odysseum,France,Altissimo,Autre,True,True,,,/boutiques-restaurants/altissimo
+Odysseum,odysseum,France,Altissimo,Divertissement,True,True,,,/boutiques-restaurants/altissimo
 Odysseum,odysseum,France,Armand Thiery Femme,Mode,True,False,,,/boutiques-restaurants/armand-thiery-femme
 Odysseum,odysseum,France,APPLE,Autre,True,False,,,/boutiques-restaurants/apple
 Odysseum,odysseum,France,Au Bureau,Services,True,False,,,/boutiques-restaurants/au-bureau
@@ -866,19 +866,19 @@ Odysseum,odysseum,France,Balaboosté,Autre,True,True,,,/boutiques-restaurants/ba
 Odysseum,odysseum,France,Bouygues Telecom,Services,True,False,,,/boutiques-restaurants/bouygues-telecom
 Odysseum,odysseum,France,Black Corner,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/black-corner
 Odysseum,odysseum,France,BLACK AND WHITE,Autre,True,False,,,/boutiques-restaurants/black-and-white
-Odysseum,odysseum,France,Baraka Jeux,Autre,True,False,,,/boutiques-restaurants/baraka-jeux
+Odysseum,odysseum,France,Baraka Jeux,Divertissement,True,False,,,/boutiques-restaurants/baraka-jeux
 Odysseum,odysseum,France,Body Minute,Santé & Beauté,True,True,,,/boutiques-restaurants/body-minute
 Odysseum,odysseum,France,Burger King,Restauration,True,True,,,/boutiques-restaurants/burger-king
 Odysseum,odysseum,France,Brioche Dorée,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/brioche-doree
 Odysseum,odysseum,France,Brasserie Gusto,Restauration,True,False,,,/boutiques-restaurants/brasserie-gusto
-Odysseum,odysseum,France,Boss,Autre,True,False,,,/boutiques-restaurants/boss
+Odysseum,odysseum,France,Boss,Mode,True,False,,,/boutiques-restaurants/boss
 Odysseum,odysseum,France,Bistro Régent,Restauration,True,False,,,/boutiques-restaurants/bistro-regent
 Odysseum,odysseum,France,Bershka,Mode,True,False,,,/boutiques-restaurants/bershka
 Odysseum,odysseum,France,Belle & Bio Lavage Auto,Services,True,True,,,/boutiques-restaurants/belle-et-bio-lavage-auto
 Odysseum,odysseum,France,Columbus Café,Autre,True,False,,,/boutiques-restaurants/columbus-cafe
 Odysseum,odysseum,France,Crunchie by Kaeri,Autre,True,False,,,/boutiques-restaurants/crunchie-by-kaeri
 Odysseum,odysseum,France,Crêperie Amélie,Autre,True,False,,,/boutiques-restaurants/amelie
-Odysseum,odysseum,France,Cabaïa,Autre,True,False,,,/boutiques-restaurants/cabaia
+Odysseum,odysseum,France,Cabaïa,Mode,True,False,,,/boutiques-restaurants/cabaia
 Odysseum,odysseum,France,CREPE TOUCH,Restauration,True,False,,,/boutiques-restaurants/crepe-touch
 Odysseum,odysseum,France,Calzedonia,Mode,True,False,,,/boutiques-restaurants/calzedonia
 Odysseum,odysseum,France,Cleor,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/cleor
@@ -889,7 +889,7 @@ Odysseum,odysseum,France,Dolce Café,Autre,True,False,,,/boutiques-restaurants/d
 Odysseum,odysseum,France,Du bruit dans la cuisine,Maison & Décoration,True,False,,,/boutiques-restaurants/du-bruit-dans-la-cuisine
 Odysseum,odysseum,France,Decathlon,Autre,True,False,,,/boutiques-restaurants/decathlon
 Odysseum,odysseum,France,Darty,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/darty
-Odysseum,odysseum,France,EdenKids,Autre,True,False,,,/boutiques-restaurants/edenkids
+Odysseum,odysseum,France,EdenKids,Mode,True,False,,,/boutiques-restaurants/edenkids
 Odysseum,odysseum,France,Excel Coiffure,Autre,True,True,,,/boutiques-restaurants/excel-coiffeur
 Odysseum,odysseum,France,Foot Locker,Mode,True,False,,,/boutiques-restaurants/foot-locker
 Odysseum,odysseum,France,Fort Boyard Aventures,"Culture, Loisirs & Cadeaux",False,False,,,/boutiques-restaurants/fort-boyard-aventures
@@ -898,7 +898,7 @@ Odysseum,odysseum,France,FREE,Services,True,True,,,/boutiques-restaurants/free
 Odysseum,odysseum,France,Générale d'Optique,Santé & Beauté,True,True,,,/boutiques-restaurants/generale-d-optique
 Odysseum,odysseum,France,H&M,Mode,True,False,,,/boutiques-restaurants/h-m
 Odysseum,odysseum,France,Histoire d'Or,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/histoire-d-or
-Odysseum,odysseum,France,Hylton,Autre,True,False,,,/boutiques-restaurants/hylton
+Odysseum,odysseum,France,Hylton,Mode,True,False,,,/boutiques-restaurants/hylton
 Odysseum,odysseum,France,Hippopotamus,Restauration,True,False,,,/boutiques-restaurants/hippopotamus
 Odysseum,odysseum,France,Izac,Mode,True,True,,,/boutiques-restaurants/izac
 Odysseum,odysseum,France,IRIS GALERIE,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/iris-galerie
@@ -907,13 +907,13 @@ Odysseum,odysseum,France,Intimissimi,Mode,True,False,,,/boutiques-restaurants/in
 Odysseum,odysseum,France,IKEA,Maison & Décoration,True,False,,,/boutiques-restaurants/ikea
 Odysseum,odysseum,France,JD Sports,Mode,True,False,,,/boutiques-restaurants/jd-sport
 Odysseum,odysseum,France,Jimmy Fairly,Autre,True,False,,,/boutiques-restaurants/jimmy-fairly
-Odysseum,odysseum,France,JOTT,Autre,True,False,,,/boutiques-restaurants/jott
+Odysseum,odysseum,France,JOTT,Mode,True,False,,,/boutiques-restaurants/jott
 Odysseum,odysseum,France,Kusmi Tea,Restauration,False,False,,,/boutiques-restaurants/kusmi-tea
 Odysseum,odysseum,France,KIKO Milano,Santé & Beauté,True,False,,,/boutiques-restaurants/kiko
 Odysseum,odysseum,France,KFC,Restauration,True,True,,,/boutiques-restaurants/kfc
 Odysseum,odysseum,France,L'Atelier d'Amaya,Autre,True,False,,,/boutiques-restaurants/l-atelier-d-amaya
 Odysseum,odysseum,France,Le Comptoir du Flan,Autre,True,False,,,/boutiques-restaurants/le-comptoir-du-flan
-Odysseum,odysseum,France,Le petit souk,Autre,True,False,,,/boutiques-restaurants/le-petit-souk
+Odysseum,odysseum,France,Le petit souk,Mode,True,False,,,/boutiques-restaurants/le-petit-souk
 Odysseum,odysseum,France,Lovisa 1,Autre,True,True,,,/boutiques-restaurants/lovisa
 Odysseum,odysseum,France,Lovisa 2,Autre,True,True,,,/boutiques-restaurants/lovisa-2
 Odysseum,odysseum,France,Legami,Autre,True,False,,,/boutiques-restaurants/legami
@@ -922,10 +922,10 @@ Odysseum,odysseum,France,Les 3 Brasseurs,Autre,True,False,,,/boutiques-restauran
 Odysseum,odysseum,France,La Casa De Las Carcasas,Autre,True,False,,,/boutiques-restaurants/la-casa-de-las-carcasas
 Odysseum,odysseum,France,La Grande Pharmacie,Santé & Beauté,True,False,,,/boutiques-restaurants/la-grande-pharmacie
 Odysseum,odysseum,France,Lunettes Pour Tous,Autre,True,False,,,/boutiques-restaurants/lunettes-pour-tous
-Odysseum,odysseum,France,LPB Woman,Autre,True,False,,,/boutiques-restaurants/lpb-woman
+Odysseum,odysseum,France,LPB Woman,Mode,True,False,,,/boutiques-restaurants/lpb-woman
 Odysseum,odysseum,France,Levis Store,Mode,True,False,,,/boutiques-restaurants/levi-s-store
 Odysseum,odysseum,France,Les Jardins de l’Orchidée,Maison & Décoration,True,False,,,/boutiques-restaurants/les-jardins-de-l-orchidee
-Odysseum,odysseum,France,Le Temps des Cerises,Autre,True,False,,,/boutiques-restaurants/le-temps-des-cerises
+Odysseum,odysseum,France,Le Temps des Cerises,Mode,True,False,,,/boutiques-restaurants/le-temps-des-cerises
 Odysseum,odysseum,France,Le Lézard sur Pâtes,Autre,True,False,,,/boutiques-restaurants/le-lezard-sur-pates
 Odysseum,odysseum,France,Laser Game Evolution,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/laser-game-evolution
 Odysseum,odysseum,France,LACOSTE,Mode,True,False,,,/boutiques-restaurants/lacoste
@@ -939,9 +939,9 @@ Odysseum,odysseum,France,Ma Première Cantine,Autre,True,False,,,/boutiques-rest
 Odysseum,odysseum,France,NYX Professional Makeup,Santé & Beauté,True,False,,,/boutiques-restaurants/nyx-professional-makeup
 Odysseum,odysseum,France,Nature & Découvertes,Santé & Beauté,True,False,,,/boutiques-restaurants/nature-decouvertes
 Odysseum,odysseum,France,Odiki Sushi,Restauration,True,False,,,/boutiques-restaurants/odiki-sushi
-Odysseum,odysseum,France,Okaïdi-Obaïbi,Autre,True,False,,,/boutiques-restaurants/okaidi-obaibi
+Odysseum,odysseum,France,Okaïdi-Obaïbi,Mode,True,False,,,/boutiques-restaurants/okaidi-obaibi
 Odysseum,odysseum,France,Pandora,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/pandora
-Odysseum,odysseum,France,PARFOIS,Autre,True,False,,,/boutiques-restaurants/parfois
+Odysseum,odysseum,France,PARFOIS,Mode,True,False,,,/boutiques-restaurants/parfois
 Odysseum,odysseum,France,Patinoire Vegapolis,Mode,False,False,,,/boutiques-restaurants/patinoire-vegapolis
 Odysseum,odysseum,France,POKAWA,Autre,True,False,,,/boutiques-restaurants/pokawa
 Odysseum,odysseum,France,PRIMARK,Mode,True,False,,,/boutiques-restaurants/primark
@@ -949,25 +949,25 @@ Odysseum,odysseum,France,Popeyes,Restauration,True,False,,,/boutiques-restaurant
 Odysseum,odysseum,France,Pull & Bear,Mode,True,False,,,/boutiques-restaurants/pull-bear
 Odysseum,odysseum,France,Pomme de Pain,Autre,True,True,,,/boutiques-restaurants/pomme-de-pain
 Odysseum,odysseum,France,Pirates Paradise,Autre,True,False,,,/boutiques-restaurants/pirates-paradise
-Odysseum,odysseum,France,Planet Ocean,Autre,True,False,,,/boutiques-restaurants/planet-ocean
+Odysseum,odysseum,France,Planet Ocean,Divertissement,True,False,,,/boutiques-restaurants/planet-ocean
 Odysseum,odysseum,France,Palais des Thés,Autre,True,True,,,/boutiques-restaurants/palais-des-thes
 Odysseum,odysseum,France,Quiksilver/Roxy,Autre,True,True,,,/boutiques-restaurants/roxy
 Odysseum,odysseum,France,QUICK,Restauration,True,False,,,/boutiques-restaurants/quick
 Odysseum,odysseum,France,RougeGorge,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/rougegorge
-Odysseum,odysseum,France,Rosemarine,Autre,True,False,,,/boutiques-restaurants/rosemarine
+Odysseum,odysseum,France,Rosemarine,Mode,True,False,,,/boutiques-restaurants/rosemarine
 Odysseum,odysseum,France,Rituals,Autre,True,False,,,/boutiques-restaurants/rituals
 Odysseum,odysseum,France,Sephora,Santé & Beauté,True,False,,,/boutiques-restaurants/sephora
 Odysseum,odysseum,France,Swarovski,Mode,True,False,,,/boutiques-restaurants/swarovski
 Odysseum,odysseum,France,Sunglass Hut,Autre,True,False,,,/boutiques-restaurants/sunglass-hut
-Odysseum,odysseum,France,Sud express,Autre,True,False,,,/boutiques-restaurants/sud-express
+Odysseum,odysseum,France,Sud express,Mode,True,False,,,/boutiques-restaurants/sud-express
 Odysseum,odysseum,France,Subway,Restauration,True,False,,,/boutiques-restaurants/subway
-Odysseum,odysseum,France,Stradivarius,Autre,True,False,,,/boutiques-restaurants/stradivarius
+Odysseum,odysseum,France,Stradivarius,Mode,True,False,,,/boutiques-restaurants/stradivarius
 Odysseum,odysseum,France,Tommy Hilfiger,Mode,True,False,,,/boutiques-restaurants/tommy-hilfiger
-Odysseum,odysseum,France,Twist'Air,Autre,True,True,,,/boutiques-restaurants/twist-air
+Odysseum,odysseum,France,Twist'Air,Divertissement,True,True,,,/boutiques-restaurants/twist-air
 Odysseum,odysseum,France,Under The Sea,Autre,True,False,,,/boutiques-restaurants/under-the-sea
 Odysseum,odysseum,France,WYCON,Autre,True,False,,,/boutiques-restaurants/wycon
 Odysseum,odysseum,France,Waffle Factory,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/waffle-factory
-Odysseum,odysseum,France,YOU JUMP!,Autre,True,False,,,/boutiques-restaurants/you-jump
+Odysseum,odysseum,France,YOU JUMP!,Divertissement,True,False,,,/boutiques-restaurants/you-jump
 Odysseum,odysseum,France,Yogurt Factory,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/yogurt-factory
 Odysseum,odysseum,France,Zara,Mode,True,False,,,/boutiques-restaurants/zara
 Odysseum,odysseum,France,Zumo,Autre,True,False,,,/boutiques-restaurants/zumo
@@ -984,15 +984,15 @@ Grand Place,grand-place,France,Bijou Brigitte,"Culture, Loisirs & Cadeaux",True,
 Grand Place,grand-place,France,Burger King,Restauration,True,False,,,/boutiques-restaurants/burger-king
 Grand Place,grand-place,France,Balaboosté,Autre,True,True,,,/boutiques-restaurants/balabooste
 Grand Place,grand-place,France,Bouygues Telecom,Services,True,False,,,/boutiques-restaurants/bouygues-telecom
-Grand Place,grand-place,France,Bonobo,Autre,True,True,,,/boutiques-restaurants/bonobo
+Grand Place,grand-place,France,Bonobo,Mode,True,True,,,/boutiques-restaurants/bonobo
 Grand Place,grand-place,France,Bibliothèque Kateb Yacine,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/bibliotheque-kateb-yacine
 Grand Place,grand-place,France,Bershka,Mode,True,False,,,/boutiques-restaurants/bershka
 Grand Place,grand-place,France,Chikin Bang,Restauration,True,False,,,/boutiques-restaurants/chikin-bang
 Grand Place,grand-place,France,CINNAROLLS,Autre,True,False,,,/boutiques-restaurants/cinnarolls
 Grand Place,grand-place,France,crêpe touch',Autre,True,False,,,/boutiques-restaurants/crepe-touch
 Grand Place,grand-place,France,Chamas Tacos,Autre,True,False,,,/boutiques-restaurants/chamas-tacos
-Grand Place,grand-place,France,chausséa,Autre,True,True,,,/boutiques-restaurants/chaussea
-Grand Place,grand-place,France,Cactus,Autre,True,False,,,/boutiques-restaurants/cactus
+Grand Place,grand-place,France,chausséa,Mode,True,True,,,/boutiques-restaurants/chaussea
+Grand Place,grand-place,France,Cactus,Mode,True,False,,,/boutiques-restaurants/cactus
 Grand Place,grand-place,France,Crêp'eat,Autre,True,False,,,/boutiques-restaurants/crep-eat
 Grand Place,grand-place,France,Courir,Mode,True,False,,,/boutiques-restaurants/courir
 Grand Place,grand-place,France,Cleor,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/cleor
@@ -1000,7 +1000,7 @@ Grand Place,grand-place,France,Claire's,"Culture, Loisirs & Cadeaux",True,False,
 Grand Place,grand-place,France,Celio,Mode,True,False,,,/boutiques-restaurants/celio
 Grand Place,grand-place,France,Caroll,Mode,True,False,,,/boutiques-restaurants/caroll
 Grand Place,grand-place,France,Calzedonia,Mode,True,False,,,/boutiques-restaurants/calzedonia
-Grand Place,grand-place,France,Cache-Cache,Autre,True,True,,,/boutiques-restaurants/cache-cache
+Grand Place,grand-place,France,Cache-Cache,Mode,True,True,,,/boutiques-restaurants/cache-cache
 Grand Place,grand-place,France,Devred,Mode,True,False,,,/boutiques-restaurants/devred
 Grand Place,grand-place,France,Emilie and the cool kids,Autre,True,False,,,/boutiques-restaurants/emilie-and-the-cool-kids
 Grand Place,grand-place,France,Etam,Mode,True,False,,,/boutiques-restaurants/etam
@@ -1009,13 +1009,13 @@ Grand Place,grand-place,France,Free,Services,True,True,,,/boutiques-restaurants/
 Grand Place,grand-place,France,Foot Locker,Mode,True,False,,,/boutiques-restaurants/foot-locker
 Grand Place,grand-place,France,Fnac,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/fnac
 Grand Place,grand-place,France,Générale d'Optique,Santé & Beauté,True,False,,,/boutiques-restaurants/generale-d-optique
-Grand Place,grand-place,France,Gandy,Autre,True,False,,,/boutiques-restaurants/gandy
+Grand Place,grand-place,France,Gandy,Mode,True,False,,,/boutiques-restaurants/gandy
 Grand Place,grand-place,France,Gomu,Autre,True,False,,,/boutiques-restaurants/gomu
 Grand Place,grand-place,France,Histoire d'Or,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/histoire-d-or-montres
 Grand Place,grand-place,France,H&M,Mode,True,False,,,/boutiques-restaurants/h-m
 Grand Place,grand-place,France,Intersport,Mode,True,False,,,/boutiques-restaurants/go-sport
 Grand Place,grand-place,France,JD Sports,Mode,True,False,,,/boutiques-restaurants/jd-sports
-Grand Place,grand-place,France,jack & jones,Autre,True,True,,,/boutiques-restaurants/jack-and-jones
+Grand Place,grand-place,France,jack & jones,Mode,True,True,,,/boutiques-restaurants/jack-and-jones
 Grand Place,grand-place,France,Jules,Mode,True,False,,,/boutiques-restaurants/jules
 Grand Place,grand-place,France,Jeff de Bruges,Autre,True,True,,,/boutiques-restaurants/jeff-de-bruges
 Grand Place,grand-place,France,KR INSPIRATION,Autre,True,False,,,/boutiques-restaurants/kr-inspiration
@@ -1037,7 +1037,7 @@ Grand Place,grand-place,France,Lunicco,Autre,True,False,,,/boutiques-restaurants
 Grand Place,grand-place,France,La Croissanterie,Autre,True,False,,,/boutiques-restaurants/la-croissanterie
 Grand Place,grand-place,France,Lovisa,Autre,True,True,,,/boutiques-restaurants/lovisa
 Grand Place,grand-place,France,Louis Pion,Autre,True,False,,,/boutiques-restaurants/louis-pion
-Grand Place,grand-place,France,Le Temps des Cerises,Autre,True,False,,,/boutiques-restaurants/le-temps-des-cerises
+Grand Place,grand-place,France,Le Temps des Cerises,Mode,True,False,,,/boutiques-restaurants/le-temps-des-cerises
 Grand Place,grand-place,France,LEGO STORE,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/lego_store
 Grand Place,grand-place,France,Le Comptoir de Mathilde,Autre,True,False,,,/boutiques-restaurants/le-comptoir-de-mathilde
 Grand Place,grand-place,France,Lavage Auto SLA Isère,Services,True,True,,,/boutiques-restaurants/lavage-auto-sla-isere
@@ -1053,9 +1053,9 @@ Grand Place,grand-place,France,Noélie,Autre,True,False,,,/boutiques-restaurants
 Grand Place,grand-place,France,Nocibé,Autre,True,False,,,/boutiques-restaurants/nocibe
 Grand Place,grand-place,France,Nature & Découvertes,Santé & Beauté,True,False,,,/boutiques-restaurants/nature-decouvertes
 Grand Place,grand-place,France,Orange,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/orange
-Grand Place,grand-place,France,ONLY,Autre,True,False,,,/boutiques-restaurants/only
+Grand Place,grand-place,France,ONLY,Mode,True,False,,,/boutiques-restaurants/only
 Grand Place,grand-place,France,Originel,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/originel
-Grand Place,grand-place,France,Okaïdi,Autre,True,True,,,/boutiques-restaurants/okaidi
+Grand Place,grand-place,France,Okaïdi,Mode,True,True,,,/boutiques-restaurants/okaidi
 Grand Place,grand-place,France,Poke House,Autre,True,False,,,/boutiques-restaurants/poke-house
 Grand Place,grand-place,France,Pandora,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/pandora
 Grand Place,grand-place,France,primark,Mode,True,False,,,/boutiques-restaurants/primark
@@ -1066,17 +1066,17 @@ Grand Place,grand-place,France,Poulet Braisé,Autre,True,True,,,/boutiques-resta
 Grand Place,grand-place,France,popeyes,Restauration,True,False,,,/boutiques-restaurants/popeyes
 Grand Place,grand-place,France,Pimkie,Mode,True,False,,,/boutiques-restaurants/pimkie
 Grand Place,grand-place,France,Pharmacie Grand Place,Santé & Beauté,True,False,,,/boutiques-restaurants/pharmacie-grand-place
-Grand Place,grand-place,France,PARFOIS,Autre,True,False,,,/boutiques-restaurants/parfois
+Grand Place,grand-place,France,PARFOIS,Mode,True,False,,,/boutiques-restaurants/parfois
 Grand Place,grand-place,France,RougeGorge,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/rougegorge
 Grand Place,grand-place,France,RITUALS,Autre,True,False,,,/boutiques-restaurants/rituals
-Grand Place,grand-place,France,Skechers,Autre,True,False,,,/boutiques-restaurants/skechers
+Grand Place,grand-place,France,Skechers,Mode,True,False,,,/boutiques-restaurants/skechers
 Grand Place,grand-place,France,Sushi Way,Restauration,True,False,,,/boutiques-restaurants/sushi-way
 Grand Place,grand-place,France,Starbucks,Restauration,True,False,,,/boutiques-restaurants/starbucks
 Grand Place,grand-place,France,Swarovski,Mode,True,True,,,/boutiques-restaurants/swarovski
-Grand Place,grand-place,France,SNIPES,Autre,True,False,,,/boutiques-restaurants/snipes
+Grand Place,grand-place,France,SNIPES,Mode,True,False,,,/boutiques-restaurants/snipes
 Grand Place,grand-place,France,Sephora,Santé & Beauté,True,False,,,/boutiques-restaurants/sephora
 Grand Place,grand-place,France,SFR,Services,True,True,,,/boutiques-restaurants/espace-sfr
-Grand Place,grand-place,France,TEZENIS,Autre,True,False,,,/boutiques-restaurants/tezenis
+Grand Place,grand-place,France,TEZENIS,Mode,True,False,,,/boutiques-restaurants/tezenis
 Grand Place,grand-place,France,Undiz,Mode,True,False,,,/boutiques-restaurants/undiz
 Grand Place,grand-place,France,Wycon,Autre,True,False,,,/boutiques-restaurants/wycon
 Grand Place,grand-place,France,Waffle Factory,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/waffle-factory
@@ -1084,7 +1084,7 @@ Grand Place,grand-place,France,Wefix,Autre,True,False,,,/boutiques-restaurants/w
 Grand Place,grand-place,France,Yogurt Factory,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/yogurt-factory
 Grand Place,grand-place,France,Yves Rocher,Santé & Beauté,False,False,,,/boutiques-restaurants/yves-rocher
 Grand Place,grand-place,France,Zara,Mode,True,False,,,/boutiques-restaurants/zara
-L'Esplanade,l-esplanade,Belgique,America Today,Autre,True,False,,,/boutiques-restaurants/america-today
+L'Esplanade,l-esplanade,Belgique,America Today,Mode,True,False,,,/boutiques-restaurants/america-today
 L'Esplanade,l-esplanade,Belgique,AS Adventure,Autre,True,False,,,/boutiques-restaurants/as-adventure
 L'Esplanade,l-esplanade,Belgique,Australian,Autre,True,False,,,/boutiques-restaurants/australian
 L'Esplanade,l-esplanade,Belgique,April,Autre,True,True,,,/boutiques-restaurants/planet-parfum
@@ -1092,14 +1092,14 @@ L'Esplanade,l-esplanade,Belgique,Armand Thiery Homme,Mode,True,False,,,/boutique
 L'Esplanade,l-esplanade,Belgique,Alain Afflelou,Santé & Beauté,True,False,,,/boutiques-restaurants/alain-afflelou
 L'Esplanade,l-esplanade,Belgique,Adopt,Santé & Beauté,True,False,,,/boutiques-restaurants/adopt
 L'Esplanade,l-esplanade,Belgique,Base,Autre,True,False,,,/boutiques-restaurants/base
-L'Esplanade,l-esplanade,Belgique,Basic-Fit,Autre,True,False,,,/boutiques-restaurants/basic-fit
+L'Esplanade,l-esplanade,Belgique,Basic-Fit,Divertissement,True,False,,,/boutiques-restaurants/basic-fit
 L'Esplanade,l-esplanade,Belgique,Burger King,Restauration,True,False,,,/boutiques-restaurants/burger-king
 L'Esplanade,l-esplanade,Belgique,Brasserie de L'esplanade,Restauration,True,False,,,/boutiques-restaurants/brasserie-de-l-esplanade
 L'Esplanade,l-esplanade,Belgique,Black & White,Autre,True,False,,,/boutiques-restaurants/blackwhite
-L'Esplanade,l-esplanade,Belgique,Brice,Autre,True,False,,,/boutiques-restaurants/brice
+L'Esplanade,l-esplanade,Belgique,Brice,Mode,True,False,,,/boutiques-restaurants/brice
 L'Esplanade,l-esplanade,Belgique,Bershka,Mode,True,False,,,/boutiques-restaurants/bershka
 L'Esplanade,l-esplanade,Belgique,Confizz,Autre,True,False,,,/boutiques-restaurants/confizz
-L'Esplanade,l-esplanade,Belgique,Chaussures MANIET,Autre,True,False,,,/boutiques-restaurants/chaussures-maniet
+L'Esplanade,l-esplanade,Belgique,Chaussures MANIET,Mode,True,False,,,/boutiques-restaurants/chaussures-maniet
 L'Esplanade,l-esplanade,Belgique,Chitir Chicken,Mode,True,True,,,/boutiques-restaurants/chitir-chicken
 L'Esplanade,l-esplanade,Belgique,Courir,Mode,True,False,,,/boutiques-restaurants/courir
 L'Esplanade,l-esplanade,Belgique,Comptoir du linge,Autre,True,True,,,/boutiques-restaurants/comptoir-du-linge
@@ -1112,7 +1112,7 @@ L'Esplanade,l-esplanade,Belgique,Calzedonia,Mode,True,False,,,/boutiques-restaur
 L'Esplanade,l-esplanade,Belgique,C&A,Mode,True,False,,,/boutiques-restaurants/c-a
 L'Esplanade,l-esplanade,Belgique,Di Beauty&Care,Santé & Beauté,True,True,,,/boutiques-restaurants/di-beauty-care
 L'Esplanade,l-esplanade,Belgique,Delhaize,Autre,True,False,,,/boutiques-restaurants/delhaize
-L'Esplanade,l-esplanade,Belgique,Delcambe,Autre,True,False,,,/boutiques-restaurants/delcambe
+L'Esplanade,l-esplanade,Belgique,Delcambe,Mode,True,False,,,/boutiques-restaurants/delcambe
 L'Esplanade,l-esplanade,Belgique,Dampshop,Autre,True,False,,,/boutiques-restaurants/dampshop
 L'Esplanade,l-esplanade,Belgique,EasyClothes,Mode,True,False,,,/boutiques-restaurants/easyclothes
 L'Esplanade,l-esplanade,Belgique,Exki (Rue Charlemagne),Autre,True,False,,,/boutiques-restaurants/exki-rue-charlemagne
@@ -1124,7 +1124,7 @@ L'Esplanade,l-esplanade,Belgique,Flying Tiger,Autre,True,False,,,/boutiques-rest
 L'Esplanade,l-esplanade,Belgique,FNAC,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/fnac
 L'Esplanade,l-esplanade,Belgique,Geox,Mode,True,True,,,/boutiques-restaurants/geox
 L'Esplanade,l-esplanade,Belgique,Guapa,Autre,True,True,,,/boutiques-restaurants/guapa
-L'Esplanade,l-esplanade,Belgique,Gilance,Autre,True,False,,,/boutiques-restaurants/gilance
+L'Esplanade,l-esplanade,Belgique,Gilance,Mode,True,False,,,/boutiques-restaurants/gilance
 L'Esplanade,l-esplanade,Belgique,Gong Cha,Autre,True,False,,,/boutiques-restaurants/gong-cha
 L'Esplanade,l-esplanade,Belgique,GEORGE JOAILLIERS,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/george-joailliers
 L'Esplanade,l-esplanade,Belgique,H&M,Mode,True,False,,,/boutiques-restaurants/h-m
@@ -1137,11 +1137,11 @@ L'Esplanade,l-esplanade,Belgique,Intimissimi,Mode,True,False,,,/boutiques-restau
 L'Esplanade,l-esplanade,Belgique,Ici Paris XL,Autre,True,False,,,/boutiques-restaurants/ici-paris-xl
 L'Esplanade,l-esplanade,Belgique,Jimmy Fairly,Autre,True,False,,,/boutiques-restaurants/jimmy-fairly
 L'Esplanade,l-esplanade,Belgique,Jules,Mode,True,False,,,/boutiques-restaurants/jules
-L'Esplanade,l-esplanade,Belgique,Jack & Jones,Autre,True,True,,,/boutiques-restaurants/jack-jones
+L'Esplanade,l-esplanade,Belgique,Jack & Jones,Mode,True,True,,,/boutiques-restaurants/jack-jones
 L'Esplanade,l-esplanade,Belgique,Kusmi Tea,Restauration,True,True,,,/boutiques-restaurants/kusmi-tea
 L'Esplanade,l-esplanade,Belgique,KRUIDVAT,Autre,True,False,,,/boutiques-restaurants/kruidvat
 L'Esplanade,l-esplanade,Belgique,Kiko Milano,Santé & Beauté,True,False,,,/boutiques-restaurants/kiko
-L'Esplanade,l-esplanade,Belgique,Le Zèbre à Pois,Autre,True,False,,,/boutiques-restaurants/le-zap
+L'Esplanade,l-esplanade,Belgique,Le Zèbre à Pois,Mode,True,False,,,/boutiques-restaurants/le-zap
 L'Esplanade,l-esplanade,Belgique,L'Atelier d'Amaya,Autre,True,False,,,/boutiques-restaurants/l-atelier-d-amaya
 L'Esplanade,l-esplanade,Belgique,Le Comptoir de Mathilde,Autre,True,False,,,/boutiques-restaurants/le-comptoir-de-mathilde
 L'Esplanade,l-esplanade,Belgique,L.C. Coiffure,Autre,True,True,,,/boutiques-restaurants/l-c--coiffure
@@ -1149,30 +1149,30 @@ L'Esplanade,l-esplanade,Belgique,Lush,Santé & Beauté,True,False,,,/boutiques-r
 L'Esplanade,l-esplanade,Belgique,Lovisa,Autre,True,False,,,/boutiques-restaurants/lovisa
 L'Esplanade,l-esplanade,Belgique,Levi's,Mode,True,False,,,/boutiques-restaurants/levi-s
 L'Esplanade,l-esplanade,Belgique,Les Secrets du Chef,Autre,True,False,,,/boutiques-restaurants/les-secrets-du-chef
-L'Esplanade,l-esplanade,Belgique,Les Bourgeoises,Autre,True,False,,,/boutiques-restaurants/les-bourgeoises
+L'Esplanade,l-esplanade,Belgique,Les Bourgeoises,Mode,True,False,,,/boutiques-restaurants/les-bourgeoises
 L'Esplanade,l-esplanade,Belgique,Les Ateliers du linge,Autre,True,False,,,/boutiques-restaurants/les-ateliers-du-linge
-L'Esplanade,l-esplanade,Belgique,Le Royal Bowl RB,Autre,False,False,,,/boutiques-restaurants/le-royal-bowl-rb
+L'Esplanade,l-esplanade,Belgique,Le Royal Bowl RB,Divertissement,False,False,,,/boutiques-restaurants/le-royal-bowl-rb
 L'Esplanade,l-esplanade,Belgique,Leonidas,Restauration,True,False,,,/boutiques-restaurants/leonidas
 L'Esplanade,l-esplanade,Belgique,Lacoste,Mode,True,False,,,/boutiques-restaurants/lacoste
 L'Esplanade,l-esplanade,Belgique,La Chaise Longue,Autre,True,False,,,/boutiques-restaurants/la-chaise-longue
-L'Esplanade,l-esplanade,Belgique,Lab9,Autre,True,False,,,/boutiques-restaurants/easy-m
+L'Esplanade,l-esplanade,Belgique,Lab9,Mode,True,False,,,/boutiques-restaurants/easy-m
 L'Esplanade,l-esplanade,Belgique,Maison 123,Mode,True,False,,,/boutiques-restaurants/maison-123
 L'Esplanade,l-esplanade,Belgique,Monica Jane,Autre,True,False,,,/boutiques-restaurants/monica-jane
 L'Esplanade,l-esplanade,Belgique,Mister Minit,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/mister-minit
 L'Esplanade,l-esplanade,Belgique,Medi-Market,Autre,True,False,,,/boutiques-restaurants/medi-market
-L'Esplanade,l-esplanade,Belgique,Massimo Dutti,Autre,True,False,,,/boutiques-restaurants/massimo-dutti
+L'Esplanade,l-esplanade,Belgique,Massimo Dutti,Mode,True,False,,,/boutiques-restaurants/massimo-dutti
 L'Esplanade,l-esplanade,Belgique,Mango,Mode,True,False,,,/boutiques-restaurants/mango
 L'Esplanade,l-esplanade,Belgique,Maisons du Monde,Restauration,True,False,,,/boutiques-restaurants/maisons-du-monde
 L'Esplanade,l-esplanade,Belgique,Mac Cosmetics,Santé & Beauté,True,False,,,/boutiques-restaurants/mac-cosmetics
-L'Esplanade,l-esplanade,Belgique,Namaste,Autre,True,False,,,/boutiques-restaurants/namaste
+L'Esplanade,l-esplanade,Belgique,Namaste,Mode,True,False,,,/boutiques-restaurants/namaste
 L'Esplanade,l-esplanade,Belgique,Neuhaus,Autre,True,False,,,/boutiques-restaurants/neuhaus
 L'Esplanade,l-esplanade,Belgique,Nature & Découvertes,Santé & Beauté,True,False,,,/boutiques-restaurants/nature-decouvertes
 L'Esplanade,l-esplanade,Belgique,Orange,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/orange
-L'Esplanade,l-esplanade,Belgique,ONLY,Autre,True,False,,,/boutiques-restaurants/only
-L'Esplanade,l-esplanade,Belgique,Okaïdi,Autre,True,False,,,/boutiques-restaurants/okaidi
+L'Esplanade,l-esplanade,Belgique,ONLY,Mode,True,False,,,/boutiques-restaurants/only
+L'Esplanade,l-esplanade,Belgique,Okaïdi,Mode,True,False,,,/boutiques-restaurants/okaidi
 L'Esplanade,l-esplanade,Belgique,Oil & Vinegar,Supermarchés & Alimentaire,True,True,,,/boutiques-restaurants/oil-vinegar
 L'Esplanade,l-esplanade,Belgique,Poke House,Autre,True,False,,,/boutiques-restaurants/poke-house
-L'Esplanade,l-esplanade,Belgique,Prego!,Autre,True,False,,,/boutiques-restaurants/prego
+L'Esplanade,l-esplanade,Belgique,Prego!,Mode,True,False,,,/boutiques-restaurants/prego
 L'Esplanade,l-esplanade,Belgique,Paul,Restauration,True,False,,,/boutiques-restaurants/paul
 L'Esplanade,l-esplanade,Belgique,Panos,Autre,True,True,,,/boutiques-restaurants/panos
 L'Esplanade,l-esplanade,Belgique,Proximus RC,Autre,True,False,,,/boutiques-restaurants/proximus-rc
@@ -1183,18 +1183,18 @@ L'Esplanade,l-esplanade,Belgique,Pathé Louvain-la-Neuve,Santé & Beauté,True,F
 L'Esplanade,l-esplanade,Belgique,Pandora,"Culture, Loisirs & Cadeaux",True,False,,,/boutiques-restaurants/pandora
 L'Esplanade,l-esplanade,Belgique,Palais des Thés,Autre,True,True,,,/boutiques-restaurants/palais-des-thes
 L'Esplanade,l-esplanade,Belgique,Quick,Restauration,True,False,,,/boutiques-restaurants/quick
-L'Esplanade,l-esplanade,Belgique,Riverwoods,Autre,True,False,,,/boutiques-restaurants/riverwoods
+L'Esplanade,l-esplanade,Belgique,Riverwoods,Mode,True,False,,,/boutiques-restaurants/riverwoods
 L'Esplanade,l-esplanade,Belgique,Rituals,Autre,True,False,,,/boutiques-restaurants/rituals
 L'Esplanade,l-esplanade,Belgique,Sostrene Grene,Autre,True,False,,,/boutiques-restaurants/sostrene-grene
-L'Esplanade,l-esplanade,Belgique,Superdry,Autre,True,False,,,/boutiques-restaurants/superdry
-L'Esplanade,l-esplanade,Belgique,Snipes,Autre,True,False,,,/boutiques-restaurants/snipes
+L'Esplanade,l-esplanade,Belgique,Superdry,Mode,True,False,,,/boutiques-restaurants/superdry
+L'Esplanade,l-esplanade,Belgique,Snipes,Mode,True,False,,,/boutiques-restaurants/snipes
 L'Esplanade,l-esplanade,Belgique,Tape à l'Œil,Mode,True,False,,,/boutiques-restaurants/tape-a-l-aeil
 L'Esplanade,l-esplanade,Belgique,Twice as Nice,Autre,True,False,,,/boutiques-restaurants/twice-as-nice
-L'Esplanade,l-esplanade,Belgique,Tezenis,Autre,True,False,,,/boutiques-restaurants/tezenis
+L'Esplanade,l-esplanade,Belgique,Tezenis,Mode,True,False,,,/boutiques-restaurants/tezenis
 L'Esplanade,l-esplanade,Belgique,Tequila,Autre,True,False,,,/boutiques-restaurants/tequila
 L'Esplanade,l-esplanade,Belgique,Undiz,Mode,True,False,,,/boutiques-restaurants/undiz
 L'Esplanade,l-esplanade,Belgique,Venizi,Autre,True,False,,,/boutiques-restaurants/venizi
-L'Esplanade,l-esplanade,Belgique,Veritas,Autre,True,False,,,/boutiques-restaurants/veritas
+L'Esplanade,l-esplanade,Belgique,Veritas,Mode,True,False,,,/boutiques-restaurants/veritas
 L'Esplanade,l-esplanade,Belgique,Woké Noodle Bar,Restauration,True,True,,,/boutiques-restaurants/woke-noodle-bar
 L'Esplanade,l-esplanade,Belgique,Wasbar,Autre,True,False,,,/boutiques-restaurants/wasbar
 L'Esplanade,l-esplanade,Belgique,Waffle Factory,"Culture, Loisirs & Cadeaux",True,True,,,/boutiques-restaurants/waffle-factory

@@ -61,14 +61,16 @@ def extract_category_from_page(driver, url):
         driver.get(url)
         time.sleep(DELAY)
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        text = soup.get_text(separator="|", strip=True).lower()
 
-        for kw, cat in KLEPIERRE_CATEGORIES.items():
-            pattern = r'\|' + re.escape(kw) + r'\|'
-            if re.search(pattern, text):
-                return cat
+        # Élément spécifique contenant la catégorie (pas le menu nav)
+        tag_el = soup.find("li", class_=lambda c: c and "ShopHeader_tag" in c)
+        if tag_el:
+            raw = tag_el.get_text(strip=True).lower()
+            for kw, cat in KLEPIERRE_CATEGORIES.items():
+                if kw in raw:
+                    return cat
         return "Autre"
-    except Exception as e:
+    except Exception:
         return "Autre"
 
 
